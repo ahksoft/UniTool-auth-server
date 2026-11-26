@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "S4 (X626)"
+codename: "s4_x626"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Infinix S4 (X626) (MT6765) — matched DA_Infinix_TYPE_1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+      preloader: "Preloader/preloader_Infinix_S4_X626.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+      preloader: "3fcc2c9d7e781d174704236b632806c2095f8a4c28e55918f66fe1eeb4a713af"

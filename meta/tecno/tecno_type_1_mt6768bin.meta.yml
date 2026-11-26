@@ -1,0 +1,13 @@
+vendor: "Tecno"
+model: "TYPE 1 MT6768bin (Generic SoC)"
+codename: "tecno_type_1_mt6768bin"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "Tecno TYPE 1 MT6768bin MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6768bin.bin"
+    checksums:
+      da: "e53011ed028d9166d9fed239b7fcb3c8a61d3cbfef6d5bcfd7c240397070260c"

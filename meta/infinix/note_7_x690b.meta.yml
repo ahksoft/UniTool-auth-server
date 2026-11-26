@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Note 7 (X690B)"
+codename: "note_7_x690b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Infinix Note 7 (X690B) (MT6768) — matched DA_Infinix_TYPE_1_MT6768bin.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6768bin.bin"
+      preloader: "Preloader/preloader_Infinix_Note_7_X690B.bin"
+    checksums:
+      da: "e53011ed028d9166d9fed239b7fcb3c8a61d3cbfef6d5bcfd7c240397070260c"
+      preloader: "efaa459184ba94e6e6905de61fbf3275bfacd372b092f279707c8c71a46cd5b5"

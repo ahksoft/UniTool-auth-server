@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 10X 4G M2003J15SC"
+codename: "redmi_10x_4g_m2003j15sc_m2003j15sc"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Xiaomi Redmi 10X 4G M2003J15SC (MT6768) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_10X_4G_M2003J15SC.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "f293ee1932d673854968aeb64792c76abb61bd0defceec2f0813a5ff1e3b321b"

@@ -1,0 +1,29 @@
+vendor: "Vivo"
+model: "Y15s PD2140F"
+codename: "y15s_pd2140f_y15s"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Auth + Preloader"
+    description: "Vivo Y15s PD2140F (MT6765) — matched DA_Extras_laoder.bin + Auth + device preloader"
+    files:
+      da: "DA_Extras_laoder.bin"
+      preloader: "Preloader/preloader_Vivo_Y01_PD2140F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "f8264f1ea232e6766d08c8eedf11162a1d5d9bd6f4474f52ba3405ecd65b8ccc"
+      preloader: "adf58ec127b4e4c2468447c9de2a2c4186805929f645bd0e4c3c76e4a0390552"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
+  - id: 1
+    default: false
+    name: "MT6765 Vivo 2024 V5 DA + Auth + Preloader"
+    description: "Vivo Y15s PD2140F (MT6765) — Vivo 2024 All-In-One DA v5.5001 + SV5 Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_Y01_PD2140F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "adf58ec127b4e4c2468447c9de2a2c4186805929f645bd0e4c3c76e4a0390552"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

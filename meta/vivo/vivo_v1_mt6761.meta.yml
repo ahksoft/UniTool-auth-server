@@ -1,0 +1,15 @@
+vendor: "Vivo"
+model: "V1 MT6761 (Generic SoC)"
+codename: "vivo_v1_mt6761"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA + Auth"
+    description: "Vivo V1 MT6761 MTK V5 DA with SV5 Auth (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_VIVO_V1_MT6761.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "6ad9d4a9934754e002c6ae9a7ad078ac724a1579ba50877c36087543c8426c72"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

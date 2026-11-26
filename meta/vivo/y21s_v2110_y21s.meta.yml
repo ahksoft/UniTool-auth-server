@@ -1,0 +1,29 @@
+vendor: "Vivo"
+model: "Y21s V2110"
+codename: "y21s_v2110_y21s"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Auth + Preloader"
+    description: "Vivo Y21s V2110 (MT6768) — matched DA_VIVO_V1_MT6768.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V1_MT6768.bin"
+      preloader: "Preloader/preloader_Vivo_Y21s_V2110.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "7e50a92355cfd399e79eb1f2e97a81ade52ce1604cdd8eb40e538f69968bdc07"
+      preloader: "4ee5b7693614d8974136d4c2e8525c1f9c89e97a1fcbd0aa4688d66d40a537b8"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
+  - id: 1
+    default: false
+    name: "MT6768 Vivo 2024 V5 DA + Auth + Preloader"
+    description: "Vivo Y21s V2110 (MT6768) — Vivo 2024 All-In-One DA v5.5001 + SV5 Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_Y21s_V2110.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "4ee5b7693614d8974136d4c2e8525c1f9c89e97a1fcbd0aa4688d66d40a537b8"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

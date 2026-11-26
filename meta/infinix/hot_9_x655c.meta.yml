@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Hot 9 (X655C)"
+codename: "hot_9_x655c"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Infinix Hot 9 (X655C) (MT6765) — matched DA_Infinix_TYPE_1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+      preloader: "Preloader/preloader_Infinix_Hot_9_X655C.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+      preloader: "63bed792984d4d52eeacb4c4a4bceb0e01e5ce3d7de35d848fa7d96fe8beb44c"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M4 Pro 5G evergreen"
+codename: "poco_m4_pro_5g_evergreen_poco_m4_pro_5g_ever"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6781 DA + Preloader"
+    description: "Xiaomi Poco M4 Pro 5G evergreen (MT6781) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Poco_M4_Pro_5G_evergreen.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "47ab541a22f38dd94ec438fd3d9c46ef3947c08bc85c447718704accf40d2dc3"

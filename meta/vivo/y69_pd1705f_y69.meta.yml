@@ -1,0 +1,17 @@
+vendor: "Vivo"
+model: "Y69 PD1705F"
+codename: "y69_pd1705f_y69"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Auth + Preloader"
+    description: "Vivo Y69 PD1705F (MT6750) — matched DA_VIVO_V5_download.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_Y69_PD1705F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "bce9239e03f72665a5ec593c711cc8b600a410822d07d4e85f4de7c656053065"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

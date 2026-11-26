@@ -1,0 +1,15 @@
+vendor: "Asus"
+model: "Zenfone 3s Max (ZC521TL X00GD)"
+codename: "zenfone_3s_max_zc521tl_x00gd"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Preloader"
+    description: "Asus Zenfone 3s Max (ZC521TL X00GD) (MT6750) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Asus_Zenfone_3s_Max_ZC521TL_X00GD.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "7d0f5fa216239134f652fc559cf4961981f778c9b40564449773922bea0f0d17"

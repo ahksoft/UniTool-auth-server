@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "A12 CPH2083"
+codename: "a12_cph2083_cph2083"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Oppo A12 CPH2083 (MT6765) — matched DA_OnePlus_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_OnePlus_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Oppo_A12_CPH2083.bin"
+    checksums:
+      da: "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+      preloader: "7c4169b624a679709bc52c2012a9672946f865d9510b5fc94c0cc5d0c5081459"

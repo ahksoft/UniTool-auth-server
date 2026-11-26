@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "Reno 6 5G CPH2251"
+codename: "reno_6_5g_cph2251_cph2251"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6877 DA + Preloader"
+    description: "Oppo Reno 6 5G CPH2251 (MT6877) — matched DA_OnePlus_V1_MT6877.bin + device preloader"
+    files:
+      da: "DA_OnePlus_V1_MT6877.bin"
+      preloader: "Preloader/preloader_Oppo_Reno_6_5G_CPH2251.bin"
+    checksums:
+      da: "015e20591443c34ffe69ff6e53a2303e8446ba6bb6467eedcc7af4ce2a3ba2fd"
+      preloader: "7bd11fa8323be19ecccac48e6f6d973a78a2f16b7902e62d57229e36e6329215"

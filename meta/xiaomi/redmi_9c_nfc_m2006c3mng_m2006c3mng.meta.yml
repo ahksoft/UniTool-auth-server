@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 9C NFC M2006C3MNG"
+codename: "redmi_9c_nfc_m2006c3mng_m2006c3mng"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Xiaomi Redmi 9C NFC M2006C3MNG (MT6765) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_9C_NFC_M2006C3MNG.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "9a182576496d18ece75272fe1e72d319ec3b45950f1bdc0f7e99a7510ea5fec9"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 9T M2010J19SG"
+codename: "redmi_9t_m2010j19sg_m2010j19sg"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Xiaomi Redmi 9T M2010J19SG (MT6765) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_9T_M2010J19SG.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "fee3c09aec1e25573ca2f1f5f736bbf710fcf290d1405f3b3f4d661dbe851d2f"

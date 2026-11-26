@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Note 11 (X663)"
+codename: "note_11_x663"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Infinix Note 11 (X663) (MT6768) — matched DA_Infinix_TYPE_1_MT6768bin.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6768bin.bin"
+      preloader: "Preloader/preloader_Infinix_Note_11_X663.bin"
+    checksums:
+      da: "e53011ed028d9166d9fed239b7fcb3c8a61d3cbfef6d5bcfd7c240397070260c"
+      preloader: "ab3f57aa3d9ddab68e148a8d9e596e75fbb8668c42281d07921c3ecc5ecb7f6b"

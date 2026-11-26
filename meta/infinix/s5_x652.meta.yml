@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "S5 (X652)"
+codename: "s5_x652"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Infinix S5 (X652) (MT6765) — matched DA_Infinix_TYPE_1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+      preloader: "Preloader/preloader_Infinix_S5_X652.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+      preloader: "8a0736f6ea8e7f6dcd01dab0878afd8cdd876abfada4e8e3b1d0562bf869ddc6"

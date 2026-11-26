@@ -1,0 +1,17 @@
+vendor: "Vivo"
+model: "iQOO Z1 5G PD1986A"
+codename: "iqoo_z1_5g_pd1986a_pd1986a"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6885 DA + Auth + Preloader"
+    description: "Vivo iQOO Z1 5G PD1986A (MT6885) — matched DA_VIVO_V5_download.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_iQOO_Z1_5G_PD1986A.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "92b655cffa85cabaf373e68ab36f1f9b6700d87b7c7c3976c5950d895cc2962f"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

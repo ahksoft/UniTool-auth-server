@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "A15s CPH2179"
+codename: "a15s_cph2179_cph2179"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Oppo A15s CPH2179 (MT6765) — matched DA_OnePlus_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_OnePlus_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Oppo_A15s_CPH2179.bin"
+    checksums:
+      da: "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+      preloader: "c1405de003a7a8653d53a9372fa0dcae38a039d3d76eca5b126366f03a77006c"

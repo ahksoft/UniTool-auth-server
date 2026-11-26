@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco C3 angelica"
+codename: "poco_c3_angelica_poco_c3_angelica"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Xiaomi Poco C3 angelica (MT6765) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Poco_C3_angelica.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "c321bc30247711915ba83923d99bfd6f13c2fef6575dcd4b53ea50abe4f4066a"

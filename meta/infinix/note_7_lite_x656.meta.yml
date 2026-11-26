@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Note 7 Lite (X656)"
+codename: "note_7_lite_x656"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Infinix Note 7 Lite (X656) (MT6765) — matched DA_Infinix_TYPE_1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+      preloader: "Preloader/preloader_Infinix_Note_7_Lite_X656.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+      preloader: "4cf16945af447151dc177c8cd8973b841ae601f755126fc38995670682f945f3"

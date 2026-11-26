@@ -1,0 +1,29 @@
+vendor: "Vivo"
+model: "V23 5G PD2167F"
+codename: "v23_5g_pd2167f_pd2167f"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6877 DA + Auth + Preloader"
+    description: "Vivo V23 5G PD2167F (MT6877) — matched DA_VIVO_V1_MT6877.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V1_MT6877.bin"
+      preloader: "Preloader/preloader_Vivo_V23_5G_PD2167F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "250b0802f10b6d2d3a752f70b3c23a03344106455109e9d940b213be1d02b3d2"
+      preloader: "c6c29b9bbc2a7a22db19a8dd8743d10d073fc57fda13e527b88fa6ebaed07001"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
+  - id: 1
+    default: false
+    name: "MT6877 Vivo 2024 V5 DA + Auth + Preloader"
+    description: "Vivo V23 5G PD2167F (MT6877) — Vivo 2024 All-In-One DA v5.5001 + SV5 Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_V23_5G_PD2167F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "c6c29b9bbc2a7a22db19a8dd8743d10d073fc57fda13e527b88fa6ebaed07001"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

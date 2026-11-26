@@ -1,0 +1,15 @@
+vendor: "Huawei"
+model: "Y5 2019 AMN LX2"
+codename: "y5_2019_amn_lx2_y5"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6761 DA + Preloader"
+    description: "Huawei Y5 2019 AMN LX2 (MT6761) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Huawei_Y5_2019_AMN_LX2.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "5af1a77a9d14c75c23fc128f2f193c08c5b2c97add257627125c1cea602dcff2"

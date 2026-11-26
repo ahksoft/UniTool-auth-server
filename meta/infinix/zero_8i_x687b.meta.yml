@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Zero 8i (X687B)"
+codename: "zero_8i_x687b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6785 DA + Preloader"
+    description: "Infinix Zero 8i (X687B) (MT6785) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Infinix_Zero_8i_X687B.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "ec8ade7310b300dc800b47a54d4db7de769a32bd328c550d43a815973c3d662f"

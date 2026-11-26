@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Hot 9 (X680)"
+codename: "hot_9_x680"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6761 DA + Preloader"
+    description: "Infinix Hot 9 (X680) (MT6761) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Infinix_Hot_9_X680.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "f8aa366cb9307b6031d2da33840be35197221fbcc6b20ac4c32366c20f70c20e"

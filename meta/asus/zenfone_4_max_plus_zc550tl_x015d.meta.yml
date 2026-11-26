@@ -1,0 +1,15 @@
+vendor: "Asus"
+model: "Zenfone 4 Max Plus (ZC550TL X015D)"
+codename: "zenfone_4_max_plus_zc550tl_x015d"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Preloader"
+    description: "Asus Zenfone 4 Max Plus (ZC550TL X015D) (MT6750) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Asus_Zenfone_4_Max_Plus_ZC550TL_X015D.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "bb8b95d77999fee513b65972f1e75449db2fa4f8ccfbbc28ecd55c063925bb42"

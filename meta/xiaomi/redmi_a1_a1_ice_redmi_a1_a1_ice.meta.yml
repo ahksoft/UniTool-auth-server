@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi A1 A1+ Ice"
+codename: "redmi_a1_a1_ice_redmi_a1_a1_ice"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6761 DA + Preloader"
+    description: "Xiaomi Redmi A1 A1+ Ice (MT6761) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_A1_A1_Ice.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "899dad8fdd7375ca936bd2dd213406b16e0337462da3aa95392e4aeab73abc9c"

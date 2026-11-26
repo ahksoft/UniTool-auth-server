@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi K30 Ultra cezanne"
+codename: "redmi_k30_ultra_cezanne_redmi_k30_ultra_ceza"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6885 DA + Preloader"
+    description: "Xiaomi Redmi K30 Ultra cezanne (MT6885) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_cezanne.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "da560a9e566c72e0f055ed0f2f28d19adbf2f7b17e648ba2f7b6eac9ab9d5dd9"

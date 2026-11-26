@@ -1,0 +1,15 @@
+vendor: "Vivo"
+model: "V1 MT6768 (Generic SoC)"
+codename: "vivo_v1_mt6768"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA + Auth"
+    description: "Vivo V1 MT6768 MTK V5 DA with SV5 Auth (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_VIVO_V1_MT6768.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "7e50a92355cfd399e79eb1f2e97a81ade52ce1604cdd8eb40e538f69968bdc07"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

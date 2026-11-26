@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "F5 Youth CPH1725"
+codename: "f5_youth_cph1725_cph1725"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6763 DA + Preloader"
+    description: "Oppo F5 Youth CPH1725 (MT6763) — matched DA_Oppo_V6_download.bin + device preloader"
+    files:
+      da: "DA_Oppo_V6_download.bin"
+      preloader: "Preloader/preloader_Oppo_F5_Youth_CPH1725.bin"
+    checksums:
+      da: "96471e726fe2df28a2f16f73c1ed0dc0029aaa85e0fee55bfcd842712774c911"
+      preloader: "4887c7dfcab123dab9d0a4805088959113da94b93cac8974e6226799835cfa56"

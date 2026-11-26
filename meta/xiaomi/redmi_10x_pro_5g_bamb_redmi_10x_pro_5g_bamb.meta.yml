@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 10X Pro 5G bamb"
+codename: "redmi_10x_pro_5g_bamb_redmi_10x_pro_5g_bamb"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6873 DA + Preloader"
+    description: "Xiaomi Redmi 10X Pro 5G bamb (MT6873) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_bomb.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "83d9d9de462fb28691c1b0b8708627ce0be786fcfd932fa56d1a2f6d6524dfc7"

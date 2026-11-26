@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 9 lancelot"
+codename: "redmi_9_lancelot_redmi_9_lancelot"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Xiaomi Redmi 9 lancelot (MT6768) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_9_lancelot.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "d759abc60355d14bd643dea3199441853478d5758884f07ed67e1322bbf5a3eb"

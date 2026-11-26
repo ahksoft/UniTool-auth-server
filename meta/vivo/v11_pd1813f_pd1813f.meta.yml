@@ -1,0 +1,29 @@
+vendor: "Vivo"
+model: "V11 PD1813F"
+codename: "v11_pd1813f_pd1813f"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6771 DA + Auth + Preloader"
+    description: "Vivo V11 PD1813F (MT6771) — matched DA_VIVO_V1_MT6771.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V1_MT6771.bin"
+      preloader: "Preloader/preloader_Vivo_V11_PD1813F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "b6087167df81fd9b11d7939ca114cc5828c558023591ca27047603e3f8a34b22"
+      preloader: "47a6e229a29e5e0357d93d8acf9970ae9dd773ee11d8212ff425d30ca7d2e0e2"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
+  - id: 1
+    default: false
+    name: "MT6771 Vivo 2024 V5 DA + Auth + Preloader"
+    description: "Vivo V11 PD1813F (MT6771) — Vivo 2024 All-In-One DA v5.5001 + SV5 Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_V11_PD1813F.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "47a6e229a29e5e0357d93d8acf9970ae9dd773ee11d8212ff425d30ca7d2e0e2"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

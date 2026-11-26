@@ -1,0 +1,15 @@
+vendor: "Asus"
+model: "Zenfone 3 Max (ZC520TL X008D)"
+codename: "zenfone_3_max_zc520tl_x008d"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6737M DA + Preloader"
+    description: "Asus Zenfone 3 Max (ZC520TL X008D) (MT6737M) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Asus_Zenfone_3_Max_ZC520TL_X008D.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "1e2c7ecd9b98e75854c067aa3e73d83a404c8a90adb960eea289b937fc25809c"

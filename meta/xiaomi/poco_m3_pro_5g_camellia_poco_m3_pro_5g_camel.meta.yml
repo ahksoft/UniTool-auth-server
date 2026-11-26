@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M3 Pro 5G camellia"
+codename: "poco_m3_pro_5g_camellia_poco_m3_pro_5g_camel"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6833 DA + Preloader"
+    description: "Xiaomi Poco M3 Pro 5G camellia (MT6833) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Poco_M3_Pro_5G_camellia.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "8387400eb2b707eaa3401b427843e2120f65d827da43ae72f2f34d8b16e63d03"

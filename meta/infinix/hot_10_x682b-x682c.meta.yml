@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Hot 10 (X682B-X682C)"
+codename: "hot_10_x682b-x682c"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Infinix Hot 10 (X682B-X682C) (MT6768) — matched DA_Infinix_TYPE_1_MT6768bin.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6768bin.bin"
+      preloader: "Preloader/preloader_Infinix_Hot_10_X682B-X682C.bin"
+    checksums:
+      da: "e53011ed028d9166d9fed239b7fcb3c8a61d3cbfef6d5bcfd7c240397070260c"
+      preloader: "9c5506b7a5b9903cbcb64537f4aabc3b03dfad8bcfc9d13f77f54dda11628bfe"

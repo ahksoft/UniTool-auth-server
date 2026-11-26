@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 4 (MediaTek) Nikel"
+codename: "redmi_note_4_redmi_note_4_mediatek_nikel"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6797 DA + Preloader"
+    description: "Xiaomi Redmi Note 4 (MediaTek) Nikel (MT6797) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_Note_4_MediaTek_Nikel.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "786b48c3bf04c7e9d1dc97d0dffdeb179fd8324aafced55ec6628a2ce6f8fc5b"

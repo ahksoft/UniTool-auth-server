@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Zero 5 (X603)"
+codename: "zero_5_x603"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6757 DA + Preloader"
+    description: "Infinix Zero 5 (X603) (MT6757) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Infinix_Zero_5_X603.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "f2383febee3a84d008d702dbdd7ac71ad5e09df4d93a4c214eb4523d53530edd"

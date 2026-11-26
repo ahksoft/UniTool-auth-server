@@ -1,0 +1,17 @@
+vendor: "Vivo"
+model: "V3MA PD1524B"
+codename: "v3ma_pd1524b_pd1524b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Auth + Preloader"
+    description: "Vivo V3MA PD1524B (MT6750) — matched DA_VIVO_V5_download.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_V3MA_PD1524B.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "b5f3fd7164488bd2c99a1991a44f23f528ba51d7dd11c11f918204b5be97480a"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

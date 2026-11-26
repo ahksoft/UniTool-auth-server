@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "F9 CPH1881"
+codename: "f9_cph1881_cph1881"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6771 DA + Preloader"
+    description: "Oppo F9 CPH1881 (MT6771) — matched DA_Oppo_V6_download.bin + device preloader"
+    files:
+      da: "DA_Oppo_V6_download.bin"
+      preloader: "Preloader/preloader_Oppo_F9_CPH1881.bin"
+    checksums:
+      da: "96471e726fe2df28a2f16f73c1ed0dc0029aaa85e0fee55bfcd842712774c911"
+      preloader: "39ae269c2aa052a24cdbb3b5347076130274005f74d41e3c5043df2cb6513525"

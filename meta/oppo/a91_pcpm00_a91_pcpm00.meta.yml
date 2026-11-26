@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "A91 PCPM00"
+codename: "a91_pcpm00_a91_pcpm00"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6771 DA + Preloader"
+    description: "Oppo A91 PCPM00 (MT6771) — matched DA_Oppo_V6_download.bin + device preloader"
+    files:
+      da: "DA_Oppo_V6_download.bin"
+      preloader: "Preloader/preloader_Oppo_A9_PCPT00.bin"
+    checksums:
+      da: "96471e726fe2df28a2f16f73c1ed0dc0029aaa85e0fee55bfcd842712774c911"
+      preloader: "ef0a18860d8c8ce8a9e9093ed879cbe7982f403572a24c955bc90fe3124e1d35"

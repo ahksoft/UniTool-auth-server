@@ -1,0 +1,15 @@
+vendor: "Meizu"
+model: "unassigned"
+codename: "unassigned_unassigned"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6739 DA + Preloader"
+    description: "Meizu unassigned (MT6739) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_unassigned.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "6b140324868246edc42a5c36acfb709ed9c07f3c34562b69e5cd129d20045533"

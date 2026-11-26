@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 9A dandelion"
+codename: "redmi_9a_dandelion_redmi_9a_dandelion"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Xiaomi Redmi 9A dandelion (MT6765) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Redmi_9A_dandelion.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "2d94fdefa5d0cd42dc1b877852e953b60423856ec1d5a62b77a3aff90d00922a"

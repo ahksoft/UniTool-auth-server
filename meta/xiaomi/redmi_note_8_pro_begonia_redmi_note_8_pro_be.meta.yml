@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 8 Pro begonia"
+codename: "redmi_note_8_pro_begonia_redmi_note_8_pro_be"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6785 DA + Preloader"
+    description: "Xiaomi Redmi Note 8 Pro begonia (MT6785) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_angelican.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "90236e58b962efbda27607e06e177e7897196cc7cb19b9ca04d1246a3a84baec"

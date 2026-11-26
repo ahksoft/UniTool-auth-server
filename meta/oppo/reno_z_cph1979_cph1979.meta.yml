@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "Reno Z CPH1979"
+codename: "reno_z_cph1979_cph1979"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6779 DA + Preloader"
+    description: "Oppo Reno Z CPH1979 (MT6779) — matched DA_Oppo_V6_download.bin + device preloader"
+    files:
+      da: "DA_Oppo_V6_download.bin"
+      preloader: "Preloader/preloader_Oppo_Reno_Z_CPH1979.bin"
+    checksums:
+      da: "96471e726fe2df28a2f16f73c1ed0dc0029aaa85e0fee55bfcd842712774c911"
+      preloader: "a3f1c5651071d0dee645de62251d385e1b9a4055d700dac993e9c39997caedb9"

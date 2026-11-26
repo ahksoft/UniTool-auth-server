@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco X3 GT 21061110AG"
+codename: "poco_x3_gt_21061110ag_poco_x3_gt_21061110ag"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6893 DA + Preloader"
+    description: "Xiaomi Poco X3 GT 21061110AG (MT6893) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "Preloader/preloader_Xiaomi_Poco_X3_GT_21061110AG.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "e3037c202fa158aa6d6d5cf9ae00fd4e852d4653c5bb0d2e908a23b4a1ee13ad"

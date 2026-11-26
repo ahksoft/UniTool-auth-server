@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "A31 CPH2015"
+codename: "a31_cph2015_cph2015"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Oppo A31 CPH2015 (MT6765) — matched DA_OnePlus_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_OnePlus_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Oppo_A31_CPH2015.bin"
+    checksums:
+      da: "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+      preloader: "3fa2c94b0edb2ee9d24e6cd51e9be04077f4541cdbaf754963db728de5a5920e"

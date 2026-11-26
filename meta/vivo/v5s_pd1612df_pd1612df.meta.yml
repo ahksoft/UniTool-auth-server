@@ -1,0 +1,17 @@
+vendor: "Vivo"
+model: "V5S PD1612DF"
+codename: "v5s_pd1612df_pd1612df"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Auth + Preloader"
+    description: "Vivo V5S PD1612DF (MT6750) — matched DA_VIVO_V5_download.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_V5S_PD1612DF.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "bf719ac5b69164613dd48ecd5c8470de4c8e24aefde378d4f7fea0efd07383c1"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

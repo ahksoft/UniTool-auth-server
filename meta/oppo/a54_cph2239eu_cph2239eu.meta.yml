@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "A54 CPH2239EU"
+codename: "a54_cph2239eu_cph2239eu"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Oppo A54 CPH2239EU (MT6765) — matched DA_OnePlus_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_OnePlus_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Oppo_A54_CPH2239EU.bin"
+    checksums:
+      da: "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+      preloader: "132b9ad7a80d345fea67589e3fc4255ad4b6953ebe82949502e5843c8539cd1e"

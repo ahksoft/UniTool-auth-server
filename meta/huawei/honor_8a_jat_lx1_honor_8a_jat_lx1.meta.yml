@@ -1,0 +1,15 @@
+vendor: "Huawei"
+model: "Honor 8A JAT LX1"
+codename: "honor_8a_jat_lx1_honor_8a_jat_lx1"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6761 DA + Preloader"
+    description: "Huawei Honor 8A JAT LX1 (MT6761) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Huawei_Honor_8A_JAT_AL00.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "9b9e4f33a7a2d9e8f6d4e2cd8f700fdd6b23f9239a33b796e2e38299d55839e4"

@@ -1,0 +1,15 @@
+vendor: "Huawei"
+model: "Y6S JAT L29"
+codename: "y6s_jat_l29_y6s"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Huawei Y6S JAT L29 (MT6765) — matched DA_Huawei_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Huawei_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Huawei_Y6S_JAT_L29.bin"
+    checksums:
+      da: "b18338843dc65ca61d4c507878e78fae729c8c8a7d91f5e086306849c8821922"
+      preloader: "5be3a1603e767c703e241f3d681cc8863ec94f60c7419618e6140eb0cb6c94e4"

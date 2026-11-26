@@ -1,0 +1,15 @@
+vendor: "Asus"
+model: "Zenfone Max Plus M1 (ZB570TL X018DC)"
+codename: "zenfone_max_plus_m1_zb570tl_x018dc"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Preloader"
+    description: "Asus Zenfone Max Plus M1 (ZB570TL X018DC) (MT6750) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Asus_Zenfone_Max_Plus_M1_ZB570TL_X018DC.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "8b69e648848fa4bfe5f995ab7475318dadf6e92c15847ae801b722c3d1443d21"

@@ -1,0 +1,13 @@
+vendor: "Samsung"
+model: "download (Generic SoC)"
+codename: "samsung_download"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "Samsung download MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_AllInOne_MTK_AllInOne_DA_2.bin"
+    checksums:
+      da: "9cbf39f3925fe88d18bd4c4e45dd1c01741bf7a31a4f69252dfb318d229c0346"

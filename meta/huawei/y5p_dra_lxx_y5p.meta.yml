@@ -1,0 +1,15 @@
+vendor: "Huawei"
+model: "Y5P DRA LXX"
+codename: "y5p_dra_lxx_y5p"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Huawei Y5P DRA LXX (MT6765) — matched DA_Huawei_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Huawei_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Huawei_Y5P_DRA_LXX.bin"
+    checksums:
+      da: "b18338843dc65ca61d4c507878e78fae729c8c8a7d91f5e086306849c8821922"
+      preloader: "3ab3cfa128a4841b79b8b1dc774ec2143e5a4cf6fe367302e681d7a451e99496"

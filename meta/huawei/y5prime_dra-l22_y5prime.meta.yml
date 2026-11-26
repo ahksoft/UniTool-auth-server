@@ -1,0 +1,15 @@
+vendor: "Huawei"
+model: "Y5Prime DRA-L22"
+codename: "y5prime_dra-l22_y5prime"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6739 DA + Preloader"
+    description: "Huawei Y5Prime DRA-L22 (MT6739) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Huawei_Y5Prime_DRA-L22.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "8a2ee332f5f7eb2c90538cb8c4b145edcd62c69641063804d708b48db8c4e0fb"

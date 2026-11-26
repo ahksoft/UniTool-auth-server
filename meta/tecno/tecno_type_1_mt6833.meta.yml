@@ -1,0 +1,13 @@
+vendor: "Tecno"
+model: "TYPE 1 MT6833 (Generic SoC)"
+codename: "tecno_type_1_mt6833"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "Tecno TYPE 1 MT6833 MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6833.bin"
+    checksums:
+      da: "cf951e09d5ace4a672aee1cf3bf96da2bff0b7036783a47cf576eb2f43ee3781"

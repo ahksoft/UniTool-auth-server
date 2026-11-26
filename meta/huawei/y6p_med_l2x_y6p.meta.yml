@@ -1,0 +1,15 @@
+vendor: "Huawei"
+model: "Y6P MED L2X"
+codename: "y6p_med_l2x_y6p"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Huawei Y6P MED L2X (MT6765) — matched DA_Huawei_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Huawei_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Huawei_Y6P_MED_L2X.bin"
+    checksums:
+      da: "b18338843dc65ca61d4c507878e78fae729c8c8a7d91f5e086306849c8821922"
+      preloader: "24d92b4c4c715b4e382efdbda353dc0d656e3b483fe75294c56589a2371de884"

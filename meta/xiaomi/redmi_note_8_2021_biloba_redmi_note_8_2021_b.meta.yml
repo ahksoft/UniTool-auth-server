@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 8 2021 biloba"
+codename: "redmi_note_8_2021_biloba_redmi_note_8_2021_b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Xiaomi Redmi Note 8 2021 biloba (MT6768) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_biloba.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "b68974ca79ccc6b6533681b5394df710e2110f06572899a6cc2919abe5949748"

@@ -1,0 +1,17 @@
+vendor: "Vivo"
+model: "Y67 PD1612"
+codename: "y67_pd1612_y67"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6750 DA + Auth + Preloader"
+    description: "Vivo Y67 PD1612 (MT6750) — matched DA_VIVO_V5_download.bin + Auth + device preloader"
+    files:
+      da: "DA_VIVO_V5_download.bin"
+      preloader: "Preloader/preloader_Vivo_Y67_PD1612.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "a6fe364b674b9373ae606effaf25ba7cb397f857bb2941ff036fd455ebd7d286"
+      preloader: "e5e65c44cf46800efdb17fb89cf20a484ecc39579d6cb50e924e9e2929b27d9e"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"

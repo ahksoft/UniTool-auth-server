@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Note 8 (X692)"
+codename: "note_8_x692"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6768 DA + Preloader"
+    description: "Infinix Note 8 (X692) (MT6768) — matched DA_Infinix_TYPE_1_MT6768bin.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6768bin.bin"
+      preloader: "Preloader/preloader_Infinix_Note_8_X692.bin"
+    checksums:
+      da: "e53011ed028d9166d9fed239b7fcb3c8a61d3cbfef6d5bcfd7c240397070260c"
+      preloader: "3add80302fc7d1d14d1c4f58f93b69b5ccbb81b92398318f0a2fc19579bd60c7"

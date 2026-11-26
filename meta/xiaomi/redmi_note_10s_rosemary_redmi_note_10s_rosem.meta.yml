@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 10S rosemary"
+codename: "redmi_note_10s_rosemary_redmi_note_10s_rosem"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6785 DA + Preloader"
+    description: "Xiaomi Redmi Note 10S rosemary (MT6785) — matched DA_6765_6785_6768_6873_6885_6853.bin + device preloader"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_rosemary.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "1125e07ddb706e6c6378e502e6be354c9677e863c7118dd6bf0ba80441f30cb4"

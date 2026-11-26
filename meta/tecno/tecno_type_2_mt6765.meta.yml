@@ -1,0 +1,13 @@
+vendor: "Tecno"
+model: "TYPE 2 MT6765 (Generic SoC)"
+codename: "tecno_type_2_mt6765"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "Tecno TYPE 2 MT6765 MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_TYPE_2_MT6765.bin"
+    checksums:
+      da: "cc8efd1429d43eff01e2cd994d5d9fe12476fed9f8eb90e65b97f204fcb2170f"

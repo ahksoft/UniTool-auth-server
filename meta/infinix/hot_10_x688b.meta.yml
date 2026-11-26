@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Hot 10 (X688B)"
+codename: "hot_10_x688b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Infinix Hot 10 (X688B) (MT6765) — matched DA_Infinix_TYPE_1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+      preloader: "Preloader/preloader_Infinix_Hot_10_X688B.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+      preloader: "22ff08ea8a2441ad3afd660b2daf85655faea8cbf8dcec35bc85d3d9036e33e9"

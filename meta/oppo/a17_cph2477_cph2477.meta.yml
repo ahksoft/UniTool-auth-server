@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "A17 CPH2477"
+codename: "a17_cph2477_cph2477"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Oppo A17 CPH2477 (MT6765) — matched DA_OnePlus_V1_MT6765.bin + device preloader"
+    files:
+      da: "DA_OnePlus_V1_MT6765.bin"
+      preloader: "Preloader/preloader_Oppo_A17_CPH2477.bin"
+    checksums:
+      da: "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+      preloader: "7185af7efe52b469408ad7742aa7de3e4d767fc1a8a4bb3083c103338d08a283"

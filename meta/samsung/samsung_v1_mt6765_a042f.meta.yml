@@ -1,0 +1,13 @@
+vendor: "Samsung"
+model: "V1 MT6765 A042F (Generic SoC)"
+codename: "samsung_v1_mt6765_a042f"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "Samsung V1 MT6765 A042F MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_SAMSUNG_V1_MT6765_A042F.bin"
+    checksums:
+      da: "de266e0832bb79a38276a692b882e239baaa79c1a11066b8d5fd271417b7f434"

@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Smart 7 (X6515)"
+codename: "smart_7_x6515"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6761 DA + Preloader"
+    description: "Infinix Smart 7 (X6515) (MT6761) — matched MTK_DA_V5.bin + device preloader"
+    files:
+      da: "MTK_DA_V5.bin"
+      preloader: "Preloader/preloader_Infinix_Smart_7_X6515.bin"
+    checksums:
+      da: "aef234190ccb8145d2e3b8459741e9adb70f2caa8481aa216c1b25152afaca1f"
+      preloader: "cfafe877f1b8fc3f20cb5aa94141101d55aad68c17b2a87e47ae2eb74c6bdc06"

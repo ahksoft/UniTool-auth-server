@@ -1,0 +1,15 @@
+vendor: "Oppo"
+model: "F17 Pro CPH2119PU"
+codename: "f17_pro_cph2119pu_cph2119pu"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6779 DA + Preloader"
+    description: "Oppo F17 Pro CPH2119PU (MT6779) — matched DA_Oppo_V6_download.bin + device preloader"
+    files:
+      da: "DA_Oppo_V6_download.bin"
+      preloader: "Preloader/preloader_Oppo_F17_Pro_CPH2119PU.bin"
+    checksums:
+      da: "96471e726fe2df28a2f16f73c1ed0dc0029aaa85e0fee55bfcd842712774c911"
+      preloader: "d5aa7db677440354827f8001eb43ce98c51bdacd900620bba7d07536e2cc6a71"

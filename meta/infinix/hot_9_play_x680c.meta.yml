@@ -1,0 +1,15 @@
+vendor: "Infinix"
+model: "Hot 9 Play (X680C)"
+codename: "hot_9_play_x680c"
+
+versions:
+  - id: 0
+    default: false
+    name: "MT6765 DA + Preloader"
+    description: "Infinix Hot 9 Play (X680C) (MT6765) — matched DA_Infinix_TYPE_1_MT6765.bin + device preloader"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+      preloader: "Preloader/preloader_Infinix_Hot_20i_X665E.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+      preloader: "be589f46dd331f0522b12dc8b515fd8bf2b2ef18409c224451f5d57a09387fe8"

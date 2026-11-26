@@ -1,0 +1,15 @@
+vendor: "Vivo"
+model: "V1 MT6853 (Generic SoC)"
+codename: "vivo_v1_mt6853"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA + Auth"
+    description: "Vivo V1 MT6853 MTK V5 DA with SV5 Auth (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_VIVO_V1_MT6853.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+    checksums:
+      da: "5f72edc8379803b40e041595c0223be719a0df8262d12117cee8121748a5a5db"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
