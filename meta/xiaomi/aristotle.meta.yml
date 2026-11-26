@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "13T (Aristotle)"
+codename: "aristotle"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_aristotle.bin"
+      preloader: "preloader_Xiaomi_aristotle.bin"
+    checksums:
+      da: "958c27d4e1d0d01280b51eda0c7a576bcc6bad3e6b8d342f6bdf38a0b46c388a"
+      preloader: "4de6447117f81ba306f8d80ecaed838ab3739a8389e513e4cb9f0e79c18b9745"

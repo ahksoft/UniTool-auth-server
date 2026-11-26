@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy Tab S10+ (SM-X826B)"
+codename: "sm-x826b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-x826b.bin"
+      auth: "auth_Samsung_sm-x826b.auth"
+    checksums:
+      da: "d8b269d237d960c67be2f72402e2a222ff325f4002e77aa365a3b7580a9ed93e"
+      auth: "30fac3a5da69edfefee8f5abd33a218d1ca6f773a9776df5905b8565dd636eb9"

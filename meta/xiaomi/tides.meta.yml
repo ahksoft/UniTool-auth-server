@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 13 NFC (tides)"
+codename: "tides"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_tides.bin"
+      preloader: "preloader_Xiaomi_tides.bin"
+    checksums:
+      da: "810b5fc6bce1acc29f8ebd85b2a4437761f573c0423bbdf2ad404caf4cffdd87"
+      preloader: "37a3d5c3132d2e75bbffdc144a69c631566846a9b8b052701033bd1d7bb64516"

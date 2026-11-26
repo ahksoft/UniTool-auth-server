@@ -1,0 +1,13 @@
+vendor: "Motorola"
+model: "V1 MT6768"
+codename: "motorola_v1_mt6768"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Generic SoC)"
+    description: "Motorola V1 MT6768 MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Motorola_V1_MT6768.bin"
+    checksums:
+      da: "2167ba44a48f0f1c87e2c7eb68414e28e8f71264940b2775a3335ae284373932"

@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "DUCHAMP (OS1.0.12.0)"
+codename: "duchamp_os1_0_12_0"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (OS1.0.12.0)"
+    description: "Xiaomi DUCHAMP OS1.0.12.0 MTK V6 XML DA"
+    files:
+      da: "DA_DUCHAMP_OS1.0.12.0.bin"
+    checksums:
+      da: "b37df080ce20e073b295717bf379e0ae58ff44bfe8f0e9a52b641b087ba33969"

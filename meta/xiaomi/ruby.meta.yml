@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 12 Pro (ruby)"
+codename: "ruby"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_ruby.bin"
+      preloader: "preloader_Xiaomi_ruby.bin"
+    checksums:
+      da: "06d706d4f53dc5e66a0a69c3682b04e8e7f5617c4e4c4c941f88ebc0c9f91e26"
+      preloader: "82fa39b439346a948bf4dd1e7d8161741a0d144ddab392f663799fe1ebd37bc0"

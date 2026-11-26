@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco C65 (gale)"
+codename: "gale"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_redmi_13c.bin"
+      preloader: "preloader_Xiaomi_gale.bin"
+    checksums:
+      da: "f6d2c91c1fd1966690049ed2bb47d537a0950d4735d0da510e2f07cf0423f16a"
+      preloader: "07c2aec4c73550ab0e3f88b10fa64f83b4c7a139f53466b3ced4a117a9213dcf"

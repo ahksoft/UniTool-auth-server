@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi K60E (rembrandt)"
+codename: "rembrandt"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_rubens.bin"
+      preloader: "preloader_Xiaomi_rembrandt.bin"
+    checksums:
+      da: "08e23c24dd8e2568fe2f73376b5a39c821221dff866052baab56a88dfcf7d52d"
+      preloader: "5110323774b86adfef0795705e9eecad345d5d35e5e441e6528b6b9137a4552b"

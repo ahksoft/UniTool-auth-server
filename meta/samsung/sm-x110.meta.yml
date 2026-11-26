@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy Tab A9 (SM-X110)"
+codename: "sm-x110"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-x110.bin"
+      auth: "auth_Samsung_sm-x110.auth"
+    checksums:
+      da: "877f1c069a6d1e73b8b8943fe4f06a38296989d985b144280821292f6d6dfce0"
+      auth: "c0228393f237d5eea208cbaad251486188c6a6c0815d9e3a1485c8cdb5917b2b"

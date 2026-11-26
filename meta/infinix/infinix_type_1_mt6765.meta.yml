@@ -1,0 +1,13 @@
+vendor: "Infinix"
+model: "TYPE 1 MT6765"
+codename: "infinix_type_1_mt6765"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Generic SoC)"
+    description: "Infinix TYPE 1 MT6765 MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_TYPE_1_MT6765.bin"
+    checksums:
+      da: "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"

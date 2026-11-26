@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Pad SE 8.7 (spark)"
+codename: "spark"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_flare.bin"
+      preloader: "preloader_Xiaomi_spark.bin"
+    checksums:
+      da: "14637a8087731eeb3ef7d9f431571ab9a8658e2745351d590a0a16a2c9aee05b"
+      preloader: "b8f5cba5cb0ef2994d37733e4d16653f6ceceddc82d49ab2ef49c201af88bb75"

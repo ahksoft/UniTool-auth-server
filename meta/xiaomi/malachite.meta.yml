@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco X7 5G (malachite)"
+codename: "malachite"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_malachite.bin"
+      preloader: "preloader_Xiaomi_malachite.bin"
+    checksums:
+      da: "da82e65a8e6c42a66fe86caf07a628e11be58fd04149eddef65ca590add449d6"
+      preloader: "b68ae30217a1bcb24c34bf1e00cf6a45e5863afdcc8d9a419116a86078eab653"

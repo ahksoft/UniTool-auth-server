@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy A16 (SM-S167VL)"
+codename: "sm-s167vl"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Auth)"
+    description: "MTK V5 DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-s167vl.bin"
+      auth: "auth_Samsung_sm-s167vl.auth"
+    checksums:
+      da: "42e52db6f734aee4f00800ca972fbee6aaec3465eec7fce5ffa7ede9d0a7a51a"
+      auth: "d733fcc0f0c8712cff4f0145275d7b29c62fa7d7d2fa2d3b3e1e218d2126e5d8"

@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy XCover7 (SM-G556B)"
+codename: "sm-g556b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-g556b.bin"
+      auth: "auth_Samsung_sm-g556b.auth"
+    checksums:
+      da: "c21fc84c7bf34a26524b4966c635859b8140128ad7468ce8c3729eb126696f65"
+      auth: "62bf863a2b82acd3a39ceda5d3ba6466602ce9eede31d04da41bc18a0f3c0500"

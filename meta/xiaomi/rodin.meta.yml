@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco X7 Pro (rodin)"
+codename: "rodin"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_rodin.bin"
+      preloader: "preloader_Xiaomi_rodin.bin"
+    checksums:
+      da: "976b86d8b0b1aa934ed338479e87bc1c50d5de3aadc6657f203db5772836a097"
+      preloader: "53afc3b92fbb62e575c99835e98cf43c67c54ee38ce98e8894656116b9356cdf"

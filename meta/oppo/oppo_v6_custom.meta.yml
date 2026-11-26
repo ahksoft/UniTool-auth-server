@@ -1,0 +1,13 @@
+vendor: "Oppo"
+model: "V6 custom"
+codename: "oppo_v6_custom"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Oppo V6 custom MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Oppo_V6_custom.bin"
+    checksums:
+      da: "3ac3ffa10b463f20549284c48a4beac96124fd1d0c008e1cd68e1b477bd44838"

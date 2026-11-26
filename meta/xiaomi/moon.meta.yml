@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "Redmi 13 (Moon)"
+codename: "moon"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "MTK V5 DA (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_moon.bin"
+    checksums:
+      da: "202828dce12e936dcb97d02ba0479892dd8aaddb68639033e799454f88183427"

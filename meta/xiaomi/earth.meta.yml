@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco C55 (earth)"
+codename: "earth"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_earth.bin"
+      preloader: "preloader_Xiaomi_earth.bin"
+    checksums:
+      da: "daec1cf56d9ccaf2be3df88374d9d18812a418841517eacd54c418095aa255c6"
+      preloader: "25c808c6e25157cdc35fc8f9996522728944bb111af42ffd7b14f1c1af18581f"

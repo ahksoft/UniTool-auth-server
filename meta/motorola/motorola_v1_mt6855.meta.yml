@@ -1,0 +1,13 @@
+vendor: "Motorola"
+model: "V1 MT6855"
+codename: "motorola_v1_mt6855"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Motorola V1 MT6855 MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Motorola_V1_MT6855.bin"
+    checksums:
+      da: "ff9449bbc7455c3fde62020d2bd4254f8a175bcf639fb169f9effbc7eb0c8573"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 11 Pro 4G (Vida)"
+codename: "vida"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_vida.bin"
+      preloader: "preloader_Xiaomi_vida.bin"
+    checksums:
+      da: "afd7f176e901562983a31469e8043fafe6e1514a3dbae97bdee084b3f2202201"
+      preloader: "60d4e9316930e0eff28cc5b965d69ecc86bd2357b93aefb69f4e6a4a2125dde4"

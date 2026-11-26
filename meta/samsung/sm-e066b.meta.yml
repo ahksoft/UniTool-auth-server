@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy A06 5G (SM-E066B)"
+codename: "sm-e066b"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-e066b.bin"
+      auth: "auth_Samsung_sm-e066b.auth"
+    checksums:
+      da: "4fd761e203517d79724d932b75bcef897f59c0f153c49d27dc5e8e396cfcf5e1"
+      auth: "6312bd6242f4410c9d5089237da9ce70884ca9997d650e0a61d76b5f447c623c"

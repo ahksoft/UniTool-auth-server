@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "GOLD (OS1.0.12.0)"
+codename: "gold_os1_0_12_0"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (OS1.0.12.0)"
+    description: "Xiaomi GOLD OS1.0.12.0 MTK V5 DA"
+    files:
+      da: "DA_Xiaomi_gold.bin"
+    checksums:
+      da: "f2ab881035921109badae5450f1289f68eb1a268bc532af6d674eb59b11c748a"

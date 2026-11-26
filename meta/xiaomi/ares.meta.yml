@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco F3 GT (Ares)"
+codename: "ares"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_agate.bin"
+      preloader: "preloader_Xiaomi_ares.bin"
+    checksums:
+      da: "8c4afd92fcfe17e0849450fe5932bd831dd1ab4957d7ae4f6eff5410a945e732"
+      preloader: "7c09c51c6ffc7fb7386e7b08e2da91fc3d543501055e1d73473a92eb9bb028f4"

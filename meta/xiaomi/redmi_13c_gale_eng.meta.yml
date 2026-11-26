@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "Redmi 13C Gale ENG"
+codename: "redmi_13c_gale_eng"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "MTK V5 DA (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_redmi_13c_gale_eng.bin"
+    checksums:
+      da: "df9057675f3557102da78012908a17829397102c5c653b9e81e622a2640848e4"

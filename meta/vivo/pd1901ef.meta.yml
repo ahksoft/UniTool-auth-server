@@ -1,0 +1,17 @@
+vendor: "Vivo"
+model: "Y12 PD1901EF"
+codename: "pd1901ef"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Auth + Preloader)"
+    description: "MTK V5 DA + Auth + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Vivo_pd1901ef.bin"
+      auth: "auth_Vivo_pd1901ef.auth"
+      preloader: "preloader_Vivo_pd1901ef.bin"
+    checksums:
+      da: "fc63765e21fdb2ea3dfcd23dc9a6516711d55bb4cd1e607d7c73a9e14742d89b"
+      auth: "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
+      preloader: "78f1737911537c3196b94dd3d27c0c2f8c0d558c2cf9ff067dc0fe707c110de9"

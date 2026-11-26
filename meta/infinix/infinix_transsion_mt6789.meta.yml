@@ -1,0 +1,13 @@
+vendor: "Infinix"
+model: "Transsion MT6789"
+codename: "infinix_transsion_mt6789"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Infinix Transsion MT6789 MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_Transsion_MT6789.bin"
+    checksums:
+      da: "1ce43d0034876471020d928a86b75f66280524d07f916978afbe4ee173ac69b5"

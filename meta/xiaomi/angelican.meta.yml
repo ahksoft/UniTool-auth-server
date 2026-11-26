@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 9C NFC (Angelican)"
+codename: "angelican"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_angelican.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "90236e58b962efbda27607e06e177e7897196cc7cb19b9ca04d1246a3a84baec"

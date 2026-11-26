@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "GOLD (V14.0.3.0)"
+codename: "gold_v14_0_3_0"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (V14.0.3.0)"
+    description: "Xiaomi GOLD V14.0.3.0 MTK V5 DA"
+    files:
+      da: "DA_GOLD_V14.0.3.0.bin"
+    checksums:
+      da: "81d110570093c8535e0e6e395c84f037e76e7a555798d1060d1abffc6bbc79fd"

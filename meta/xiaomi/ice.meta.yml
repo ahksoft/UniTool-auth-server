@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco C50 (Ice)"
+codename: "ice"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_ice.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "718198ec9e82508e355854a516ee1eaa44c56cf67f2cd1d46f8ade8fb96b203c"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "11T (Agate)"
+codename: "agate"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_agate.bin"
+      preloader: "preloader_Xiaomi_agate.bin"
+    checksums:
+      da: "8c4afd92fcfe17e0849450fe5932bd831dd1ab4957d7ae4f6eff5410a945e732"
+      preloader: "572c1342409e4934b225984fdb8d2e26ef1a3a114e0f624eba7ed47780964eca"

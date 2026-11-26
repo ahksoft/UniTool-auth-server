@@ -1,6 +1,23 @@
 {
   "vendors": {
+    "Huawei": [
+      "huawei_v1_mt6765",
+      "huawei_v1_mt6768",
+      "huawei_v1_mt6833"
+    ],
     "Infinix": [
+      "infinix_g99_bypass_da_br_g99",
+      "infinix_g99_bypass_da_pl_g99",
+      "infinix_transsion_mt6789",
+      "infinix_transsion_mt6835",
+      "infinix_transsion_mt6855",
+      "infinix_transsion_mt6896",
+      "infinix_transsion_mt6983",
+      "infinix_type_1_mt6765",
+      "infinix_type_1_mt6768bin",
+      "infinix_type_1_mt6833",
+      "infinix_type_2_mt6765",
+      "infinix_type_2_mt6768",
       "x6833b"
     ],
     "Lenovo": [
@@ -9,11 +26,34 @@
     "Motorola": [
       "fogorow",
       "lamuc",
+      "motorola_v1_mt6765",
+      "motorola_v1_mt6768",
+      "motorola_v1_mt6855",
       "penangf"
     ],
     "Nothing": [
       "pacman",
       "pacmanpro"
+    ],
+    "OnePlus": [
+      "oneplus_da_oppo_mt6768_2025",
+      "oneplus_v1_mt6765",
+      "oneplus_v1_mt6768",
+      "oneplus_v1_mt6833",
+      "oneplus_v1_mt6853",
+      "oneplus_v1_mt6877",
+      "oneplus_v1_mt6893"
+    ],
+    "Oppo": [
+      "oppo_da_oppo_mt6768_2025",
+      "oppo_v1_mt6765",
+      "oppo_v1_mt6768",
+      "oppo_v1_mt6833",
+      "oppo_v1_mt6853",
+      "oppo_v1_mt6877",
+      "oppo_v1_mt6893",
+      "oppo_v6_custom",
+      "oppo_v6_download"
     ],
     "OPPO": [
       "cph2251"
@@ -21,58 +61,930 @@
     "Realme": [
       "doki"
     ],
+    "Samsung": [
+      "sm-a155f",
+      "sm-a155m",
+      "sm-a156b",
+      "sm-a156e",
+      "sm-a156m",
+      "sm-a156n",
+      "sm-a156u",
+      "sm-a156w",
+      "sm-a165f",
+      "sm-a166p",
+      "sm-a245f",
+      "sm-a245m",
+      "sm-e066b",
+      "sm-e156b",
+      "sm-g556b",
+      "sm-m156b",
+      "sm-s167vl",
+      "sm-x110",
+      "sm-x115",
+      "sm-x820f",
+      "sm-x826b",
+      "sm-x920f",
+      "sm-x926b"
+    ],
     "Tecno": [
       "KL7",
       "lg7n",
       "lg8n"
     ],
+    "Vivo": [
+      "pd1901ef"
+    ],
     "Xiaomi": [
+      "agate",
+      "air",
+      "angelica",
+      "angelican",
+      "ares",
+      "aristotle",
+      "atom",
+      "begonia",
+      "beryl",
+      "biloba",
+      "blue",
+      "bomb",
+      "cactus",
+      "camellian",
+      "cezanne",
+      "chopin",
+      "citrine",
+      "corot",
+      "dandelion",
+      "daumier",
+      "degas",
+      "duchamp",
+      "duchamp_os1_0_12_0",
+      "earth",
+      "emerald",
+      "emerald_br_v14_0_5_0",
+      "evergreen",
+      "fire",
+      "flare",
+      "fleur",
+      "gale",
+      "gold",
+      "gold_iron",
+      "gold_os1_0_12_0",
+      "gold_v14_0_3_0",
+      "ice",
+      "lake",
       "lancelot",
+      "ligh",
+      "light",
+      "lightcm",
+      "lotus",
+      "malachite",
       "merlin",
-      "selene"
+      "moon",
+      "moon_os1_0_6_0",
+      "obsidian",
+      "pearl",
+      "pissarro",
+      "plato",
+      "poco_m5_rock_os1_0_5_0",
+      "redmi_13c",
+      "redmi_13c_gale_eng",
+      "redmi_14c",
+      "redmi_a3",
+      "rembrandt",
+      "rock",
+      "rodin",
+      "rosemary",
+      "rothko",
+      "rubens",
+      "ruby",
+      "sea",
+      "selene",
+      "selenes",
+      "sheng",
+      "shiva",
+      "spark",
+      "tanzanite",
+      "tides",
+      "vida",
+      "viva",
+      "water",
+      "xaga",
+      "yuechu",
+      "yunluo",
+      "zircon"
     ]
   },
   "devices": {
-    "x6833b": {
-      "vendor": "Infinix",
-      "model": "Note 30",
-      "name": "Infinix Note 30",
+    "KL7": {
+      "vendor": "Tecno",
+      "model": "Spark 30 pro",
+      "name": "Tecno Spark 30 pro",
       "versions": [
         {
           "id": 0,
           "default": true,
-          "name": "Engineering Flashing",
-          "description": "Full access. DA from 4PDA",
+          "name": "Unlocked BL",
+          "description": "Unlocked BL",
           "files": {
             "da": {
               "name": "DA_BR_MT6789_transsion.bin",
               "path": "files/DA_BR_MT6789_transsion.bin",
               "sha256": "9092b7c0bd56b274584681ba9caa369b8a4e91691fba1f0eeac4057c67e30927"
+            },
+            "preloader": {
+              "name": "preloader_kl7_h8916.bin",
+              "path": "files/preloader_kl7_h8916.bin",
+              "sha256": "b4bc01fb72489f99bb498f73aae96f166ed7fb9b208b78ede1aaa43002a436f9"
             }
           }
         }
       ]
     },
-    "lvp9": {
-      "vendor": "Lenovo",
-      "model": "IdeaTab A7600-H",
-      "name": "Lenovo IdeaTab A7600-H",
+    "agate": {
+      "vendor": "Xiaomi",
+      "model": "11T (Agate)",
+      "name": "Xiaomi 11T (Agate)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_agate.bin",
+              "path": "files/DA_Xiaomi_agate.bin",
+              "sha256": "8c4afd92fcfe17e0849450fe5932bd831dd1ab4957d7ae4f6eff5410a945e732"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_agate.bin",
+              "path": "files/preloader_Xiaomi_agate.bin",
+              "sha256": "572c1342409e4934b225984fdb8d2e26ef1a3a114e0f624eba7ed47780964eca"
+            }
+          }
+        }
+      ]
+    },
+    "air": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 13C 5G (Air)",
+      "name": "Xiaomi Redmi 13C 5G (Air)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_sheng.bin",
+              "path": "files/DA_Xiaomi_sheng.bin",
+              "sha256": "fbbbdf545f58c2c98490245d450a286bbd33470fd4f725bf3dd4f71649f84cc7"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_air.bin",
+              "path": "files/preloader_Xiaomi_air.bin",
+              "sha256": "63a8c2597ec7ceee7c04ce24c027d6180f92a6ce90b46df31c7f9c924eb961e1"
+            }
+          }
+        }
+      ]
+    },
+    "angelica": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 9C (Angelica)",
+      "name": "Xiaomi Redmi 9C (Angelica)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_angelica.bin",
+              "path": "files/preloader_Xiaomi_angelica.bin",
+              "sha256": "a706c1ad7d93875c7851bc97fe89c4dfe82020eb5f2753e8372446e9f2806bfd"
+            }
+          }
+        }
+      ]
+    },
+    "angelican": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 9C NFC (Angelican)",
+      "name": "Xiaomi Redmi 9C NFC (Angelican)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_angelican.bin",
+              "path": "files/preloader_Xiaomi_angelican.bin",
+              "sha256": "90236e58b962efbda27607e06e177e7897196cc7cb19b9ca04d1246a3a84baec"
+            }
+          }
+        }
+      ]
+    },
+    "ares": {
+      "vendor": "Xiaomi",
+      "model": "Poco F3 GT (Ares)",
+      "name": "Xiaomi Poco F3 GT (Ares)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_agate.bin",
+              "path": "files/DA_Xiaomi_agate.bin",
+              "sha256": "8c4afd92fcfe17e0849450fe5932bd831dd1ab4957d7ae4f6eff5410a945e732"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_ares.bin",
+              "path": "files/preloader_Xiaomi_ares.bin",
+              "sha256": "7c09c51c6ffc7fb7386e7b08e2da91fc3d543501055e1d73473a92eb9bb028f4"
+            }
+          }
+        }
+      ]
+    },
+    "aristotle": {
+      "vendor": "Xiaomi",
+      "model": "13T (Aristotle)",
+      "name": "Xiaomi 13T (Aristotle)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_aristotle.bin",
+              "path": "files/DA_Xiaomi_aristotle.bin",
+              "sha256": "958c27d4e1d0d01280b51eda0c7a576bcc6bad3e6b8d342f6bdf38a0b46c388a"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_aristotle.bin",
+              "path": "files/preloader_Xiaomi_aristotle.bin",
+              "sha256": "4de6447117f81ba306f8d80ecaed838ab3739a8389e513e4cb9f0e79c18b9745"
+            }
+          }
+        }
+      ]
+    },
+    "atom": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 10X 5G (Atom)",
+      "name": "Xiaomi Redmi 10X 5G (Atom)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_atom.bin",
+              "path": "files/preloader_Xiaomi_atom.bin",
+              "sha256": "b0e29bcb8d9339d105f5ec760bab99af0662a10cdd4dac8f3e4dc2bbb95a5f84"
+            }
+          }
+        }
+      ]
+    },
+    "begonia": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 8 Pro (Begonia)",
+      "name": "Xiaomi Redmi Note 8 Pro (Begonia)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_angelican.bin",
+              "path": "files/preloader_Xiaomi_angelican.bin",
+              "sha256": "90236e58b962efbda27607e06e177e7897196cc7cb19b9ca04d1246a3a84baec"
+            }
+          }
+        }
+      ]
+    },
+    "beryl": {
+      "vendor": "Xiaomi",
+      "model": "Poco M7 Pro 5G (beryl)",
+      "name": "Xiaomi Poco M7 Pro 5G (beryl)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_beryl.bin",
+              "path": "files/DA_Xiaomi_beryl.bin",
+              "sha256": "2937498c869ba5304096f3d52be9fb47f7562dfc1bdbc4a3772662e93c961b09"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_beryl.bin",
+              "path": "files/preloader_Xiaomi_beryl.bin",
+              "sha256": "d9841aced50dca1c018c52f2978867040d051dfa798be4412bcd54954bf4db10"
+            }
+          }
+        }
+      ]
+    },
+    "biloba": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 8 2021 (Biloba)",
+      "name": "Xiaomi Redmi Note 8 2021 (Biloba)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_biloba.bin",
+              "path": "files/preloader_Xiaomi_biloba.bin",
+              "sha256": "b68974ca79ccc6b6533681b5394df710e2110f06572899a6cc2919abe5949748"
+            }
+          }
+        }
+      ]
+    },
+    "blue": {
+      "vendor": "Xiaomi",
+      "model": "Redmi A3 (blue)",
+      "name": "Xiaomi Redmi A3 (blue)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_a3.bin",
+              "path": "files/DA_Xiaomi_redmi_a3.bin",
+              "sha256": "571b856f43b6d84560fa52135c5ebf68ca931f91e2895eb1f49b2f394b681558"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_blue.bin",
+              "path": "files/preloader_Xiaomi_blue.bin",
+              "sha256": "3525c71df884d0486b4d81b5463d8cc9d4bdba685c516c126fcb85cd65edc5e8"
+            }
+          }
+        }
+      ]
+    },
+    "bomb": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 10X Pro 5G (Bomb)",
+      "name": "Xiaomi Redmi 10X Pro 5G (Bomb)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_bomb.bin",
+              "path": "files/preloader_Xiaomi_bomb.bin",
+              "sha256": "83d9d9de462fb28691c1b0b8708627ce0be786fcfd932fa56d1a2f6d6524dfc7"
+            }
+          }
+        }
+      ]
+    },
+    "cactus": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 6A (Cactus)",
+      "name": "Xiaomi Redmi 6A (Cactus)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_cactus.bin",
+              "path": "files/preloader_Xiaomi_cactus.bin",
+              "sha256": "32a089dd5ea62625a323851bd790ddbb752381ba0bbc92eea53a084bf4c096f4"
+            }
+          }
+        }
+      ]
+    },
+    "camellian": {
+      "vendor": "Xiaomi",
+      "model": "Poco M3 Pro (Camellian)",
+      "name": "Xiaomi Poco M3 Pro (Camellian)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_camellian.bin",
+              "path": "files/DA_Xiaomi_camellian.bin",
+              "sha256": "c59b5d096ffc5465ab092ca58574836a126dd0dc23444c104c102f5871be6f28"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_camellian.bin",
+              "path": "files/preloader_Xiaomi_camellian.bin",
+              "sha256": "4c207fdc0dd888aab310e98ce0f6a425ff59d1b59f8be7cd4ceda7454c9dd156"
+            }
+          }
+        }
+      ]
+    },
+    "cezanne": {
+      "vendor": "Xiaomi",
+      "model": "Redmi K30 Ultra (Cezanne)",
+      "name": "Xiaomi Redmi K30 Ultra (Cezanne)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_cezanne.bin",
+              "path": "files/DA_Xiaomi_cezanne.bin",
+              "sha256": "56693a257e9e0bca537918847dcf0bca783f9cd88ee2b7075e1960a80b603b00"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_cezanne.bin",
+              "path": "files/preloader_Xiaomi_cezanne.bin",
+              "sha256": "da560a9e566c72e0f055ed0f2f28d19adbf2f7b17e648ba2f7b6eac9ab9d5dd9"
+            }
+          }
+        }
+      ]
+    },
+    "chopin": {
+      "vendor": "Xiaomi",
+      "model": "Poco X3 GT (Chopin)",
+      "name": "Xiaomi Poco X3 GT (Chopin)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_agate.bin",
+              "path": "files/DA_Xiaomi_agate.bin",
+              "sha256": "8c4afd92fcfe17e0849450fe5932bd831dd1ab4957d7ae4f6eff5410a945e732"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_chopin.bin",
+              "path": "files/preloader_Xiaomi_chopin.bin",
+              "sha256": "346fa17fefbac37ff6c5afbe9db840aee1a5d428ac5f8c203c34399599dfbbf7"
+            }
+          }
+        }
+      ]
+    },
+    "citrine": {
+      "vendor": "Xiaomi",
+      "model": "Poco M7 Pro 5G (citrine)",
+      "name": "Xiaomi Poco M7 Pro 5G (citrine)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_beryl.bin",
+              "path": "files/DA_Xiaomi_beryl.bin",
+              "sha256": "2937498c869ba5304096f3d52be9fb47f7562dfc1bdbc4a3772662e93c961b09"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_beryl.bin",
+              "path": "files/preloader_Xiaomi_beryl.bin",
+              "sha256": "d9841aced50dca1c018c52f2978867040d051dfa798be4412bcd54954bf4db10"
+            }
+          }
+        }
+      ]
+    },
+    "corot": {
+      "vendor": "Xiaomi",
+      "model": "13T Pro (Corot)",
+      "name": "Xiaomi 13T Pro (Corot)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_corot.bin",
+              "path": "files/DA_Xiaomi_corot.bin",
+              "sha256": "39a3be7062270be07ae24f5bee7f93d43181bb5ab8181e2308e0e31dae27aab2"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_corot.bin",
+              "path": "files/preloader_Xiaomi_corot.bin",
+              "sha256": "0a702b054bf60a2567aec85f8d75bce03792dcae6a063ce4c655e8a69c4b7cdb"
+            }
+          }
+        }
+      ]
+    },
+    "cph2251": {
+      "vendor": "OPPO",
+      "model": "Reno 6 5G",
+      "name": "OPPO Reno 6 5G",
       "versions": [
         {
           "id": 0,
           "default": true,
-          "name": "Official Signed Flashing",
-          "description": "Includes a preloader and DA files, found in official device firmware package.",
+          "name": "Carbonara exploit",
+          "description": "Vulnerable to the Carbonara exploit.",
           "files": {
             "da": {
-              "name": "MTK_AllInOne_DA.bin",
-              "path": "files/MTK_AllInOne_DA.bin",
-              "sha256": "6aa3e9796f27bf2ac7a15c217e3de0f87b301f10d32cb1cf7c9094c3dd44d218"
+              "name": "DA_BR_MT6877.bin",
+              "path": "files/DA_BR_MT6877.bin",
+              "sha256": "0f88ed6f7359bc0d4b3185eac0ba5509e664ea3260e642dd630170fdb35389c8"
             },
             "preloader": {
-              "name": "preloader_lvp9_row_3gdatasms.bin",
-              "path": "files/preloader_lvp9_row_3gdatasms.bin",
-              "sha256": "60f6f98238dfa794146d10908c5a28c28bf4690fabfa234e22221d2d61a4a330"
+              "name": "oppo_mt6877_prldr.bin",
+              "path": "files/oppo_mt6877_prldr.bin",
+              "sha256": "e53bef7b73bd5608a9b0dfc69018b6ed7c56d7606baf5887d726ef5fe05565e0"
+            }
+          }
+        }
+      ]
+    },
+    "dandelion": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 10A (Dandelion)",
+      "name": "Xiaomi Redmi 10A (Dandelion)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_dandelion.bin",
+              "path": "files/preloader_Xiaomi_dandelion.bin",
+              "sha256": "a093a8bd10da1d6437cd58e11a2981f6670b25b941c255b59dfd291ac2109b43"
+            }
+          }
+        }
+      ]
+    },
+    "daumier": {
+      "vendor": "Xiaomi",
+      "model": "12 Pro Dimensity (daumier)",
+      "name": "Xiaomi 12 Pro Dimensity (daumier)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_daumier.bin",
+              "path": "files/DA_Xiaomi_daumier.bin",
+              "sha256": "44890e44858c46329744f4dac1fb47a8ebf0c400e203d8e3631be4abc3d2615f"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_daumier.bin",
+              "path": "files/preloader_Xiaomi_daumier.bin",
+              "sha256": "6f37f9215b9003fbcd963e4b5dc4f7c70deb259a7fe2db8fe88ba4ed20c57b33"
+            }
+          }
+        }
+      ]
+    },
+    "degas": {
+      "vendor": "Xiaomi",
+      "model": "14T (Degas)",
+      "name": "Xiaomi 14T (Degas)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_degas.bin",
+              "path": "files/DA_Xiaomi_degas.bin",
+              "sha256": "9be72fc3790f837d1ea081add7af2fb1538e32cd392150acbe144756f4d20b10"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_degas.bin",
+              "path": "files/preloader_Xiaomi_degas.bin",
+              "sha256": "776f51b2f4a864426d4b8ac08281f6dd1857e5a539c02dc587a2614a34ac55d1"
+            }
+          }
+        }
+      ]
+    },
+    "doki": {
+      "vendor": "Realme",
+      "model": "10/10 4G",
+      "name": "Realme 10/10 4G",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "Carbonara Exploit",
+          "description": "Vulnerable to the Carbonara exploit. Not all partitions are displayed without manual mode.",
+          "files": {
+            "da": {
+              "name": "MT6789_REALME.bin",
+              "path": "files/MT6789_REALME.bin",
+              "sha256": "024d01b80a0ef2e50d4dae83ca90f3594c9879586163421d0f2fcb7bd6abb811"
+            },
+            "auth": {
+              "name": "REALME_MT6789.auth",
+              "path": "files/REALME_MT6789.auth",
+              "sha256": "e88f3f8cfa1dc79e0765d809dc186414c2ffb502f224bc4e76f1a0dd5ec66397"
+            }
+          }
+        }
+      ]
+    },
+    "duchamp": {
+      "vendor": "Xiaomi",
+      "model": "Poco X6 Pro (duchamp)",
+      "name": "Xiaomi Poco X6 Pro (duchamp)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_duchamp.bin",
+              "path": "files/DA_Xiaomi_duchamp.bin",
+              "sha256": "3c7a182edd4e32a6b9816f745c32c754bea6ce224d51902cc6d459f19b3e45ac"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_duchamp.bin",
+              "path": "files/preloader_Xiaomi_duchamp.bin",
+              "sha256": "f68f4a691e2e3a09bd7fed6a8973edcae5dfe3d7205c4605b69f22e24e5ec82f"
+            }
+          }
+        }
+      ]
+    },
+    "duchamp_os1_0_12_0": {
+      "vendor": "Xiaomi",
+      "model": "DUCHAMP (OS1.0.12.0)",
+      "name": "Xiaomi DUCHAMP (OS1.0.12.0)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (OS1.0.12.0)",
+          "description": "Xiaomi DUCHAMP OS1.0.12.0 MTK V6 XML DA",
+          "files": {
+            "da": {
+              "name": "DA_DUCHAMP_OS1.0.12.0.bin",
+              "path": "files/DA_DUCHAMP_OS1.0.12.0.bin",
+              "sha256": "b37df080ce20e073b295717bf379e0ae58ff44bfe8f0e9a52b641b087ba33969"
+            }
+          }
+        }
+      ]
+    },
+    "earth": {
+      "vendor": "Xiaomi",
+      "model": "Poco C55 (earth)",
+      "name": "Xiaomi Poco C55 (earth)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_earth.bin",
+              "path": "files/DA_Xiaomi_earth.bin",
+              "sha256": "daec1cf56d9ccaf2be3df88374d9d18812a418841517eacd54c418095aa255c6"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_earth.bin",
+              "path": "files/preloader_Xiaomi_earth.bin",
+              "sha256": "25c808c6e25157cdc35fc8f9996522728944bb111af42ffd7b14f1c1af18581f"
+            }
+          }
+        }
+      ]
+    },
+    "emerald": {
+      "vendor": "Xiaomi",
+      "model": "Poco M6 Pro (emerald)",
+      "name": "Xiaomi Poco M6 Pro (emerald)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_emerald.bin",
+              "path": "files/DA_Xiaomi_emerald.bin",
+              "sha256": "df37fb80d2e647a7f7c85fd559244d23534bb55083c7c0b3aa31c8bf92f55c4b"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_emerald.bin",
+              "path": "files/preloader_Xiaomi_emerald.bin",
+              "sha256": "b4846c2980bb5c147c886c5939c0dfd53344b6ed3febf309498a7fc30dc47e62"
+            }
+          }
+        }
+      ]
+    },
+    "emerald_br_v14_0_5_0": {
+      "vendor": "Xiaomi",
+      "model": "EMERALD (BR_V14.0.5.0)",
+      "name": "Xiaomi EMERALD (BR_V14.0.5.0)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (BR_V14.0.5.0)",
+          "description": "Xiaomi EMERALD BR_V14.0.5.0 MTK V6 XML DA",
+          "files": {
+            "da": {
+              "name": "DA_EMERALD_BR_V14.0.5.0.bin",
+              "path": "files/DA_EMERALD_BR_V14.0.5.0.bin",
+              "sha256": "37b0ddec5965758bd66637676a6e0b54076a7605e0f42a14cb0271a0718d56a4"
+            }
+          }
+        }
+      ]
+    },
+    "evergreen": {
+      "vendor": "Xiaomi",
+      "model": "Poco M4 Pro 5G (Evergreen)",
+      "name": "Xiaomi Poco M4 Pro 5G (Evergreen)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_evergreen.bin",
+              "path": "files/DA_Xiaomi_evergreen.bin",
+              "sha256": "6cdb1c5e72a3e06fa510aee4101690a2b275590169e7c2a1ea8f78437139c603"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_evergreen.bin",
+              "path": "files/preloader_Xiaomi_evergreen.bin",
+              "sha256": "1a4e08761b4bbfa857267e007346dc9a71f777ff4f11a34aa5ed8609274964f5"
+            }
+          }
+        }
+      ]
+    },
+    "fire": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 12 (Fire)",
+      "name": "Xiaomi Redmi 12 (Fire)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_fire.bin",
+              "path": "files/DA_Xiaomi_fire.bin",
+              "sha256": "98ae0472b812ae0139411bc2d9af83db84b4a88f43722ee60b9b3d4efe469313"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_fire.bin",
+              "path": "files/preloader_Xiaomi_fire.bin",
+              "sha256": "4a96b3fcefe08b7f0e184e8eab045b42f8cac3065a0786096fbdfe894628b6f1"
+            }
+          }
+        }
+      ]
+    },
+    "flare": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Pad SE 8.7 (flare)",
+      "name": "Xiaomi Redmi Pad SE 8.7 (flare)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_flare.bin",
+              "path": "files/DA_Xiaomi_flare.bin",
+              "sha256": "14637a8087731eeb3ef7d9f431571ab9a8658e2745351d590a0a16a2c9aee05b"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_flare.bin",
+              "path": "files/preloader_Xiaomi_flare.bin",
+              "sha256": "41f32a7c097b8ca0a565d5eb6f803c6e873b2d4198984bb87893a4cf7fc7841b"
+            }
+          }
+        }
+      ]
+    },
+    "fleur": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11S 4G (Fleur)",
+      "name": "Xiaomi Redmi Note 11S 4G (Fleur)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_fleur.bin",
+              "path": "files/DA_Xiaomi_fleur.bin",
+              "sha256": "c142af8b1c92d404da0bb0a8e45286b1f2eea359f8124c9f1667b6e3552175ea"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_fleur.bin",
+              "path": "files/preloader_Xiaomi_fleur.bin",
+              "sha256": "46e88cf66f19cca6303ea56dd01f87c07d3d22587e7a0d9fea67791feb9230c3"
             }
           }
         }
@@ -93,6 +1005,466 @@
               "name": "DA_fogorow.bin",
               "path": "files/DA_fogorow.bin",
               "sha256": "e74dfe815aa1611895fd77850ba4ea0456fe4cd2b568940136fecdc1f0c8ae4e"
+            }
+          }
+        }
+      ]
+    },
+    "gale": {
+      "vendor": "Xiaomi",
+      "model": "Poco C65 (gale)",
+      "name": "Xiaomi Poco C65 (gale)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_13c.bin",
+              "path": "files/DA_Xiaomi_redmi_13c.bin",
+              "sha256": "f6d2c91c1fd1966690049ed2bb47d537a0950d4735d0da510e2f07cf0423f16a"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_gale.bin",
+              "path": "files/preloader_Xiaomi_gale.bin",
+              "sha256": "07c2aec4c73550ab0e3f88b10fa64f83b4c7a139f53466b3ced4a117a9213dcf"
+            }
+          }
+        }
+      ]
+    },
+    "gold": {
+      "vendor": "Xiaomi",
+      "model": "Poco X6 Neo (Gold)",
+      "name": "Xiaomi Poco X6 Neo (Gold)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_gold.bin",
+              "path": "files/DA_Xiaomi_gold.bin",
+              "sha256": "f2ab881035921109badae5450f1289f68eb1a268bc532af6d674eb59b11c748a"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_gold.bin",
+              "path": "files/preloader_Xiaomi_gold.bin",
+              "sha256": "ee7771f1afb9795591e8e45d9121dd9cd6caa0716ac923cbfb6186df6a4f51f3"
+            }
+          }
+        }
+      ]
+    },
+    "gold_iron": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 13 (Gold_Iron)",
+      "name": "Xiaomi Redmi Note 13 (Gold_Iron)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_gold.bin",
+              "path": "files/DA_Xiaomi_gold.bin",
+              "sha256": "f2ab881035921109badae5450f1289f68eb1a268bc532af6d674eb59b11c748a"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_gold.bin",
+              "path": "files/preloader_Xiaomi_gold.bin",
+              "sha256": "ee7771f1afb9795591e8e45d9121dd9cd6caa0716ac923cbfb6186df6a4f51f3"
+            }
+          }
+        }
+      ]
+    },
+    "gold_os1_0_12_0": {
+      "vendor": "Xiaomi",
+      "model": "GOLD (OS1.0.12.0)",
+      "name": "Xiaomi GOLD (OS1.0.12.0)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (OS1.0.12.0)",
+          "description": "Xiaomi GOLD OS1.0.12.0 MTK V5 DA",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_gold.bin",
+              "path": "files/DA_Xiaomi_gold.bin",
+              "sha256": "f2ab881035921109badae5450f1289f68eb1a268bc532af6d674eb59b11c748a"
+            }
+          }
+        }
+      ]
+    },
+    "gold_v14_0_3_0": {
+      "vendor": "Xiaomi",
+      "model": "GOLD (V14.0.3.0)",
+      "name": "Xiaomi GOLD (V14.0.3.0)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (V14.0.3.0)",
+          "description": "Xiaomi GOLD V14.0.3.0 MTK V5 DA",
+          "files": {
+            "da": {
+              "name": "DA_GOLD_V14.0.3.0.bin",
+              "path": "files/DA_GOLD_V14.0.3.0.bin",
+              "sha256": "81d110570093c8535e0e6e395c84f037e76e7a555798d1060d1abffc6bbc79fd"
+            }
+          }
+        }
+      ]
+    },
+    "huawei_v1_mt6765": {
+      "vendor": "Huawei",
+      "model": "V1 MT6765",
+      "name": "Huawei V1 MT6765",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Huawei V1 MT6765 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Huawei_V1_MT6765.bin",
+              "path": "files/DA_Huawei_V1_MT6765.bin",
+              "sha256": "b18338843dc65ca61d4c507878e78fae729c8c8a7d91f5e086306849c8821922"
+            }
+          }
+        }
+      ]
+    },
+    "huawei_v1_mt6768": {
+      "vendor": "Huawei",
+      "model": "V1 MT6768",
+      "name": "Huawei V1 MT6768",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Huawei V1 MT6768 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Huawei_V1_MT6768.bin",
+              "path": "files/DA_Huawei_V1_MT6768.bin",
+              "sha256": "b8b6bb538d687a811236ba9e671af152442caa6b99b78ff7c91a011c67f2ea50"
+            }
+          }
+        }
+      ]
+    },
+    "huawei_v1_mt6833": {
+      "vendor": "Huawei",
+      "model": "V1 MT6833",
+      "name": "Huawei V1 MT6833",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Huawei V1 MT6833 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Huawei_V1_MT6833.bin",
+              "path": "files/DA_Huawei_V1_MT6833.bin",
+              "sha256": "469d2996fcc4323d94d0fc61affa3038e9d0a3bd376a12546f71bd8d36255041"
+            }
+          }
+        }
+      ]
+    },
+    "ice": {
+      "vendor": "Xiaomi",
+      "model": "Poco C50 (Ice)",
+      "name": "Xiaomi Poco C50 (Ice)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_ice.bin",
+              "path": "files/preloader_Xiaomi_ice.bin",
+              "sha256": "718198ec9e82508e355854a516ee1eaa44c56cf67f2cd1d46f8ade8fb96b203c"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_g99_bypass_da_br_g99": {
+      "vendor": "Infinix",
+      "model": "G99 BYPASS DA BR G99",
+      "name": "Infinix G99 BYPASS DA BR G99",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix G99 BYPASS DA BR G99 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "MT6789_0.bin",
+              "path": "files/MT6789_0.bin",
+              "sha256": "cdd1ea53ba64af8f38f921f4fcceebab49d77afb9c9516f7e4db316b888b84e8"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_g99_bypass_da_pl_g99": {
+      "vendor": "Infinix",
+      "model": "G99 BYPASS DA PL G99",
+      "name": "Infinix G99 BYPASS DA PL G99",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix G99 BYPASS DA PL G99 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_G99_BYPASS_DA_PL_G99.bin",
+              "path": "files/DA_Infinix_G99_BYPASS_DA_PL_G99.bin",
+              "sha256": "2d3e34c14ff36bab0a9650f6a7dab3308b0df57e2f2bfec67866306ec4971aff"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_transsion_mt6789": {
+      "vendor": "Infinix",
+      "model": "Transsion MT6789",
+      "name": "Infinix Transsion MT6789",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix Transsion MT6789 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_Transsion_MT6789.bin",
+              "path": "files/DA_Infinix_Transsion_MT6789.bin",
+              "sha256": "1ce43d0034876471020d928a86b75f66280524d07f916978afbe4ee173ac69b5"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_transsion_mt6835": {
+      "vendor": "Infinix",
+      "model": "Transsion MT6835",
+      "name": "Infinix Transsion MT6835",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix Transsion MT6835 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_Transsion_MT6835.bin",
+              "path": "files/DA_Infinix_Transsion_MT6835.bin",
+              "sha256": "c7b93d01bec5aee11cc8863979de92ddc9fdb6db300dbc1fb51b94265e21e927"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_transsion_mt6855": {
+      "vendor": "Infinix",
+      "model": "Transsion MT6855",
+      "name": "Infinix Transsion MT6855",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix Transsion MT6855 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_Transsion_MT6855.bin",
+              "path": "files/DA_Infinix_Transsion_MT6855.bin",
+              "sha256": "f303236d30c457cff0bc413c25c213c7bb0679517d9b94968845036cfeffc401"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_transsion_mt6896": {
+      "vendor": "Infinix",
+      "model": "Transsion MT6896",
+      "name": "Infinix Transsion MT6896",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix Transsion MT6896 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_Transsion_MT6896.bin",
+              "path": "files/DA_Infinix_Transsion_MT6896.bin",
+              "sha256": "88721ba6bd7af9bc7828cec98dcccea632baf9d6774e4926b42380a8bdf11eba"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_transsion_mt6983": {
+      "vendor": "Infinix",
+      "model": "Transsion MT6983",
+      "name": "Infinix Transsion MT6983",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Infinix Transsion MT6983 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_Transsion_MT6983.bin",
+              "path": "files/DA_Infinix_Transsion_MT6983.bin",
+              "sha256": "b4b8bcb9c0ea4d28ae393acf64930497505bf40d5a62b1b5c6fa6c495f7c6f97"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_type_1_mt6765": {
+      "vendor": "Infinix",
+      "model": "TYPE 1 MT6765",
+      "name": "Infinix TYPE 1 MT6765",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Infinix TYPE 1 MT6765 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_TYPE_1_MT6765.bin",
+              "path": "files/DA_Infinix_TYPE_1_MT6765.bin",
+              "sha256": "a001e37d8eb833394dab1159b9a743816c27640205d51991f2e52132dfbacd36"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_type_1_mt6768bin": {
+      "vendor": "Infinix",
+      "model": "TYPE 1 MT6768bin",
+      "name": "Infinix TYPE 1 MT6768bin",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Infinix TYPE 1 MT6768bin MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_TYPE_1_MT6768bin.bin",
+              "path": "files/DA_Infinix_TYPE_1_MT6768bin.bin",
+              "sha256": "e53011ed028d9166d9fed239b7fcb3c8a61d3cbfef6d5bcfd7c240397070260c"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_type_1_mt6833": {
+      "vendor": "Infinix",
+      "model": "TYPE 1 MT6833",
+      "name": "Infinix TYPE 1 MT6833",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Infinix TYPE 1 MT6833 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_TYPE_1_MT6833.bin",
+              "path": "files/DA_Infinix_TYPE_1_MT6833.bin",
+              "sha256": "cf951e09d5ace4a672aee1cf3bf96da2bff0b7036783a47cf576eb2f43ee3781"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_type_2_mt6765": {
+      "vendor": "Infinix",
+      "model": "TYPE 2 MT6765",
+      "name": "Infinix TYPE 2 MT6765",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Infinix TYPE 2 MT6765 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_TYPE_2_MT6765.bin",
+              "path": "files/DA_Infinix_TYPE_2_MT6765.bin",
+              "sha256": "cc8efd1429d43eff01e2cd994d5d9fe12476fed9f8eb90e65b97f204fcb2170f"
+            }
+          }
+        }
+      ]
+    },
+    "infinix_type_2_mt6768": {
+      "vendor": "Infinix",
+      "model": "TYPE 2 MT6768",
+      "name": "Infinix TYPE 2 MT6768",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Infinix TYPE 2 MT6768 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Infinix_TYPE_2_MT6768.bin",
+              "path": "files/DA_Infinix_TYPE_2_MT6768.bin",
+              "sha256": "d2ceaaa3f0bcf92d4911bab680c07cbde5447f275e10c8df9920ca10288d68db"
+            }
+          }
+        }
+      ]
+    },
+    "lake": {
+      "vendor": "Xiaomi",
+      "model": "Poco C75 (Lake)",
+      "name": "Xiaomi Poco C75 (Lake)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_14c.bin",
+              "path": "files/DA_Xiaomi_redmi_14c.bin",
+              "sha256": "9d9e0967ff375849822612eaec1b3a410e045d6aab1dd0de29cee1aaa32c4205"
             }
           }
         }
@@ -131,168 +1503,54 @@
         }
       ]
     },
-    "penangf": {
-      "vendor": "Motorola",
-      "model": "G13/G23",
-      "name": "Motorola G13/G23",
+    "lancelot": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 9",
+      "name": "Xiaomi Redmi 9",
       "versions": [
         {
           "id": 0,
           "default": true,
-          "name": "Carbonara Exploit or Unlocked BL",
-          "description": "Works with an unlocked bootloader. Vulnerable to the Carbonara exploit.",
+          "name": "Official Signed Flashing",
+          "description": "Files for flashing via SP Flash Tool on Helio G80.",
           "files": {
             "da": {
-              "name": "MT6769_USER.bin",
-              "path": "files/MT6769_USER.bin",
-              "sha256": "5fce44cc54451997159d3fd78564d1ddafdfda02341fedcadeee8780004258a9"
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "auth": {
+              "name": "auth_lancelot.auth",
+              "path": "files/auth_lancelot.auth",
+              "sha256": "f75f4387b279e27271cbf9c038837dd73620c75870bcf76bb56c1fc51f1f6c34"
+            },
+            "preloader": {
+              "name": "preloader_lancelot.bin",
+              "path": "files/preloader_lancelot.bin",
+              "sha256": "78c8f814a134b17d1b0123c072ee31fd3e57fa26eb1762ee4f0971693cd32b6a"
             }
           }
         },
         {
           "id": 1,
-          "name": "Official Signed Flashing (Locked BL)",
-          "description": "Works on a locked bootloader via a flash tool. The flashing is highly limited.",
-          "files": {
-            "da": {
-              "name": "DA_PL_NO_CERT_V6.bin",
-              "path": "files/DA_PL_NO_CERT_V6.bin",
-              "sha256": "77ae575005f2cde1613fea88a11ed7d92f3170984c1ec566f2586ad847466992"
-            }
-          }
-        }
-      ]
-    },
-    "pacman": {
-      "vendor": "Nothing",
-      "model": "Phone 2A",
-      "name": "Nothing Phone 2A",
-      "versions": [
-        {
-          "id": 0,
-          "default": true,
-          "name": "Fenrir Exploit",
-          "description": "Includes a preloader extracted from the beta version of the NothingOS 4 firmware. Full access to the firmware on any partition using fenrir exploit.",
-          "files": {
-            "da": {
-              "name": "DA_BR_Pacman.bin",
-              "path": "files/DA_BR_Pacman.bin",
-              "sha256": "a6b213c395c01580fb0dfa586580dd793e80b4d54c4d4d56359bfc196c19adcd"
-            },
-            "auth": {
-              "name": "auth_sv6_Pacman.auth",
-              "path": "files/auth_sv6_Pacman.auth",
-              "sha256": "6875e96e39bb2810cb330f977ea02e522ccb19f833be4cbc75a1eb12ed71a92a"
-            },
-            "preloader": {
-              "name": "preloader_pacman_beta.img",
-              "path": "files/preloader_pacman_beta.img",
-              "sha256": "e9cc1560df05ed6035a8f5d8b9fe194772cc69e4194010ac78a1f81b6f7113a2"
-            }
-          }
-        }
-      ]
-    },
-    "pacmanpro": {
-      "vendor": "Nothing",
-      "model": "Phone 2A Plus",
-      "name": "Nothing Phone 2A Plus",
-      "versions": [
-        {
-          "id": 0,
-          "default": true,
-          "name": "Fenrir Exploit",
-          "description": "Includes a preloader extracted from the beta version of the NothingOS 4 firmware. Full access to the firmware on any partition using fenrir exploit.",
-          "files": {
-            "da": {
-              "name": "DA_BR_PacmanPro.bin",
-              "path": "files/DA_BR_PacmanPro.bin",
-              "sha256": "6faeeb393c8457d607e4d0179cecbff640c553616b2ca199774d17891e40ef3a"
-            },
-            "auth": {
-              "name": "auth_sv6_PacmanPro.auth",
-              "path": "files/auth_sv6_PacmanPro.auth",
-              "sha256": "865b1eceb69cb844784e570d4685c7219fb8bef16a90d1db1b0bd2f0007cd937"
-            },
-            "preloader": {
-              "name": "preloader_pacmanpro_beta.img",
-              "path": "files/preloader_pacmanpro_beta.img",
-              "sha256": "ac2a5850382d68ea93ad9e322083947438bb08a3f8bc9ae774fb374028282d17"
-            }
-          }
-        }
-      ]
-    },
-    "cph2251": {
-      "vendor": "OPPO",
-      "model": "Reno 6 5G",
-      "name": "OPPO Reno 6 5G",
-      "versions": [
-        {
-          "id": 0,
-          "default": true,
-          "name": "Carbonara exploit",
-          "description": "Vulnerable to the Carbonara exploit.",
-          "files": {
-            "da": {
-              "name": "DA_BR_MT6877.bin",
-              "path": "files/DA_BR_MT6877.bin",
-              "sha256": "0f88ed6f7359bc0d4b3185eac0ba5509e664ea3260e642dd630170fdb35389c8"
-            },
-            "preloader": {
-              "name": "oppo_mt6877_prldr.bin",
-              "path": "files/oppo_mt6877_prldr.bin",
-              "sha256": "e53bef7b73bd5608a9b0dfc69018b6ed7c56d7606baf5887d726ef5fe05565e0"
-            }
-          }
-        }
-      ]
-    },
-    "doki": {
-      "vendor": "Realme",
-      "model": "10/10 4G",
-      "name": "Realme 10/10 4G",
-      "versions": [
-        {
-          "id": 0,
           "default": false,
-          "name": "Carbonara Exploit",
-          "description": "Vulnerable to the Carbonara exploit. Not all partitions are displayed without manual mode.",
+          "name": "Official Engineering Flashing",
+          "description": "Files for unbricking via SP Flash Tool on Helio G80.",
           "files": {
             "da": {
-              "name": "MT6789_REALME.bin",
-              "path": "files/MT6789_REALME.bin",
-              "sha256": "024d01b80a0ef2e50d4dae83ca90f3594c9879586163421d0f2fcb7bd6abb811"
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
             },
             "auth": {
-              "name": "REALME_MT6789.auth",
-              "path": "files/REALME_MT6789.auth",
-              "sha256": "e88f3f8cfa1dc79e0765d809dc186414c2ffb502f224bc4e76f1a0dd5ec66397"
-            }
-          }
-        }
-      ]
-    },
-    "KL7": {
-      "vendor": "Tecno",
-      "model": "Spark 30 pro",
-      "name": "Tecno Spark 30 pro",
-      "versions": [
-        {
-          "id": 0,
-          "default": true,
-          "name": "Unlocked BL",
-          "description": "Unlocked BL",
-          "files": {
-            "da": {
-              "name": "DA_BR_MT6789_transsion.bin",
-              "path": "files/DA_BR_MT6789_transsion.bin",
-              "sha256": "9092b7c0bd56b274584681ba9caa369b8a4e91691fba1f0eeac4057c67e30927"
+              "name": "auth_lancelot.auth",
+              "path": "files/auth_lancelot.auth",
+              "sha256": "f75f4387b279e27271cbf9c038837dd73620c75870bcf76bb56c1fc51f1f6c34"
             },
             "preloader": {
-              "name": "preloader_kl7_h8916.bin",
-              "path": "files/preloader_kl7_h8916.bin",
-              "sha256": "b4bc01fb72489f99bb498f73aae96f166ed7fb9b208b78ede1aaa43002a436f9"
+              "name": "preloader_lancelot_engineering.bin",
+              "path": "files/preloader_lancelot_engineering.bin",
+              "sha256": "c35184c0db0615cb9245e3e21cb91cd0b5d3b112774a968860e93c40928f5c68"
             }
           }
         }
@@ -366,54 +1624,151 @@
         }
       ]
     },
-    "lancelot": {
+    "ligh": {
       "vendor": "Xiaomi",
-      "model": "Redmi 9",
-      "name": "Xiaomi Redmi 9",
+      "model": "Poco M4 5G (Ligh)",
+      "name": "Xiaomi Poco M4 5G (Ligh)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_ligh.bin",
+              "path": "files/DA_Xiaomi_ligh.bin",
+              "sha256": "55404b20b0a69049f9cf29f92132066d366b37b4a6075e3c844ce44973ec99e3"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_ligh.bin",
+              "path": "files/preloader_Xiaomi_ligh.bin",
+              "sha256": "8a017dff23a7d38faf55edc645827bb4d2577072f04dff05803b9ce8ef4b1cd9"
+            }
+          }
+        }
+      ]
+    },
+    "light": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 11 Prime 5G (Light)",
+      "name": "Xiaomi Redmi 11 Prime 5G (Light)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_ligh.bin",
+              "path": "files/DA_Xiaomi_ligh.bin",
+              "sha256": "55404b20b0a69049f9cf29f92132066d366b37b4a6075e3c844ce44973ec99e3"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_ligh.bin",
+              "path": "files/preloader_Xiaomi_ligh.bin",
+              "sha256": "8a017dff23a7d38faf55edc645827bb4d2577072f04dff05803b9ce8ef4b1cd9"
+            }
+          }
+        }
+      ]
+    },
+    "lightcm": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11R (lightcm)",
+      "name": "Xiaomi Redmi Note 11R (lightcm)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_camellian.bin",
+              "path": "files/DA_Xiaomi_camellian.bin",
+              "sha256": "c59b5d096ffc5465ab092ca58574836a126dd0dc23444c104c102f5871be6f28"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_lightcm.bin",
+              "path": "files/preloader_Xiaomi_lightcm.bin",
+              "sha256": "7f28b7eb52491e679f10fa52f05bdf8401b607551b3d3472c6c69fe299577745"
+            }
+          }
+        }
+      ]
+    },
+    "lotus": {
+      "vendor": "Xiaomi",
+      "model": "Mi Play (Lotus)",
+      "name": "Xiaomi Mi Play (Lotus)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_lotus.bin",
+              "path": "files/preloader_Xiaomi_lotus.bin",
+              "sha256": "c771373187181bfe54f8576d43f82d9d14f42fa1f03ea31ae21479fc2f0c0600"
+            }
+          }
+        }
+      ]
+    },
+    "lvp9": {
+      "vendor": "Lenovo",
+      "model": "IdeaTab A7600-H",
+      "name": "Lenovo IdeaTab A7600-H",
       "versions": [
         {
           "id": 0,
           "default": true,
           "name": "Official Signed Flashing",
-          "description": "Files for flashing via SP Flash Tool on Helio G80.",
+          "description": "Includes a preloader and DA files, found in official device firmware package.",
           "files": {
             "da": {
-              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
-              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
-              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
-            },
-            "auth": {
-              "name": "auth_lancelot.auth",
-              "path": "files/auth_lancelot.auth",
-              "sha256": "f75f4387b279e27271cbf9c038837dd73620c75870bcf76bb56c1fc51f1f6c34"
+              "name": "MTK_AllInOne_DA.bin",
+              "path": "files/MTK_AllInOne_DA.bin",
+              "sha256": "6aa3e9796f27bf2ac7a15c217e3de0f87b301f10d32cb1cf7c9094c3dd44d218"
             },
             "preloader": {
-              "name": "preloader_lancelot.bin",
-              "path": "files/preloader_lancelot.bin",
-              "sha256": "78c8f814a134b17d1b0123c072ee31fd3e57fa26eb1762ee4f0971693cd32b6a"
+              "name": "preloader_lvp9_row_3gdatasms.bin",
+              "path": "files/preloader_lvp9_row_3gdatasms.bin",
+              "sha256": "60f6f98238dfa794146d10908c5a28c28bf4690fabfa234e22221d2d61a4a330"
             }
           }
-        },
+        }
+      ]
+    },
+    "malachite": {
+      "vendor": "Xiaomi",
+      "model": "Poco X7 5G (malachite)",
+      "name": "Xiaomi Poco X7 5G (malachite)",
+      "versions": [
         {
-          "id": 1,
+          "id": 0,
           "default": false,
-          "name": "Official Engineering Flashing",
-          "description": "Files for unbricking via SP Flash Tool on Helio G80.",
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
           "files": {
             "da": {
-              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
-              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
-              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
-            },
-            "auth": {
-              "name": "auth_lancelot.auth",
-              "path": "files/auth_lancelot.auth",
-              "sha256": "f75f4387b279e27271cbf9c038837dd73620c75870bcf76bb56c1fc51f1f6c34"
+              "name": "DA_Xiaomi_malachite.bin",
+              "path": "files/DA_Xiaomi_malachite.bin",
+              "sha256": "da82e65a8e6c42a66fe86caf07a628e11be58fd04149eddef65ca590add449d6"
             },
             "preloader": {
-              "name": "preloader_lancelot_engineering.bin",
-              "path": "files/preloader_lancelot_engineering.bin",
-              "sha256": "c35184c0db0615cb9245e3e21cb91cd0b5d3b112774a968860e93c40928f5c68"
+              "name": "preloader_Xiaomi_malachite.bin",
+              "path": "files/preloader_Xiaomi_malachite.bin",
+              "sha256": "b68ae30217a1bcb24c34bf1e00cf6a45e5863afdcc8d9a419116a86078eab653"
             }
           }
         }
@@ -449,6 +1804,948 @@
         }
       ]
     },
+    "moon": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 13 (Moon)",
+      "name": "Xiaomi Redmi 13 (Moon)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_moon.bin",
+              "path": "files/DA_Xiaomi_moon.bin",
+              "sha256": "202828dce12e936dcb97d02ba0479892dd8aaddb68639033e799454f88183427"
+            }
+          }
+        }
+      ]
+    },
+    "moon_os1_0_6_0": {
+      "vendor": "Xiaomi",
+      "model": "MOON (OS1.0.6.0)",
+      "name": "Xiaomi MOON (OS1.0.6.0)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (OS1.0.6.0)",
+          "description": "Xiaomi MOON OS1.0.6.0 MTK V5 DA",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_moon.bin",
+              "path": "files/DA_Xiaomi_moon.bin",
+              "sha256": "202828dce12e936dcb97d02ba0479892dd8aaddb68639033e799454f88183427"
+            }
+          }
+        }
+      ]
+    },
+    "motorola_v1_mt6765": {
+      "vendor": "Motorola",
+      "model": "V1 MT6765",
+      "name": "Motorola V1 MT6765",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Motorola V1 MT6765 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Motorola_V1_MT6765.bin",
+              "path": "files/DA_Motorola_V1_MT6765.bin",
+              "sha256": "e120cc0dab70e18852cc8f204a66efce2813055887f8727e829251cba1db014f"
+            }
+          }
+        }
+      ]
+    },
+    "motorola_v1_mt6768": {
+      "vendor": "Motorola",
+      "model": "V1 MT6768",
+      "name": "Motorola V1 MT6768",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Motorola V1 MT6768 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Motorola_V1_MT6768.bin",
+              "path": "files/DA_Motorola_V1_MT6768.bin",
+              "sha256": "2167ba44a48f0f1c87e2c7eb68414e28e8f71264940b2775a3335ae284373932"
+            }
+          }
+        }
+      ]
+    },
+    "motorola_v1_mt6855": {
+      "vendor": "Motorola",
+      "model": "V1 MT6855",
+      "name": "Motorola V1 MT6855",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Motorola V1 MT6855 MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Motorola_V1_MT6855.bin",
+              "path": "files/DA_Motorola_V1_MT6855.bin",
+              "sha256": "ff9449bbc7455c3fde62020d2bd4254f8a175bcf639fb169f9effbc7eb0c8573"
+            }
+          }
+        }
+      ]
+    },
+    "obsidian": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 14 Pro 4G (obsidian)",
+      "name": "Xiaomi Redmi Note 14 Pro 4G (obsidian)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_emerald.bin",
+              "path": "files/DA_Xiaomi_emerald.bin",
+              "sha256": "df37fb80d2e647a7f7c85fd559244d23534bb55083c7c0b3aa31c8bf92f55c4b"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_obsidian.bin",
+              "path": "files/preloader_Xiaomi_obsidian.bin",
+              "sha256": "88afc65a464536a56ea31d4fa8db33e08059fb14cec3f450841fcd14de338066"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_da_oppo_mt6768_2025": {
+      "vendor": "OnePlus",
+      "model": "DA OPPO MT6768 2025",
+      "name": "OnePlus DA OPPO MT6768 2025",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus DA OPPO MT6768 2025 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_DA_OPPO_MT6768_2025.bin",
+              "path": "files/DA_OnePlus_DA_OPPO_MT6768_2025.bin",
+              "sha256": "a163044921d4eee49ce5d5e7c6e469ed4e3f5ab52f8eebc4bcbea33fef2cb16d"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_v1_mt6765": {
+      "vendor": "OnePlus",
+      "model": "V1 MT6765",
+      "name": "OnePlus V1 MT6765",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus V1 MT6765 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6765.bin",
+              "path": "files/DA_OnePlus_V1_MT6765.bin",
+              "sha256": "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_v1_mt6768": {
+      "vendor": "OnePlus",
+      "model": "V1 MT6768",
+      "name": "OnePlus V1 MT6768",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus V1 MT6768 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6768.bin",
+              "path": "files/DA_OnePlus_V1_MT6768.bin",
+              "sha256": "a869e1c8a26e2ae9d6b8cee8f1ea310598a614489deca916f7e41be6f3c7ef2b"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_v1_mt6833": {
+      "vendor": "OnePlus",
+      "model": "V1 MT6833",
+      "name": "OnePlus V1 MT6833",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus V1 MT6833 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6833.bin",
+              "path": "files/DA_OnePlus_V1_MT6833.bin",
+              "sha256": "cd69cfcead293d4a35ba2773786917023b70634ef4b78da47b8604a58c1736cc"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_v1_mt6853": {
+      "vendor": "OnePlus",
+      "model": "V1 MT6853",
+      "name": "OnePlus V1 MT6853",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus V1 MT6853 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6853.bin",
+              "path": "files/DA_OnePlus_V1_MT6853.bin",
+              "sha256": "6150574616055fe6fbd4e91b356cfa5375fab4d990621a220e919089bf905d15"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_v1_mt6877": {
+      "vendor": "OnePlus",
+      "model": "V1 MT6877",
+      "name": "OnePlus V1 MT6877",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus V1 MT6877 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6877.bin",
+              "path": "files/DA_OnePlus_V1_MT6877.bin",
+              "sha256": "015e20591443c34ffe69ff6e53a2303e8446ba6bb6467eedcc7af4ce2a3ba2fd"
+            }
+          }
+        }
+      ]
+    },
+    "oneplus_v1_mt6893": {
+      "vendor": "OnePlus",
+      "model": "V1 MT6893",
+      "name": "OnePlus V1 MT6893",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "OnePlus V1 MT6893 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6893.bin",
+              "path": "files/DA_OnePlus_V1_MT6893.bin",
+              "sha256": "70cf828bf3e4f04a8c197f1685199584136e55ea01d639afcdd2d3234117e376"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_da_oppo_mt6768_2025": {
+      "vendor": "Oppo",
+      "model": "DA OPPO MT6768 2025",
+      "name": "Oppo DA OPPO MT6768 2025",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo DA OPPO MT6768 2025 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_DA_OPPO_MT6768_2025.bin",
+              "path": "files/DA_OnePlus_DA_OPPO_MT6768_2025.bin",
+              "sha256": "a163044921d4eee49ce5d5e7c6e469ed4e3f5ab52f8eebc4bcbea33fef2cb16d"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v1_mt6765": {
+      "vendor": "Oppo",
+      "model": "V1 MT6765",
+      "name": "Oppo V1 MT6765",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo V1 MT6765 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6765.bin",
+              "path": "files/DA_OnePlus_V1_MT6765.bin",
+              "sha256": "461286e3e1e9dbd03001f96e3fc01c15324ea0fd0f0106189d49f945f121e034"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v1_mt6768": {
+      "vendor": "Oppo",
+      "model": "V1 MT6768",
+      "name": "Oppo V1 MT6768",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo V1 MT6768 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6768.bin",
+              "path": "files/DA_OnePlus_V1_MT6768.bin",
+              "sha256": "a869e1c8a26e2ae9d6b8cee8f1ea310598a614489deca916f7e41be6f3c7ef2b"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v1_mt6833": {
+      "vendor": "Oppo",
+      "model": "V1 MT6833",
+      "name": "Oppo V1 MT6833",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo V1 MT6833 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6833.bin",
+              "path": "files/DA_OnePlus_V1_MT6833.bin",
+              "sha256": "cd69cfcead293d4a35ba2773786917023b70634ef4b78da47b8604a58c1736cc"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v1_mt6853": {
+      "vendor": "Oppo",
+      "model": "V1 MT6853",
+      "name": "Oppo V1 MT6853",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo V1 MT6853 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6853.bin",
+              "path": "files/DA_OnePlus_V1_MT6853.bin",
+              "sha256": "6150574616055fe6fbd4e91b356cfa5375fab4d990621a220e919089bf905d15"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v1_mt6877": {
+      "vendor": "Oppo",
+      "model": "V1 MT6877",
+      "name": "Oppo V1 MT6877",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo V1 MT6877 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6877.bin",
+              "path": "files/DA_OnePlus_V1_MT6877.bin",
+              "sha256": "015e20591443c34ffe69ff6e53a2303e8446ba6bb6467eedcc7af4ce2a3ba2fd"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v1_mt6893": {
+      "vendor": "Oppo",
+      "model": "V1 MT6893",
+      "name": "Oppo V1 MT6893",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Generic SoC)",
+          "description": "Oppo V1 MT6893 MTK V5 DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_OnePlus_V1_MT6893.bin",
+              "path": "files/DA_OnePlus_V1_MT6893.bin",
+              "sha256": "70cf828bf3e4f04a8c197f1685199584136e55ea01d639afcdd2d3234117e376"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v6_custom": {
+      "vendor": "Oppo",
+      "model": "V6 custom",
+      "name": "Oppo V6 custom",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Oppo V6 custom MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Oppo_V6_custom.bin",
+              "path": "files/DA_Oppo_V6_custom.bin",
+              "sha256": "3ac3ffa10b463f20549284c48a4beac96124fd1d0c008e1cd68e1b477bd44838"
+            }
+          }
+        }
+      ]
+    },
+    "oppo_v6_download": {
+      "vendor": "Oppo",
+      "model": "V6 download",
+      "name": "Oppo V6 download",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Generic SoC)",
+          "description": "Oppo V6 download MTK V6 XML DA (decrypted & SHA-256 verified)",
+          "files": {
+            "da": {
+              "name": "DA_Oppo_V6_download.bin",
+              "path": "files/DA_Oppo_V6_download.bin",
+              "sha256": "96471e726fe2df28a2f16f73c1ed0dc0029aaa85e0fee55bfcd842712774c911"
+            }
+          }
+        }
+      ]
+    },
+    "pacman": {
+      "vendor": "Nothing",
+      "model": "Phone 2A",
+      "name": "Nothing Phone 2A",
+      "versions": [
+        {
+          "id": 0,
+          "default": true,
+          "name": "Fenrir Exploit",
+          "description": "Includes a preloader extracted from the beta version of the NothingOS 4 firmware. Full access to the firmware on any partition using fenrir exploit.",
+          "files": {
+            "da": {
+              "name": "DA_BR_Pacman.bin",
+              "path": "files/DA_BR_Pacman.bin",
+              "sha256": "a6b213c395c01580fb0dfa586580dd793e80b4d54c4d4d56359bfc196c19adcd"
+            },
+            "auth": {
+              "name": "auth_sv6_Pacman.auth",
+              "path": "files/auth_sv6_Pacman.auth",
+              "sha256": "6875e96e39bb2810cb330f977ea02e522ccb19f833be4cbc75a1eb12ed71a92a"
+            },
+            "preloader": {
+              "name": "preloader_pacman_beta.img",
+              "path": "files/preloader_pacman_beta.img",
+              "sha256": "e9cc1560df05ed6035a8f5d8b9fe194772cc69e4194010ac78a1f81b6f7113a2"
+            }
+          }
+        }
+      ]
+    },
+    "pacmanpro": {
+      "vendor": "Nothing",
+      "model": "Phone 2A Plus",
+      "name": "Nothing Phone 2A Plus",
+      "versions": [
+        {
+          "id": 0,
+          "default": true,
+          "name": "Fenrir Exploit",
+          "description": "Includes a preloader extracted from the beta version of the NothingOS 4 firmware. Full access to the firmware on any partition using fenrir exploit.",
+          "files": {
+            "da": {
+              "name": "DA_BR_PacmanPro.bin",
+              "path": "files/DA_BR_PacmanPro.bin",
+              "sha256": "6faeeb393c8457d607e4d0179cecbff640c553616b2ca199774d17891e40ef3a"
+            },
+            "auth": {
+              "name": "auth_sv6_PacmanPro.auth",
+              "path": "files/auth_sv6_PacmanPro.auth",
+              "sha256": "865b1eceb69cb844784e570d4685c7219fb8bef16a90d1db1b0bd2f0007cd937"
+            },
+            "preloader": {
+              "name": "preloader_pacmanpro_beta.img",
+              "path": "files/preloader_pacmanpro_beta.img",
+              "sha256": "ac2a5850382d68ea93ad9e322083947438bb08a3f8bc9ae774fb374028282d17"
+            }
+          }
+        }
+      ]
+    },
+    "pd1901ef": {
+      "vendor": "Vivo",
+      "model": "Y12 PD1901EF",
+      "name": "Vivo Y12 PD1901EF",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Auth + Preloader)",
+          "description": "MTK V5 DA + Auth + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Vivo_pd1901ef.bin",
+              "path": "files/DA_Vivo_pd1901ef.bin",
+              "sha256": "fc63765e21fdb2ea3dfcd23dc9a6516711d55bb4cd1e607d7c73a9e14742d89b"
+            },
+            "auth": {
+              "name": "auth_Vivo_pd1901ef.auth",
+              "path": "files/auth_Vivo_pd1901ef.auth",
+              "sha256": "a1aae41e37a868e78f0665d04fe41cf75a093cb3e6b09dde0768a2480453e3d0"
+            },
+            "preloader": {
+              "name": "preloader_Vivo_pd1901ef.bin",
+              "path": "files/preloader_Vivo_pd1901ef.bin",
+              "sha256": "78f1737911537c3196b94dd3d27c0c2f8c0d558c2cf9ff067dc0fe707c110de9"
+            }
+          }
+        }
+      ]
+    },
+    "pearl": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 12T Pro (pearl)",
+      "name": "Xiaomi Redmi Note 12T Pro (pearl)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_pearl.bin",
+              "path": "files/DA_Xiaomi_pearl.bin",
+              "sha256": "6a5924129f9a2c17a5685f5c0e7bac4fd0762783f3345410c667439d3b51f0c4"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_pearl.bin",
+              "path": "files/preloader_Xiaomi_pearl.bin",
+              "sha256": "0cc6a85bda62044a05379632a2ea532c2440f16ca3c85b623a20e812673e41c8"
+            }
+          }
+        }
+      ]
+    },
+    "penangf": {
+      "vendor": "Motorola",
+      "model": "G13/G23",
+      "name": "Motorola G13/G23",
+      "versions": [
+        {
+          "id": 0,
+          "default": true,
+          "name": "Carbonara Exploit or Unlocked BL",
+          "description": "Works with an unlocked bootloader. Vulnerable to the Carbonara exploit.",
+          "files": {
+            "da": {
+              "name": "MT6769_USER.bin",
+              "path": "files/MT6769_USER.bin",
+              "sha256": "5fce44cc54451997159d3fd78564d1ddafdfda02341fedcadeee8780004258a9"
+            }
+          }
+        },
+        {
+          "id": 1,
+          "name": "Official Signed Flashing (Locked BL)",
+          "description": "Works on a locked bootloader via a flash tool. The flashing is highly limited.",
+          "files": {
+            "da": {
+              "name": "DA_PL_NO_CERT_V6.bin",
+              "path": "files/DA_PL_NO_CERT_V6.bin",
+              "sha256": "77ae575005f2cde1613fea88a11ed7d92f3170984c1ec566f2586ad847466992"
+            }
+          }
+        }
+      ]
+    },
+    "pissarro": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11 Pro Plus (pissarro)",
+      "name": "Xiaomi Redmi Note 11 Pro Plus (pissarro)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_viva.bin",
+              "path": "files/DA_Xiaomi_viva.bin",
+              "sha256": "b8d1a2efd5cd2e665ae362ee6f947d8718dd36d3669d453a3170b9ce40141736"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_viva.bin",
+              "path": "files/preloader_Xiaomi_viva.bin",
+              "sha256": "e62c0f19ca6cca41b589e6970d410e176eed148782e96e3815f1d494b48ff9cc"
+            }
+          }
+        }
+      ]
+    },
+    "plato": {
+      "vendor": "Xiaomi",
+      "model": "12T (Plato)",
+      "name": "Xiaomi 12T (Plato)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_plato.bin",
+              "path": "files/DA_Xiaomi_plato.bin",
+              "sha256": "c4201a85807c884b377afe616349e724a65f2235cdc36ff46eb626f19bbd48dc"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_plato.bin",
+              "path": "files/preloader_Xiaomi_plato.bin",
+              "sha256": "f5b558100ceafd0bb098527fd2cc7f37c193979be9db86c9111cea4ff72fbeea"
+            }
+          }
+        }
+      ]
+    },
+    "poco_m5_rock_os1_0_5_0": {
+      "vendor": "Xiaomi",
+      "model": "Poco M5 rock OS1.0.5.0",
+      "name": "Xiaomi Poco M5 rock OS1.0.5.0",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA",
+          "description": "MTK V6 XML DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_rock.bin",
+              "path": "files/DA_Xiaomi_rock.bin",
+              "sha256": "9fbe2e9a55ddf0d2c9f325814b174e60e5758ee59f44511da4ede1aa6e8ef3f3"
+            }
+          }
+        }
+      ]
+    },
+    "redmi_13c": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 13C",
+      "name": "Xiaomi Redmi 13C",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_13c.bin",
+              "path": "files/DA_Xiaomi_redmi_13c.bin",
+              "sha256": "f6d2c91c1fd1966690049ed2bb47d537a0950d4735d0da510e2f07cf0423f16a"
+            }
+          }
+        }
+      ]
+    },
+    "redmi_13c_gale_eng": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 13C Gale ENG",
+      "name": "Xiaomi Redmi 13C Gale ENG",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_13c_gale_eng.bin",
+              "path": "files/DA_Xiaomi_redmi_13c_gale_eng.bin",
+              "sha256": "df9057675f3557102da78012908a17829397102c5c653b9e81e622a2640848e4"
+            }
+          }
+        }
+      ]
+    },
+    "redmi_14c": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 14C",
+      "name": "Xiaomi Redmi 14C",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_14c.bin",
+              "path": "files/DA_Xiaomi_redmi_14c.bin",
+              "sha256": "9d9e0967ff375849822612eaec1b3a410e045d6aab1dd0de29cee1aaa32c4205"
+            }
+          }
+        }
+      ]
+    },
+    "redmi_a3": {
+      "vendor": "Xiaomi",
+      "model": "Redmi A3",
+      "name": "Xiaomi Redmi A3",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_redmi_a3.bin",
+              "path": "files/DA_Xiaomi_redmi_a3.bin",
+              "sha256": "571b856f43b6d84560fa52135c5ebf68ca931f91e2895eb1f49b2f394b681558"
+            }
+          }
+        }
+      ]
+    },
+    "rembrandt": {
+      "vendor": "Xiaomi",
+      "model": "Redmi K60E (rembrandt)",
+      "name": "Xiaomi Redmi K60E (rembrandt)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_rubens.bin",
+              "path": "files/DA_Xiaomi_rubens.bin",
+              "sha256": "08e23c24dd8e2568fe2f73376b5a39c821221dff866052baab56a88dfcf7d52d"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_rembrandt.bin",
+              "path": "files/preloader_Xiaomi_rembrandt.bin",
+              "sha256": "5110323774b86adfef0795705e9eecad345d5d35e5e441e6528b6b9137a4552b"
+            }
+          }
+        }
+      ]
+    },
+    "rock": {
+      "vendor": "Xiaomi",
+      "model": "Poco M5 (Rock)",
+      "name": "Xiaomi Poco M5 (Rock)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_rock.bin",
+              "path": "files/DA_Xiaomi_rock.bin",
+              "sha256": "9fbe2e9a55ddf0d2c9f325814b174e60e5758ee59f44511da4ede1aa6e8ef3f3"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_rock.bin",
+              "path": "files/preloader_Xiaomi_rock.bin",
+              "sha256": "b28232a1fec01ad7f6cb24af8b85caa6dabee27276004c03b37e229e8cf78512"
+            }
+          }
+        }
+      ]
+    },
+    "rodin": {
+      "vendor": "Xiaomi",
+      "model": "Poco X7 Pro (rodin)",
+      "name": "Xiaomi Poco X7 Pro (rodin)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_rodin.bin",
+              "path": "files/DA_Xiaomi_rodin.bin",
+              "sha256": "976b86d8b0b1aa934ed338479e87bc1c50d5de3aadc6657f203db5772836a097"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_rodin.bin",
+              "path": "files/preloader_Xiaomi_rodin.bin",
+              "sha256": "53afc3b92fbb62e575c99835e98cf43c67c54ee38ce98e8894656116b9356cdf"
+            }
+          }
+        }
+      ]
+    },
+    "rosemary": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 10S (Rosemary)",
+      "name": "Xiaomi Redmi Note 10S (Rosemary)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_rosemary.bin",
+              "path": "files/preloader_Xiaomi_rosemary.bin",
+              "sha256": "1125e07ddb706e6c6378e502e6be354c9677e863c7118dd6bf0ba80441f30cb4"
+            }
+          }
+        }
+      ]
+    },
+    "rothko": {
+      "vendor": "Xiaomi",
+      "model": "14T Pro (Rothko)",
+      "name": "Xiaomi 14T Pro (Rothko)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_rothko.bin",
+              "path": "files/DA_Xiaomi_rothko.bin",
+              "sha256": "1241bc1bf51de0989b6bece7c51fbd85f81b1ea7fc1baf6f1c91217d87f0e278"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_rothko.bin",
+              "path": "files/preloader_Xiaomi_rothko.bin",
+              "sha256": "3c5989c047340555ac767a834f6893c5f4c23190bfd02bf55cfd043cfae4b88c"
+            }
+          }
+        }
+      ]
+    },
+    "rubens": {
+      "vendor": "Xiaomi",
+      "model": "Redmi K50 (rubens)",
+      "name": "Xiaomi Redmi K50 (rubens)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_rubens.bin",
+              "path": "files/DA_Xiaomi_rubens.bin",
+              "sha256": "08e23c24dd8e2568fe2f73376b5a39c821221dff866052baab56a88dfcf7d52d"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_rubens.bin",
+              "path": "files/preloader_Xiaomi_rubens.bin",
+              "sha256": "9bd0369b8938f66f7a525393324e34babc8922510c04136034ca74864f7a4174"
+            }
+          }
+        }
+      ]
+    },
+    "ruby": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 12 Pro (ruby)",
+      "name": "Xiaomi Redmi Note 12 Pro (ruby)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_ruby.bin",
+              "path": "files/DA_Xiaomi_ruby.bin",
+              "sha256": "06d706d4f53dc5e66a0a69c3682b04e8e7f5617c4e4c4c941f88ebc0c9f91e26"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_ruby.bin",
+              "path": "files/preloader_Xiaomi_ruby.bin",
+              "sha256": "82fa39b439346a948bf4dd1e7d8161741a0d144ddab392f663799fe1ebd37bc0"
+            }
+          }
+        }
+      ]
+    },
+    "sea": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 12S (Sea)",
+      "name": "Xiaomi Redmi Note 12S (Sea)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_sea.bin",
+              "path": "files/DA_Xiaomi_sea.bin",
+              "sha256": "1b078391f18e0a1a2326c41ad8913722e986c16287a22fd3ba4631d89e798eb5"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_sea.bin",
+              "path": "files/preloader_Xiaomi_sea.bin",
+              "sha256": "914f74a2153e68e61c68212662b78b6256b588e27b652dfb71df98eeb9071126"
+            }
+          }
+        }
+      ]
+    },
     "selene": {
       "vendor": "Xiaomi",
       "model": "Redmi 10",
@@ -474,6 +2771,921 @@
               "name": "preloader_selene.bin",
               "path": "files/preloader_selene.bin",
               "sha256": "863cd16b3525864d9210db179c47b086f62136f501024ab00f805f87b63085dd"
+            }
+          }
+        }
+      ]
+    },
+    "selenes": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11 4G (selenes)",
+      "name": "Xiaomi Redmi Note 11 4G (selenes)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA",
+          "description": "MTK V5 DA (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_earth.bin",
+              "path": "files/DA_Xiaomi_earth.bin",
+              "sha256": "daec1cf56d9ccaf2be3df88374d9d18812a418841517eacd54c418095aa255c6"
+            }
+          }
+        }
+      ]
+    },
+    "sheng": {
+      "vendor": "Xiaomi",
+      "model": "Pad 6S Pro (Sheng)",
+      "name": "Xiaomi Pad 6S Pro (Sheng)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_sheng.bin",
+              "path": "files/DA_Xiaomi_sheng.bin",
+              "sha256": "fbbbdf545f58c2c98490245d450a286bbd33470fd4f725bf3dd4f71649f84cc7"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_sheng.bin",
+              "path": "files/preloader_Xiaomi_sheng.bin",
+              "sha256": "fc9071db003154272ec89bba2160ede827438c0db9b751a3872e1329fd670207"
+            }
+          }
+        }
+      ]
+    },
+    "shiva": {
+      "vendor": "Xiaomi",
+      "model": "Poco M2 (Shiva)",
+      "name": "Xiaomi Poco M2 (Shiva)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_6765_6785_6768_6873_6885_6853.bin",
+              "path": "files/DA_6765_6785_6768_6873_6885_6853.bin",
+              "sha256": "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_shiva.bin",
+              "path": "files/preloader_Xiaomi_shiva.bin",
+              "sha256": "84023d212ceff5145e8c19c35a41e9f6394d1882686ef2e6cf700053f7c4b268"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a155f": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 (SM-A155F)",
+      "name": "Samsung Galaxy A15 (SM-A155F)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a155f.bin",
+              "path": "files/DA_Samsung_sm-a155f.bin",
+              "sha256": "066c1fca28a1200af8b007882663e66d58f2f58db664d3ea093a0b88d7bb06ed"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a155f.auth",
+              "path": "files/auth_Samsung_sm-a155f.auth",
+              "sha256": "432c0de5a4801b58bf7cd583fb59f43653db928036afcaadfa9b7c2a566e50ba"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a155m": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 4G (SM-A155M)",
+      "name": "Samsung Galaxy A15 4G (SM-A155M)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a155m.bin",
+              "path": "files/DA_Samsung_sm-a155m.bin",
+              "sha256": "f8afcb36596d5a814f65dd3ef4148024ee951297a4cdabc3783b6d9a30a368c4"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a155m.auth",
+              "path": "files/auth_Samsung_sm-a155m.auth",
+              "sha256": "1dfd0a58572980fd87a61e830243311ba5bc976b253e3e67d309124f507ae87c"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a156b": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 5G (SM-A156B)",
+      "name": "Samsung Galaxy A15 5G (SM-A156B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a156b.bin",
+              "path": "files/DA_Samsung_sm-a156b.bin",
+              "sha256": "669ecfb3f25d8c114e576c3c4c8fd7f1121dc848ed104d0a6d4e8993bff8b70a"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a156b.auth",
+              "path": "files/auth_Samsung_sm-a156b.auth",
+              "sha256": "0103da94da3412f170af66fa101a0e5fcbc7f0511ae7dd6791f38f0f93288b0a"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a156e": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 5G (SM-A156E)",
+      "name": "Samsung Galaxy A15 5G (SM-A156E)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a156e.bin",
+              "path": "files/DA_Samsung_sm-a156e.bin",
+              "sha256": "779007504b02e4b11105184c71348ade9ba238ad07131418bd3f573c95c30d41"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a156e.auth",
+              "path": "files/auth_Samsung_sm-a156e.auth",
+              "sha256": "95a221bb9152359b421e5249bcab8825208d212a4e003f1abc7e202f9b7cfc5b"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a156m": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 5G (SM-A156M)",
+      "name": "Samsung Galaxy A15 5G (SM-A156M)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a156m.bin",
+              "path": "files/DA_Samsung_sm-a156m.bin",
+              "sha256": "9a700832a696591f19688459188dae852a00150faebddde23ac6481e5cd10a54"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a156m.auth",
+              "path": "files/auth_Samsung_sm-a156m.auth",
+              "sha256": "a715469e8d99e18cb489a1d8d0057c88ed4edacf105f4f29e5a6353f1b964f5e"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a156n": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 5G (SM-A156N)",
+      "name": "Samsung Galaxy A15 5G (SM-A156N)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a156n.bin",
+              "path": "files/DA_Samsung_sm-a156n.bin",
+              "sha256": "f618e341335bed9591d17928e3b55cb6ed8869d11edea6ed7e84aa772c60780c"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a156n.auth",
+              "path": "files/auth_Samsung_sm-a156n.auth",
+              "sha256": "4f0735f1cc38c7468ce82f4fd0544afd697ec2907394a1c25a6bac326b4537f9"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a156u": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 5G (SM-A156U)",
+      "name": "Samsung Galaxy A15 5G (SM-A156U)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a156u.bin",
+              "path": "files/DA_Samsung_sm-a156u.bin",
+              "sha256": "49f5e5d8feade84960c2148c8e9875a207761a1004ab4e36d543154e9c5eb27a"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a156u.auth",
+              "path": "files/auth_Samsung_sm-a156u.auth",
+              "sha256": "dff5f4886dc344391e878af4d8ae3fef186f6fb52a5fbc2030fa1afead85ed2a"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a156w": {
+      "vendor": "Samsung",
+      "model": "Galaxy A15 5G (SM-A156W)",
+      "name": "Samsung Galaxy A15 5G (SM-A156W)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a156w.bin",
+              "path": "files/DA_Samsung_sm-a156w.bin",
+              "sha256": "190c982a39e1bfe4b32f8c8abcabf138ee63f24f4351dfc05870dbbac173c7d4"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a156u.auth",
+              "path": "files/auth_Samsung_sm-a156u.auth",
+              "sha256": "dff5f4886dc344391e878af4d8ae3fef186f6fb52a5fbc2030fa1afead85ed2a"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a165f": {
+      "vendor": "Samsung",
+      "model": "Galaxy A16 4G (SM-A165F)",
+      "name": "Samsung Galaxy A16 4G (SM-A165F)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a165f.bin",
+              "path": "files/DA_Samsung_sm-a165f.bin",
+              "sha256": "8d01f2ea6ee5258de725a88fc1f42c940e3fe0765f2f44f4fa5eff9560c9a945"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a165f.auth",
+              "path": "files/auth_Samsung_sm-a165f.auth",
+              "sha256": "e27b4c9260b97acc872b8b35e43fbb5ebe13853c3ac443bbe084c5107690e9c9"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a166p": {
+      "vendor": "Samsung",
+      "model": "Galaxy A16 5G (SM-A166P)",
+      "name": "Samsung Galaxy A16 5G (SM-A166P)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a166p.bin",
+              "path": "files/DA_Samsung_sm-a166p.bin",
+              "sha256": "64b8691d7f27f27c8490808bf5fec15d554e2de986ddd861b3dcc702a308a1cc"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a166p.auth",
+              "path": "files/auth_Samsung_sm-a166p.auth",
+              "sha256": "ad2c97c3201ce52850f34c511d92306ff3e28b112d3226592b5079c659e75daa"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a245f": {
+      "vendor": "Samsung",
+      "model": "Galaxy A24 4G (SM-A245F)",
+      "name": "Samsung Galaxy A24 4G (SM-A245F)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a245f.bin",
+              "path": "files/DA_Samsung_sm-a245f.bin",
+              "sha256": "8e4d51428359be2908f718221c220ca3fa98fa356d174d5597878bc82b07f377"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a245f.auth",
+              "path": "files/auth_Samsung_sm-a245f.auth",
+              "sha256": "f0398e251c085ddf1c0feae6a70af5ce7c487cdef033317e9b53e23cb941d144"
+            }
+          }
+        }
+      ]
+    },
+    "sm-a245m": {
+      "vendor": "Samsung",
+      "model": "Galaxy A24 4G (SM-A245M)",
+      "name": "Samsung Galaxy A24 4G (SM-A245M)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-a245m.bin",
+              "path": "files/DA_Samsung_sm-a245m.bin",
+              "sha256": "c19c395c9a820f551df45544272a836e4305e47d4442794c9134759573c76eae"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-a245m.auth",
+              "path": "files/auth_Samsung_sm-a245m.auth",
+              "sha256": "305887e986c7ff71bf743a40ae8dbdd7b120a61d4b4ee385457c56760601572b"
+            }
+          }
+        }
+      ]
+    },
+    "sm-e066b": {
+      "vendor": "Samsung",
+      "model": "Galaxy A06 5G (SM-E066B)",
+      "name": "Samsung Galaxy A06 5G (SM-E066B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-e066b.bin",
+              "path": "files/DA_Samsung_sm-e066b.bin",
+              "sha256": "4fd761e203517d79724d932b75bcef897f59c0f153c49d27dc5e8e396cfcf5e1"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-e066b.auth",
+              "path": "files/auth_Samsung_sm-e066b.auth",
+              "sha256": "6312bd6242f4410c9d5089237da9ce70884ca9997d650e0a61d76b5f447c623c"
+            }
+          }
+        }
+      ]
+    },
+    "sm-e156b": {
+      "vendor": "Samsung",
+      "model": "Galaxy F15 (SM-E156B)",
+      "name": "Samsung Galaxy F15 (SM-E156B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-e156b.bin",
+              "path": "files/DA_Samsung_sm-e156b.bin",
+              "sha256": "91e2a7e376c21fd773117ac4c2f97e64bd69db1c4b65c6460367eb4586f4424e"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-e066b.auth",
+              "path": "files/auth_Samsung_sm-e066b.auth",
+              "sha256": "6312bd6242f4410c9d5089237da9ce70884ca9997d650e0a61d76b5f447c623c"
+            }
+          }
+        }
+      ]
+    },
+    "sm-g556b": {
+      "vendor": "Samsung",
+      "model": "Galaxy XCover7 (SM-G556B)",
+      "name": "Samsung Galaxy XCover7 (SM-G556B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-g556b.bin",
+              "path": "files/DA_Samsung_sm-g556b.bin",
+              "sha256": "c21fc84c7bf34a26524b4966c635859b8140128ad7468ce8c3729eb126696f65"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-g556b.auth",
+              "path": "files/auth_Samsung_sm-g556b.auth",
+              "sha256": "62bf863a2b82acd3a39ceda5d3ba6466602ce9eede31d04da41bc18a0f3c0500"
+            }
+          }
+        }
+      ]
+    },
+    "sm-m156b": {
+      "vendor": "Samsung",
+      "model": "Galaxy M15 (SM-M156B)",
+      "name": "Samsung Galaxy M15 (SM-M156B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-m156b.bin",
+              "path": "files/DA_Samsung_sm-m156b.bin",
+              "sha256": "861f7fed9f0048fef8caf8988d449c0f28ae31d494fa028ee54a22fb7d15f36e"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-m156b.auth",
+              "path": "files/auth_Samsung_sm-m156b.auth",
+              "sha256": "336968edea1997488f55138b412d24b567e10ad0bb2548d554b043fb83a89b1c"
+            }
+          }
+        }
+      ]
+    },
+    "sm-s167vl": {
+      "vendor": "Samsung",
+      "model": "Galaxy A16 (SM-S167VL)",
+      "name": "Samsung Galaxy A16 (SM-S167VL)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Auth)",
+          "description": "MTK V5 DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-s167vl.bin",
+              "path": "files/DA_Samsung_sm-s167vl.bin",
+              "sha256": "42e52db6f734aee4f00800ca972fbee6aaec3465eec7fce5ffa7ede9d0a7a51a"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-s167vl.auth",
+              "path": "files/auth_Samsung_sm-s167vl.auth",
+              "sha256": "d733fcc0f0c8712cff4f0145275d7b29c62fa7d7d2fa2d3b3e1e218d2126e5d8"
+            }
+          }
+        }
+      ]
+    },
+    "sm-x110": {
+      "vendor": "Samsung",
+      "model": "Galaxy Tab A9 (SM-X110)",
+      "name": "Samsung Galaxy Tab A9 (SM-X110)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-x110.bin",
+              "path": "files/DA_Samsung_sm-x110.bin",
+              "sha256": "877f1c069a6d1e73b8b8943fe4f06a38296989d985b144280821292f6d6dfce0"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-x110.auth",
+              "path": "files/auth_Samsung_sm-x110.auth",
+              "sha256": "c0228393f237d5eea208cbaad251486188c6a6c0815d9e3a1485c8cdb5917b2b"
+            }
+          }
+        }
+      ]
+    },
+    "sm-x115": {
+      "vendor": "Samsung",
+      "model": "Galaxy Tab A9 (SM-X115)",
+      "name": "Samsung Galaxy Tab A9 (SM-X115)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-x115.bin",
+              "path": "files/DA_Samsung_sm-x115.bin",
+              "sha256": "0d11d270cc7348e63e15f1644d395377e665428c7c718bbb1cfd23663b2d3c67"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-x115.auth",
+              "path": "files/auth_Samsung_sm-x115.auth",
+              "sha256": "f884b1c0f2fe246abab6adc364d2f5859654b6322b764ea4f412f5d235f811bb"
+            }
+          }
+        }
+      ]
+    },
+    "sm-x820f": {
+      "vendor": "Samsung",
+      "model": "Galaxy Tab S10+ (SM-X820F)",
+      "name": "Samsung Galaxy Tab S10+ (SM-X820F)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-x820f.bin",
+              "path": "files/DA_Samsung_sm-x820f.bin",
+              "sha256": "9d60feefdaca9a6342c4901c2276c9e5cb3087e1668581f5a7af4d5398068368"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-x820f.auth",
+              "path": "files/auth_Samsung_sm-x820f.auth",
+              "sha256": "f4ffcd2e45334ebed805df2d671cb12dc05254e8168fa88b87d72fcd14d2a3ec"
+            }
+          }
+        }
+      ]
+    },
+    "sm-x826b": {
+      "vendor": "Samsung",
+      "model": "Galaxy Tab S10+ (SM-X826B)",
+      "name": "Samsung Galaxy Tab S10+ (SM-X826B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-x826b.bin",
+              "path": "files/DA_Samsung_sm-x826b.bin",
+              "sha256": "d8b269d237d960c67be2f72402e2a222ff325f4002e77aa365a3b7580a9ed93e"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-x826b.auth",
+              "path": "files/auth_Samsung_sm-x826b.auth",
+              "sha256": "30fac3a5da69edfefee8f5abd33a218d1ca6f773a9776df5905b8565dd636eb9"
+            }
+          }
+        }
+      ]
+    },
+    "sm-x920f": {
+      "vendor": "Samsung",
+      "model": "Galaxy Tab S10 Ultra (SM-X920F)",
+      "name": "Samsung Galaxy Tab S10 Ultra (SM-X920F)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-x920f.bin",
+              "path": "files/DA_Samsung_sm-x920f.bin",
+              "sha256": "e0e6fef63928847f2764cf806387f56d3ac820e53b9d1b13d64fcf77bc81d1e0"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-x920f.auth",
+              "path": "files/auth_Samsung_sm-x920f.auth",
+              "sha256": "a1a1146f80e1eb689ba7d0f27b10fbabe0b799d76b0baf17b8f99ef548fc523c"
+            }
+          }
+        }
+      ]
+    },
+    "sm-x926b": {
+      "vendor": "Samsung",
+      "model": "Galaxy Tab S10 Ultra (SM-X926B)",
+      "name": "Samsung Galaxy Tab S10 Ultra (SM-X926B)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Auth)",
+          "description": "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Samsung_sm-x926b.bin",
+              "path": "files/DA_Samsung_sm-x926b.bin",
+              "sha256": "93af77f1ceb30ff1874bf150735f8c20421bafecd4ba0e7e7c7f4a01bd38981f"
+            },
+            "auth": {
+              "name": "auth_Samsung_sm-x926b.auth",
+              "path": "files/auth_Samsung_sm-x926b.auth",
+              "sha256": "2f5fc25a86adc5bf703f0c7ffe3d86338e2f170de2effbaa4d2e015e44bc86a9"
+            }
+          }
+        }
+      ]
+    },
+    "spark": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Pad SE 8.7 (spark)",
+      "name": "Xiaomi Redmi Pad SE 8.7 (spark)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_flare.bin",
+              "path": "files/DA_Xiaomi_flare.bin",
+              "sha256": "14637a8087731eeb3ef7d9f431571ab9a8658e2745351d590a0a16a2c9aee05b"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_spark.bin",
+              "path": "files/preloader_Xiaomi_spark.bin",
+              "sha256": "b8f5cba5cb0ef2994d37733e4d16653f6ceceddc82d49ab2ef49c201af88bb75"
+            }
+          }
+        }
+      ]
+    },
+    "tanzanite": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 14 4G (tanzanite)",
+      "name": "Xiaomi Redmi Note 14 4G (tanzanite)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_emerald.bin",
+              "path": "files/DA_Xiaomi_emerald.bin",
+              "sha256": "df37fb80d2e647a7f7c85fd559244d23534bb55083c7c0b3aa31c8bf92f55c4b"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_tanzanite.bin",
+              "path": "files/preloader_Xiaomi_tanzanite.bin",
+              "sha256": "37af1a9beeac9307371586accd3af97a15882f8913bd4b54bcd7e2cd62c9733d"
+            }
+          }
+        }
+      ]
+    },
+    "tides": {
+      "vendor": "Xiaomi",
+      "model": "Redmi 13 NFC (tides)",
+      "name": "Xiaomi Redmi 13 NFC (tides)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_tides.bin",
+              "path": "files/DA_Xiaomi_tides.bin",
+              "sha256": "810b5fc6bce1acc29f8ebd85b2a4437761f573c0423bbdf2ad404caf4cffdd87"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_tides.bin",
+              "path": "files/preloader_Xiaomi_tides.bin",
+              "sha256": "37a3d5c3132d2e75bbffdc144a69c631566846a9b8b052701033bd1d7bb64516"
+            }
+          }
+        }
+      ]
+    },
+    "vida": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11 Pro 4G (Vida)",
+      "name": "Xiaomi Redmi Note 11 Pro 4G (Vida)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_vida.bin",
+              "path": "files/DA_Xiaomi_vida.bin",
+              "sha256": "afd7f176e901562983a31469e8043fafe6e1514a3dbae97bdee084b3f2202201"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_vida.bin",
+              "path": "files/preloader_Xiaomi_vida.bin",
+              "sha256": "60d4e9316930e0eff28cc5b965d69ecc86bd2357b93aefb69f4e6a4a2125dde4"
+            }
+          }
+        }
+      ]
+    },
+    "viva": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11 Pro 4G (Viva)",
+      "name": "Xiaomi Redmi Note 11 Pro 4G (Viva)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_viva.bin",
+              "path": "files/DA_Xiaomi_viva.bin",
+              "sha256": "b8d1a2efd5cd2e665ae362ee6f947d8718dd36d3669d453a3170b9ce40141736"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_viva.bin",
+              "path": "files/preloader_Xiaomi_viva.bin",
+              "sha256": "e62c0f19ca6cca41b589e6970d410e176eed148782e96e3815f1d494b48ff9cc"
+            }
+          }
+        }
+      ]
+    },
+    "water": {
+      "vendor": "Xiaomi",
+      "model": "Redmi A2 (Water)",
+      "name": "Xiaomi Redmi A2 (Water)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V5 DA (Preloader)",
+          "description": "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_water.bin",
+              "path": "files/DA_Xiaomi_water.bin",
+              "sha256": "52d88ebd2d2a994a5bb008f01c78b7713e0a0605c462950e18181eb432544cfa"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_water.bin",
+              "path": "files/preloader_Xiaomi_water.bin",
+              "sha256": "be51cf9eae9265387ef6617741f8f49141c1d6ba626d2964f14363962123580e"
+            }
+          }
+        }
+      ]
+    },
+    "x6833b": {
+      "vendor": "Infinix",
+      "model": "Note 30",
+      "name": "Infinix Note 30",
+      "versions": [
+        {
+          "id": 0,
+          "default": true,
+          "name": "Engineering Flashing",
+          "description": "Full access. DA from 4PDA",
+          "files": {
+            "da": {
+              "name": "DA_BR_MT6789_transsion.bin",
+              "path": "files/DA_BR_MT6789_transsion.bin",
+              "sha256": "9092b7c0bd56b274584681ba9caa369b8a4e91691fba1f0eeac4057c67e30927"
+            }
+          }
+        }
+      ]
+    },
+    "xaga": {
+      "vendor": "Xiaomi",
+      "model": "Poco X4 GT (xaga)",
+      "name": "Xiaomi Poco X4 GT (xaga)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_xaga.bin",
+              "path": "files/DA_Xiaomi_xaga.bin",
+              "sha256": "22ab6d1e1dba045693109c9c94a25e381f9438576bcb99e09cc6862a786a20cb"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_xaga.bin",
+              "path": "files/preloader_Xiaomi_xaga.bin",
+              "sha256": "9161a67db91e783c297fb90394ba571f7bd2c56cec9677ba3966917a952d70bd"
+            }
+          }
+        }
+      ]
+    },
+    "yuechu": {
+      "vendor": "Xiaomi",
+      "model": "Civi 3 (yuechu)",
+      "name": "Xiaomi Civi 3 (yuechu)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_yuechu.bin",
+              "path": "files/DA_Xiaomi_yuechu.bin",
+              "sha256": "468f4626670552946d01aead51d4bb688235e25a7e9d2d1b9a01e43d375768de"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_yuechu.bin",
+              "path": "files/preloader_Xiaomi_yuechu.bin",
+              "sha256": "75886cbf1334f3c7e0f67cd89c9601e4e1688f86d0a008f4fbdc287522cb503b"
+            }
+          }
+        }
+      ]
+    },
+    "yunluo": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Pad (yunluo)",
+      "name": "Xiaomi Redmi Pad (yunluo)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_yunluo.bin",
+              "path": "files/DA_Xiaomi_yunluo.bin",
+              "sha256": "98e5851bce5271c1fab4be5ab40bc04e98d00dd2aa311eb78ef2d4a70e159a89"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_yunluo.bin",
+              "path": "files/preloader_Xiaomi_yunluo.bin",
+              "sha256": "b166de9de5327cf09d659e3ffce32f8d86bd52ff07fd5de9790dfc0b2d99c753"
+            }
+          }
+        }
+      ]
+    },
+    "zircon": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 13 Pro+ (zircon)",
+      "name": "Xiaomi Redmi Note 13 Pro+ (zircon)",
+      "versions": [
+        {
+          "id": 0,
+          "default": false,
+          "name": "MTK V6 XML DA (Preloader)",
+          "description": "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)",
+          "files": {
+            "da": {
+              "name": "DA_Xiaomi_zircon.bin",
+              "path": "files/DA_Xiaomi_zircon.bin",
+              "sha256": "e2b822cbcbed8d297981b970463fe995ee2580992285b20b31cab768e460a52a"
+            },
+            "preloader": {
+              "name": "preloader_Xiaomi_zircon.bin",
+              "path": "files/preloader_Xiaomi_zircon.bin",
+              "sha256": "c319ad13791a50a984a5c07a889555452af2c7a947eb8738a1c0250bb3081994"
             }
           }
         }

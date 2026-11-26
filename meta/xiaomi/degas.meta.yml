@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "14T (Degas)"
+codename: "degas"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_degas.bin"
+      preloader: "preloader_Xiaomi_degas.bin"
+    checksums:
+      da: "9be72fc3790f837d1ea081add7af2fb1538e32cd392150acbe144756f4d20b10"
+      preloader: "776f51b2f4a864426d4b8ac08281f6dd1857e5a539c02dc587a2614a34ac55d1"

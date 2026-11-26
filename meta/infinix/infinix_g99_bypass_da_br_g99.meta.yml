@@ -1,0 +1,13 @@
+vendor: "Infinix"
+model: "G99 BYPASS DA BR G99"
+codename: "infinix_g99_bypass_da_br_g99"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Infinix G99 BYPASS DA BR G99 MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "MT6789_0.bin"
+    checksums:
+      da: "cdd1ea53ba64af8f38f921f4fcceebab49d77afb9c9516f7e4db316b888b84e8"

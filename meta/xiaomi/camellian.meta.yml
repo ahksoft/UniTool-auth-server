@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M3 Pro (Camellian)"
+codename: "camellian"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_camellian.bin"
+      preloader: "preloader_Xiaomi_camellian.bin"
+    checksums:
+      da: "c59b5d096ffc5465ab092ca58574836a126dd0dc23444c104c102f5871be6f28"
+      preloader: "4c207fdc0dd888aab310e98ce0f6a425ff59d1b59f8be7cd4ceda7454c9dd156"

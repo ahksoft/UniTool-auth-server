@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "Redmi A3"
+codename: "redmi_a3"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "MTK V5 DA (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_redmi_a3.bin"
+    checksums:
+      da: "571b856f43b6d84560fa52135c5ebf68ca931f91e2895eb1f49b2f394b681558"

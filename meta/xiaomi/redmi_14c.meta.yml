@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "Redmi 14C"
+codename: "redmi_14c"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "MTK V5 DA (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_redmi_14c.bin"
+    checksums:
+      da: "9d9e0967ff375849822612eaec1b3a410e045d6aab1dd0de29cee1aaa32c4205"

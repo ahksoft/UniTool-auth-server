@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 11R (lightcm)"
+codename: "lightcm"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_camellian.bin"
+      preloader: "preloader_Xiaomi_lightcm.bin"
+    checksums:
+      da: "c59b5d096ffc5465ab092ca58574836a126dd0dc23444c104c102f5871be6f28"
+      preloader: "7f28b7eb52491e679f10fa52f05bdf8401b607551b3d3472c6c69fe299577745"

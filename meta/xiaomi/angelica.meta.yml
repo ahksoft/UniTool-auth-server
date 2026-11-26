@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 9C (Angelica)"
+codename: "angelica"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_angelica.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "a706c1ad7d93875c7851bc97fe89c4dfe82020eb5f2753e8372446e9f2806bfd"

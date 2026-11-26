@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy A15 5G (SM-A156U)"
+codename: "sm-a156u"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-a156u.bin"
+      auth: "auth_Samsung_sm-a156u.auth"
+    checksums:
+      da: "49f5e5d8feade84960c2148c8e9875a207761a1004ab4e36d543154e9c5eb27a"
+      auth: "dff5f4886dc344391e878af4d8ae3fef186f6fb52a5fbc2030fa1afead85ed2a"

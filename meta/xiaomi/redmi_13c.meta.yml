@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "Redmi 13C"
+codename: "redmi_13c"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "MTK V5 DA (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_redmi_13c.bin"
+    checksums:
+      da: "f6d2c91c1fd1966690049ed2bb47d537a0950d4735d0da510e2f07cf0423f16a"

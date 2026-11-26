@@ -1,0 +1,13 @@
+vendor: "Infinix"
+model: "Transsion MT6855"
+codename: "infinix_transsion_mt6855"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Infinix Transsion MT6855 MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_Transsion_MT6855.bin"
+    checksums:
+      da: "f303236d30c457cff0bc413c25c213c7bb0679517d9b94968845036cfeffc401"

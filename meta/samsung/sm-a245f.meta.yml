@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy A24 4G (SM-A245F)"
+codename: "sm-a245f"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-a245f.bin"
+      auth: "auth_Samsung_sm-a245f.auth"
+    checksums:
+      da: "8e4d51428359be2908f718221c220ca3fa98fa356d174d5597878bc82b07f377"
+      auth: "f0398e251c085ddf1c0feae6a70af5ce7c487cdef033317e9b53e23cb941d144"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 11 Pro 4G (Viva)"
+codename: "viva"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_viva.bin"
+      preloader: "preloader_Xiaomi_viva.bin"
+    checksums:
+      da: "b8d1a2efd5cd2e665ae362ee6f947d8718dd36d3669d453a3170b9ce40141736"
+      preloader: "e62c0f19ca6cca41b589e6970d410e176eed148782e96e3815f1d494b48ff9cc"

@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "MOON (OS1.0.6.0)"
+codename: "moon_os1_0_6_0"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (OS1.0.6.0)"
+    description: "Xiaomi MOON OS1.0.6.0 MTK V5 DA"
+    files:
+      da: "DA_Xiaomi_moon.bin"
+    checksums:
+      da: "202828dce12e936dcb97d02ba0479892dd8aaddb68639033e799454f88183427"

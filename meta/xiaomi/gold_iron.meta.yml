@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 13 (Gold_Iron)"
+codename: "gold_iron"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_gold.bin"
+      preloader: "preloader_Xiaomi_gold.bin"
+    checksums:
+      da: "f2ab881035921109badae5450f1289f68eb1a268bc532af6d674eb59b11c748a"
+      preloader: "ee7771f1afb9795591e8e45d9121dd9cd6caa0716ac923cbfb6186df6a4f51f3"

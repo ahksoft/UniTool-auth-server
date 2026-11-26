@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi A2 (Water)"
+codename: "water"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_water.bin"
+      preloader: "preloader_Xiaomi_water.bin"
+    checksums:
+      da: "52d88ebd2d2a994a5bb008f01c78b7713e0a0605c462950e18181eb432544cfa"
+      preloader: "be51cf9eae9265387ef6617741f8f49141c1d6ba626d2964f14363962123580e"

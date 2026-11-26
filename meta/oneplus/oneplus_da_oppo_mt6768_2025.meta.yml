@@ -1,0 +1,13 @@
+vendor: "OnePlus"
+model: "DA OPPO MT6768 2025"
+codename: "oneplus_da_oppo_mt6768_2025"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Generic SoC)"
+    description: "OnePlus DA OPPO MT6768 2025 MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_OnePlus_DA_OPPO_MT6768_2025.bin"
+    checksums:
+      da: "a163044921d4eee49ce5d5e7c6e469ed4e3f5ab52f8eebc4bcbea33fef2cb16d"

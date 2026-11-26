@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M4 Pro 5G (Evergreen)"
+codename: "evergreen"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_evergreen.bin"
+      preloader: "preloader_Xiaomi_evergreen.bin"
+    checksums:
+      da: "6cdb1c5e72a3e06fa510aee4101690a2b275590169e7c2a1ea8f78437139c603"
+      preloader: "1a4e08761b4bbfa857267e007346dc9a71f777ff4f11a34aa5ed8609274964f5"

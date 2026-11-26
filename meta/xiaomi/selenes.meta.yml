@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "Redmi Note 11 4G (selenes)"
+codename: "selenes"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA"
+    description: "MTK V5 DA (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_earth.bin"
+    checksums:
+      da: "daec1cf56d9ccaf2be3df88374d9d18812a418841517eacd54c418095aa255c6"

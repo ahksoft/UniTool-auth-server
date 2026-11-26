@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M4 5G (Ligh)"
+codename: "ligh"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_ligh.bin"
+      preloader: "preloader_Xiaomi_ligh.bin"
+    checksums:
+      da: "55404b20b0a69049f9cf29f92132066d366b37b4a6075e3c844ce44973ec99e3"
+      preloader: "8a017dff23a7d38faf55edc645827bb4d2577072f04dff05803b9ce8ef4b1cd9"

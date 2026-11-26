@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 12 (Fire)"
+codename: "fire"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_fire.bin"
+      preloader: "preloader_Xiaomi_fire.bin"
+    checksums:
+      da: "98ae0472b812ae0139411bc2d9af83db84b4a88f43722ee60b9b3d4efe469313"
+      preloader: "4a96b3fcefe08b7f0e184e8eab045b42f8cac3065a0786096fbdfe894628b6f1"

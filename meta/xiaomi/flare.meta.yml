@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Pad SE 8.7 (flare)"
+codename: "flare"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_flare.bin"
+      preloader: "preloader_Xiaomi_flare.bin"
+    checksums:
+      da: "14637a8087731eeb3ef7d9f431571ab9a8658e2745351d590a0a16a2c9aee05b"
+      preloader: "41f32a7c097b8ca0a565d5eb6f803c6e873b2d4198984bb87893a4cf7fc7841b"

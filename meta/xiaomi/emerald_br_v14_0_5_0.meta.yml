@@ -1,0 +1,13 @@
+vendor: "Xiaomi"
+model: "EMERALD (BR_V14.0.5.0)"
+codename: "emerald_br_v14_0_5_0"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (BR_V14.0.5.0)"
+    description: "Xiaomi EMERALD BR_V14.0.5.0 MTK V6 XML DA"
+    files:
+      da: "DA_EMERALD_BR_V14.0.5.0.bin"
+    checksums:
+      da: "37b0ddec5965758bd66637676a6e0b54076a7605e0f42a14cb0271a0718d56a4"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi Note 14 Pro 4G (obsidian)"
+codename: "obsidian"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_emerald.bin"
+      preloader: "preloader_Xiaomi_obsidian.bin"
+    checksums:
+      da: "df37fb80d2e647a7f7c85fd559244d23534bb55083c7c0b3aa31c8bf92f55c4b"
+      preloader: "88afc65a464536a56ea31d4fa8db33e08059fb14cec3f450841fcd14de338066"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi K30 Ultra (Cezanne)"
+codename: "cezanne"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_cezanne.bin"
+      preloader: "preloader_Xiaomi_cezanne.bin"
+    checksums:
+      da: "56693a257e9e0bca537918847dcf0bca783f9cd88ee2b7075e1960a80b603b00"
+      preloader: "da560a9e566c72e0f055ed0f2f28d19adbf2f7b17e648ba2f7b6eac9ab9d5dd9"

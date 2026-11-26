@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi A3 (blue)"
+codename: "blue"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_redmi_a3.bin"
+      preloader: "preloader_Xiaomi_blue.bin"
+    checksums:
+      da: "571b856f43b6d84560fa52135c5ebf68ca931f91e2895eb1f49b2f394b681558"
+      preloader: "3525c71df884d0486b4d81b5463d8cc9d4bdba685c516c126fcb85cd65edc5e8"

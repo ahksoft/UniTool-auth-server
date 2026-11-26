@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi 10X 5G (Atom)"
+codename: "atom"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Preloader)"
+    description: "MTK V5 DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_6765_6785_6768_6873_6885_6853.bin"
+      preloader: "preloader_Xiaomi_atom.bin"
+    checksums:
+      da: "7404e6f1930b09f19a8afce94d7226dc9d13e392249fc68848ab56d3afd30ca9"
+      preloader: "b0e29bcb8d9339d105f5ec760bab99af0662a10cdd4dac8f3e4dc2bbb95a5f84"

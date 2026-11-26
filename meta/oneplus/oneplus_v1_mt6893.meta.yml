@@ -1,0 +1,13 @@
+vendor: "OnePlus"
+model: "V1 MT6893"
+codename: "oneplus_v1_mt6893"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V5 DA (Generic SoC)"
+    description: "OnePlus V1 MT6893 MTK V5 DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_OnePlus_V1_MT6893.bin"
+    checksums:
+      da: "70cf828bf3e4f04a8c197f1685199584136e55ea01d639afcdd2d3234117e376"

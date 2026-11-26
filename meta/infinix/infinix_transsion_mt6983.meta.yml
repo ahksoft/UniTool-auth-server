@@ -1,0 +1,13 @@
+vendor: "Infinix"
+model: "Transsion MT6983"
+codename: "infinix_transsion_mt6983"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Infinix Transsion MT6983 MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_Transsion_MT6983.bin"
+    checksums:
+      da: "b4b8bcb9c0ea4d28ae393acf64930497505bf40d5a62b1b5c6fa6c495f7c6f97"

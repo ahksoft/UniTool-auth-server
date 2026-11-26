@@ -1,0 +1,13 @@
+vendor: "Infinix"
+model: "Transsion MT6896"
+codename: "infinix_transsion_mt6896"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Generic SoC)"
+    description: "Infinix Transsion MT6896 MTK V6 XML DA (decrypted & SHA-256 verified)"
+    files:
+      da: "DA_Infinix_Transsion_MT6896.bin"
+    checksums:
+      da: "88721ba6bd7af9bc7828cec98dcccea632baf9d6774e4926b42380a8bdf11eba"

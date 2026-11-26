@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M6 Pro (emerald)"
+codename: "emerald"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_emerald.bin"
+      preloader: "preloader_Xiaomi_emerald.bin"
+    checksums:
+      da: "df37fb80d2e647a7f7c85fd559244d23534bb55083c7c0b3aa31c8bf92f55c4b"
+      preloader: "b4846c2980bb5c147c886c5939c0dfd53344b6ed3febf309498a7fc30dc47e62"

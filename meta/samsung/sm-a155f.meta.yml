@@ -1,0 +1,15 @@
+vendor: "Samsung"
+model: "Galaxy A15 (SM-A155F)"
+codename: "sm-a155f"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Auth)"
+    description: "MTK V6 XML DA + Auth (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Samsung_sm-a155f.bin"
+      auth: "auth_Samsung_sm-a155f.auth"
+    checksums:
+      da: "066c1fca28a1200af8b007882663e66d58f2f58db664d3ea093a0b88d7bb06ed"
+      auth: "432c0de5a4801b58bf7cd583fb59f43653db928036afcaadfa9b7c2a566e50ba"

@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Redmi K50 (rubens)"
+codename: "rubens"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_rubens.bin"
+      preloader: "preloader_Xiaomi_rubens.bin"
+    checksums:
+      da: "08e23c24dd8e2568fe2f73376b5a39c821221dff866052baab56a88dfcf7d52d"
+      preloader: "9bd0369b8938f66f7a525393324e34babc8922510c04136034ca74864f7a4174"

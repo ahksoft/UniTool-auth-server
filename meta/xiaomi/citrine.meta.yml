@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "Poco M7 Pro 5G (citrine)"
+codename: "citrine"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_beryl.bin"
+      preloader: "preloader_Xiaomi_beryl.bin"
+    checksums:
+      da: "2937498c869ba5304096f3d52be9fb47f7562dfc1bdbc4a3772662e93c961b09"
+      preloader: "d9841aced50dca1c018c52f2978867040d051dfa798be4412bcd54954bf4db10"

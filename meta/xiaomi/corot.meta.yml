@@ -1,0 +1,15 @@
+vendor: "Xiaomi"
+model: "13T Pro (Corot)"
+codename: "corot"
+
+versions:
+  - id: 0
+    default: false
+    name: "MTK V6 XML DA (Preloader)"
+    description: "MTK V6 XML DA + Preloader (imported & SHA-256 verified from server backup)"
+    files:
+      da: "DA_Xiaomi_corot.bin"
+      preloader: "preloader_Xiaomi_corot.bin"
+    checksums:
+      da: "39a3be7062270be07ae24f5bee7f93d43181bb5ab8181e2308e0e31dae27aab2"
+      preloader: "0a702b054bf60a2567aec85f8d75bce03792dcae6a063ce4c655e8a69c4b7cdb"
