@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<data>
+  <program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="LUN5_OPPODYCNVBK_0x000000020000_0x000000A00000.bin" label="OPPODYCNVBK" num_partition_sectors="2560" physical_partition_number="5" size_in_KB="1280.0" sparse="false" start_byte_hex="0x20000" start_sector="32"/>
+  <program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="LUN5_OPPOSTANVBK_0x000000A20000_0x000000A00000.bin" label="OPPOSTANVBK" num_partition_sectors="2560" physical_partition_number="5" size_in_KB="1280.0" sparse="false" start_byte_hex="0xA20000" start_sector="2592"/>
+  <program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="LUN5_MODEMST1_0x000001420000_0x000000200000.bin" label="MODEMST1" num_partition_sectors="512" physical_partition_number="5" size_in_KB="256.0" sparse="false" start_byte_hex="0x1420000" start_sector="5152"/>
+  <program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="LUN5_MODEMST2_0x000001620000_0x000000200000.bin" label="MODEMST2" num_partition_sectors="512" physical_partition_number="5" size_in_KB="256.0" sparse="false" start_byte_hex="0x1620000" start_sector="5664"/>
+  <program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="LUN5_FSG_0x000010020000_0x000000200000.bin" label="FSG" num_partition_sectors="512" physical_partition_number="5" size_in_KB="256.0" sparse="false" start_byte_hex="0x10020000" start_sector="65568"/>
+</data>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<data>
+<!--NOTE: genererate by CF-Tools **-->
+<program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="oppodycnvbkidv3.img" label="oppodycnvbk" num_partition_sectors="2560"  physical_partition_number="5"  start_sector="32" />
+<program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="oppostanvbkidv3.img" label="oppostanvbk" num_partition_sectors="2560"  physical_partition_number="5"  start_sector="2592" />
+<program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="modemst1idv3.img" label="modemst1" num_partition_sectors="512"  physical_partition_number="5"  start_sector="5152" />
+<program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="modemst2idv3.img" label="modemst2" num_partition_sectors="512"  physical_partition_number="5"  start_sector="5664" />
+<program SECTOR_SIZE_IN_BYTES="4096" file_sector_offset="0" filename="fsgidv3.img" label="fsg" num_partition_sectors="512"  physical_partition_number="5"  start_sector="65568" />
+</data>
