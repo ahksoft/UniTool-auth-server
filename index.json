@@ -1,0 +1,1697 @@
+{
+  "format": 1,
+  "generated": "2026-11-26T12:54:41",
+  "repo": "https://raw.githubusercontent.com/ahksoft/UniTool-auth-server/spd",
+  "stats": {
+    "brands": 8,
+    "models": 85,
+    "uniqueFdlFiles": 138
+  },
+  "brands": [
+    "Infinix",
+    "Itel",
+    "Nokia",
+    "Oppo",
+    "Realme",
+    "Samsung",
+    "Tecno",
+    "Unisoc Generic"
+  ],
+  "models": [
+    {
+      "id": "infinix_pr652b",
+      "brand": "Infinix",
+      "model": "Hot 10i (PR652B)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "pr652b_fdl1.bin",
+        "path": "files/fdl/infinix/pr652b_fdl1.bin",
+        "sha256": "931a92f607ad5fb17493063e1c91bb1289919792906dcabfc3a4ec8de27c4971",
+        "size": 52304
+      },
+      "fdl2": {
+        "name": "pr652b_fdl2.bin",
+        "path": "files/fdl/infinix/pr652b_fdl2.bin",
+        "sha256": "77978f75cd325d90c08ff82ea9477bef99007d69a5bd9e57fff872bba27696d4",
+        "size": 802000
+      }
+    },
+    {
+      "id": "infinix_x6817b",
+      "brand": "Infinix",
+      "model": "Hot 12 (X6817B)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6817b_fdl1.bin",
+        "path": "files/fdl/infinix/x6817b_fdl1.bin",
+        "sha256": "63e2b4592553697cfb1703240cabdf9730a14de4ebe9b6fe48d0e914ccde6f96",
+        "size": 60752
+      },
+      "fdl2": {
+        "name": "x6817b_fdl2.bin",
+        "path": "files/fdl/infinix/x6817b_fdl2.bin",
+        "sha256": "85fb0884baa2e032a3853974d197c1d24c1d9ed7dd5ffe3e8fd25ee9e544a066",
+        "size": 950832
+      }
+    },
+    {
+      "id": "infinix_x6816c-v3",
+      "brand": "Infinix",
+      "model": "Hot 12 Play (X6816C-V3)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6816c-v3_fdl1.bin",
+        "path": "files/fdl/infinix/x6816c-v3_fdl1.bin",
+        "sha256": "ec0456166d5a89353f85bc3c7828ff60affb3402b6c0d8993fdef58c1a3a10a9",
+        "size": 59424
+      },
+      "fdl2": {
+        "name": "x6816c-v3_fdl2.bin",
+        "path": "files/fdl/infinix/x6816c-v3_fdl2.bin",
+        "sha256": "87f3774b56959d8e12030ee0e31d8d336e8d4ec5cc6f17b110d6d9118ee9b973",
+        "size": 914032
+      }
+    },
+    {
+      "id": "infinix_x6816c-v4",
+      "brand": "Infinix",
+      "model": "Hot 12 Play (X6816C-V4)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6816c-v4_fdl1.bin",
+        "path": "files/fdl/infinix/x6816c-v4_fdl1.bin",
+        "sha256": "3bc0d9e10c058018677b6437157592bcca3bc359cc31eccbcefc28161ee1ec06",
+        "size": 59424
+      },
+      "fdl2": {
+        "name": "x6816c-v4_fdl2.bin",
+        "path": "files/fdl/infinix/x6816c-v4_fdl2.bin",
+        "sha256": "72d8c8b137dfb3de342198fcb10c71e89ac85e0c1200b186cde0dcc85a1d5df4",
+        "size": 916304
+      }
+    },
+    {
+      "id": "infinix_x6816c-v6",
+      "brand": "Infinix",
+      "model": "Hot 12 Play (X6816C-V6)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6816c-v6_fdl1.bin",
+        "path": "files/fdl/infinix/x6816c-v6_fdl1.bin",
+        "sha256": "681b42073a25a9b4e372bb94c7a0d54589f594ce9fe2f042ca6c98a53e180a97",
+        "size": 59424
+      },
+      "fdl2": {
+        "name": "x6816c-v6_fdl2.bin",
+        "path": "files/fdl/infinix/x6816c-v6_fdl2.bin",
+        "sha256": "b1664a23209bf4ddab1be3c68bb9bb0275577f0e13f1abd75be734eaad92c368",
+        "size": 916224
+      }
+    },
+    {
+      "id": "infinix_x6816c-v8",
+      "brand": "Infinix",
+      "model": "Hot 12 Play (X6816C-V8)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6816c-v8_fdl1.bin",
+        "path": "files/fdl/infinix/x6816c-v8_fdl1.bin",
+        "sha256": "76461269fcca654938202c8501cb13cd1b80738209502ec6779f746874810243",
+        "size": 59424
+      },
+      "fdl2": {
+        "name": "x6816c-v8_fdl2.bin",
+        "path": "files/fdl/infinix/x6816c-v8_fdl2.bin",
+        "sha256": "fea477b7079b77c663f16795ec22f63eb8ad8b2c8a87199a2d368f2c4094b76c",
+        "size": 916224
+      }
+    },
+    {
+      "id": "infinix_x668-v37",
+      "brand": "Infinix",
+      "model": "Hot 12 Pro (X668-V37)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x668-v37_fdl1.bin",
+        "path": "files/fdl/infinix/x668-v37_fdl1.bin",
+        "sha256": "73884a4e716e06760687548afbf35c89dd18f1d0416c90cef065019c001ca2e3",
+        "size": 61488
+      },
+      "fdl2": {
+        "name": "x668-v37_fdl2.bin",
+        "path": "files/fdl/infinix/x668-v37_fdl2.bin",
+        "sha256": "fbe7c8e12c6a5d4019cc5e3aae7440e6936511ffda0709f0f88f750062a485dd",
+        "size": 974912
+      }
+    },
+    {
+      "id": "infinix_x668c-v148",
+      "brand": "Infinix",
+      "model": "Hot 12 Pro (X668C-V148)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x668c-v148_fdl1.bin",
+        "path": "files/fdl/infinix/x668c-v148_fdl1.bin",
+        "sha256": "a079f20d511ae672fa270e3d3a1e03b1aa097e31b9f209d3d5326b6989200411",
+        "size": 61488
+      },
+      "fdl2": {
+        "name": "x668c-v148_fdl2.bin",
+        "path": "files/fdl/infinix/x668c-v148_fdl2.bin",
+        "sha256": "d2242ba800e3bd884b8423f7f462bb4c21b4c22e9815753005201510c9ae9d61",
+        "size": 975792
+      }
+    },
+    {
+      "id": "infinix_pr652b_2",
+      "brand": "Infinix",
+      "model": "Smart 5 Pro (PR652B)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "pr652b_fdl1.bin",
+        "path": "files/fdl/infinix/pr652b_fdl1.bin",
+        "sha256": "931a92f607ad5fb17493063e1c91bb1289919792906dcabfc3a4ec8de27c4971",
+        "size": 52304
+      },
+      "fdl2": {
+        "name": "pr652b_fdl2.bin",
+        "path": "files/fdl/infinix/pr652b_fdl2.bin",
+        "sha256": "77978f75cd325d90c08ff82ea9477bef99007d69a5bd9e57fff872bba27696d4",
+        "size": 802000
+      }
+    },
+    {
+      "id": "infinix_x6511-v22",
+      "brand": "Infinix",
+      "model": "Smart 6 (X6511-V22)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6511-v22_fdl1.bin",
+        "path": "files/fdl/infinix/x6511-v22_fdl1.bin",
+        "sha256": "3989411c1b1efbf973fae70a8efb0765c592976893d38f060d6ab1cf74d37a56",
+        "size": 52352
+      },
+      "fdl2": {
+        "name": "x6511-v22_fdl2.bin",
+        "path": "files/fdl/infinix/x6511-v22_fdl2.bin",
+        "sha256": "f1984ea315f1bb193dc44f9547e2a6ef893cf1ae1b0eb9793bae24f80b4a3f12",
+        "size": 810672
+      }
+    },
+    {
+      "id": "infinix_x6511-v23",
+      "brand": "Infinix",
+      "model": "Smart 6 (X6511-V23)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6511-v23_fdl1.bin",
+        "path": "files/fdl/infinix/x6511-v23_fdl1.bin",
+        "sha256": "99d8bf054b6cd5a6132b30ce53b6751597cb52111e8f909f3c1c885a01dcd484",
+        "size": 52304
+      },
+      "fdl2": {
+        "name": "x6511-v23_fdl2.bin",
+        "path": "files/fdl/infinix/x6511-v23_fdl2.bin",
+        "sha256": "52c5d32f5f4e79956716df0936763ca77b983d6a299ddbc212ae593fc436f7b0",
+        "size": 805200
+      }
+    },
+    {
+      "id": "infinix_x6511b",
+      "brand": "Infinix",
+      "model": "Smart 6 (X6511B)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "x6511-v22_fdl1.bin",
+        "path": "files/fdl/infinix/x6511-v22_fdl1.bin",
+        "sha256": "3989411c1b1efbf973fae70a8efb0765c592976893d38f060d6ab1cf74d37a56",
+        "size": 52352
+      },
+      "fdl2": {
+        "name": "x6511b_fdl2.bin",
+        "path": "files/fdl/infinix/x6511b_fdl2.bin",
+        "sha256": "43961cccbe8098f4bcdee4d3fd191002bedc4a964c5256aa983534ac2b979100",
+        "size": 810704
+      }
+    },
+    {
+      "id": "itel_w5006x",
+      "brand": "Itel",
+      "model": "A17 (W5006X)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w5006x_fdl1.bin",
+        "path": "files/fdl/itel/w5006x_fdl1.bin",
+        "sha256": "e4515b63c4bee2e823631d0454010e9b47837b8e40fd16b36401337194106259",
+        "size": 34544
+      },
+      "fdl2": {
+        "name": "w5006x_fdl2.bin",
+        "path": "files/fdl/itel/w5006x_fdl2.bin",
+        "sha256": "423a308bd5b770f84a28c5f02638e062d447bc09c13ba9069c24924efedbb2be",
+        "size": 659472
+      }
+    },
+    {
+      "id": "itel_l5006c",
+      "brand": "Itel",
+      "model": "A23 (L5006C)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l5006c_fdl1.bin",
+        "path": "files/fdl/itel/l5006c_fdl1.bin",
+        "sha256": "31af296e9352ed5a8ecd1eeac498919a99aab2cb6c1093d317ce7bb55f35c542",
+        "size": 37104
+      },
+      "fdl2": {
+        "name": "l5006c_fdl2.bin",
+        "path": "files/fdl/itel/l5006c_fdl2.bin",
+        "sha256": "3a004beeba0bed8e34e542cfdcee5588858fbf7ae947f3afe7fc00b871cfb412",
+        "size": 472800
+      }
+    },
+    {
+      "id": "itel_l5006c_2",
+      "brand": "Itel",
+      "model": "A23 Pro (L5006C)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l5006c_fdl1_2.bin",
+        "path": "files/fdl/itel/l5006c_fdl1_2.bin",
+        "sha256": "39bd8b508fefb45efb4201d9350b69a9323430d0aaab9e56767fd35e195aeacb",
+        "size": 37280
+      },
+      "fdl2": {
+        "name": "l5006c_fdl2_2.bin",
+        "path": "files/fdl/itel/l5006c_fdl2_2.bin",
+        "sha256": "0d2eebab461959bdf4bf30bc2f28344613462bd7eebb76ea95af5aa01993c604",
+        "size": 474240
+      }
+    },
+    {
+      "id": "itel_l5002",
+      "brand": "Itel",
+      "model": "A25 (L5002)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l5002_fdl1.bin",
+        "path": "files/fdl/itel/l5002_fdl1.bin",
+        "sha256": "8b86cd94dafb22ed290f7909541be4a20318f81b2677c48a17bc49f53c59735c",
+        "size": 37296
+      },
+      "fdl2": {
+        "name": "l5002_fdl2.bin",
+        "path": "files/fdl/itel/l5002_fdl2.bin",
+        "sha256": "b6daae639ef7c6531c4855f11b351c44e698bfcbb8ca1a6487654247bebdc1d5",
+        "size": 526496
+      }
+    },
+    {
+      "id": "itel_l5002p",
+      "brand": "Itel",
+      "model": "A25 Pro (L5002P)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l5002p_fdl1.bin",
+        "path": "files/fdl/itel/l5002p_fdl1.bin",
+        "sha256": "327777df2d000ecca64fdff104048b156f1e2b35233fdf421fdfb855e68b6dfc",
+        "size": 37216
+      },
+      "fdl2": {
+        "name": "l5002p_fdl2.bin",
+        "path": "files/fdl/itel/l5002p_fdl2.bin",
+        "sha256": "9a796705b2839f1d8602b54cbf514a720234f7f963ed2a0ad315efbee162cac5",
+        "size": 530224
+      }
+    },
+    {
+      "id": "itel_a571l",
+      "brand": "Itel",
+      "model": "A26 (A571L)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a571l_fdl1.bin",
+        "path": "files/fdl/itel/a571l_fdl1.bin",
+        "sha256": "c23bdcf1b496f1ee8d3d988af7b7fee79be70ce0fa63d8c48235dd7100cf2d48",
+        "size": 37824
+      },
+      "fdl2": {
+        "name": "a571l_fdl2.bin",
+        "path": "files/fdl/itel/a571l_fdl2.bin",
+        "sha256": "381c121cc4c4bfe26b0bfa4e79fca5eeef73664c08114b6f6bef424be70fecdf",
+        "size": 665488
+      }
+    },
+    {
+      "id": "itel_a551l",
+      "brand": "Itel",
+      "model": "A27 (A551L)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a551l_fdl1.bin",
+        "path": "files/fdl/itel/a551l_fdl1.bin",
+        "sha256": "b4674220e600e0d854875808c81bac6e7ab191dcc5754d7670019368e951b08b",
+        "size": 37104
+      },
+      "fdl2": {
+        "name": "a551l_fdl2.bin",
+        "path": "files/fdl/itel/a551l_fdl2.bin",
+        "sha256": "faa8c48fedf8341f9f28993a37797baac13ff064bd6a061b97fcd3aff80f4b4f",
+        "size": 773632
+      }
+    },
+    {
+      "id": "itel_w5001p",
+      "brand": "Itel",
+      "model": "A33 (W5001P)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w5001p_fdl1.bin",
+        "path": "files/fdl/itel/w5001p_fdl1.bin",
+        "sha256": "46329b8532061209d57d2ec8162b2b1d9b7b884bbb770a268930137e1d287777",
+        "size": 32896
+      },
+      "fdl2": {
+        "name": "w5001p_fdl2.bin",
+        "path": "files/fdl/itel/w5001p_fdl2.bin",
+        "sha256": "964555bc6ea6c91d46f4550b2d97cbcc0c9b2a3994a98a25f5a2654a33b54cdb",
+        "size": 492432
+      }
+    },
+    {
+      "id": "itel_a509w",
+      "brand": "Itel",
+      "model": "A33 Plus (A509W)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a509w_fdl1.bin",
+        "path": "files/fdl/itel/a509w_fdl1.bin",
+        "sha256": "9abf202fffada257952da91ff07262a616f66831656735e3f8807dcf0ff0a810",
+        "size": 34032
+      },
+      "fdl2": {
+        "name": "a509w_fdl2.bin",
+        "path": "files/fdl/itel/a509w_fdl2.bin",
+        "sha256": "acf0e33baeecddd098b0371d519872ed4aa590d19d4774f16faff0b0be83ac33",
+        "size": 778544
+      }
+    },
+    {
+      "id": "itel_l5503",
+      "brand": "Itel",
+      "model": "A46 (L5503)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l5503_fdl1.bin",
+        "path": "files/fdl/itel/l5503_fdl1.bin",
+        "sha256": "c3a5bff3ecf0865af1a55190e1e88a32f4542674b90ccb758ce42fcbc202a68d",
+        "size": 51056
+      },
+      "fdl2": {
+        "name": "l5503_fdl2.bin",
+        "path": "files/fdl/itel/l5503_fdl2.bin",
+        "sha256": "3c36a819bbf4f9d7c099bae2412f3ad4f4125e7e42e5c21ffbba478bd245a376",
+        "size": 520528
+      }
+    },
+    {
+      "id": "itel_l6006",
+      "brand": "Itel",
+      "model": "A48 (L6006)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l6006_fdl1.bin",
+        "path": "files/fdl/itel/l6006_fdl1.bin",
+        "sha256": "ffe536b73329098a0b8cc77531cb682bfd70c69d0e65229db69311d1b6b1f0f8",
+        "size": 37392
+      },
+      "fdl2": {
+        "name": "l6006_fdl2.bin",
+        "path": "files/fdl/itel/l6006_fdl2.bin",
+        "sha256": "dc486d13cfc7fe893087c17b55d3ae0abe322c107078d70cca08ceffde8a5a46",
+        "size": 614736
+      }
+    },
+    {
+      "id": "itel_a661l",
+      "brand": "Itel",
+      "model": "A49 (A661L)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a661l_fdl1.bin",
+        "path": "files/fdl/itel/a661l_fdl1.bin",
+        "sha256": "9ad3c7a38b55206427c1777d96ec375cc631407c7b9c8603db3e887e8cbeefd0",
+        "size": 37088
+      },
+      "fdl2": {
+        "name": "a661l_fdl2.bin",
+        "path": "files/fdl/itel/a661l_fdl2.bin",
+        "sha256": "d3233da30b8251263f8eb9f361052072f2b43d6e93d348223989439a114ee72b",
+        "size": 786864
+      }
+    },
+    {
+      "id": "itel_w6003",
+      "brand": "Itel",
+      "model": "A55 (W6003)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w6003_fdl1.bin",
+        "path": "files/fdl/itel/w6003_fdl1.bin",
+        "sha256": "8bb5933b0b2560c25e60ba8d842bd9ae596726e9aa5b88ff026b79fe97b20607",
+        "size": 33360
+      },
+      "fdl2": {
+        "name": "w6003_fdl2.bin",
+        "path": "files/fdl/itel/w6003_fdl2.bin",
+        "sha256": "79ba1f5426c3163686aa3a8c6ffe6dfe5b82433041ca5f0b6ebc7ee81175a163",
+        "size": 529248
+      }
+    },
+    {
+      "id": "itel_w6004",
+      "brand": "Itel",
+      "model": "A56 (W6004)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w6004_fdl1.bin",
+        "path": "files/fdl/itel/w6004_fdl1.bin",
+        "sha256": "6fd2ad8da9010650cb219b94a434815dd1ece3c791bc3c6a0c479a9b7cc81168",
+        "size": 33456
+      },
+      "fdl2": {
+        "name": "w6004_fdl2.bin",
+        "path": "files/fdl/itel/w6004_fdl2.bin",
+        "sha256": "22a8b9faa11c74bba9374ce01ee198202bb2d54b7fb3c47ffae02a3fa1f612eb",
+        "size": 526816
+      }
+    },
+    {
+      "id": "itel_w6004p",
+      "brand": "Itel",
+      "model": "A56 Pro (W6004P)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w6004p_fdl1.bin",
+        "path": "files/fdl/itel/w6004p_fdl1.bin",
+        "sha256": "9f3fd18a4e58bbeed0ad510e6da5c07756a527e3552c10e9cb9bf4275a969971",
+        "size": 33360
+      },
+      "fdl2": {
+        "name": "w6004p_fdl2.bin",
+        "path": "files/fdl/itel/w6004p_fdl2.bin",
+        "sha256": "9d920abdf1f4db520efd6937ca3538630c2b6c04c2a6b7fae3faeb29ac7568c5",
+        "size": 526592
+      }
+    },
+    {
+      "id": "itel_a611w",
+      "brand": "Itel",
+      "model": "A57 (A611W)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a611w_fdl1.bin",
+        "path": "files/fdl/itel/a611w_fdl1.bin",
+        "sha256": "92522f0d9edcda866398d172324554af7fb0ca3101bc557583482c76094ced88",
+        "size": 34048
+      },
+      "fdl2": {
+        "name": "a611w_fdl2.bin",
+        "path": "files/fdl/itel/a611w_fdl2.bin",
+        "sha256": "282e211321cad339fc4339df47893444da4326b1e4c990c37e5a4b2086baa348",
+        "size": 743248
+      }
+    },
+    {
+      "id": "itel_a611wp",
+      "brand": "Itel",
+      "model": "A57 (A611WP)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a611w_fdl1.bin",
+        "path": "files/fdl/itel/a611w_fdl1.bin",
+        "sha256": "92522f0d9edcda866398d172324554af7fb0ca3101bc557583482c76094ced88",
+        "size": 34048
+      },
+      "fdl2": {
+        "name": "a611w_fdl2.bin",
+        "path": "files/fdl/itel/a611w_fdl2.bin",
+        "sha256": "282e211321cad339fc4339df47893444da4326b1e4c990c37e5a4b2086baa348",
+        "size": 743248
+      }
+    },
+    {
+      "id": "itel_l6005",
+      "brand": "Itel",
+      "model": "Vision 1 (L6005)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w6004p_fdl1.bin",
+        "path": "files/fdl/itel/w6004p_fdl1.bin",
+        "sha256": "9f3fd18a4e58bbeed0ad510e6da5c07756a527e3552c10e9cb9bf4275a969971",
+        "size": 33360
+      },
+      "fdl2": {
+        "name": "w6004p_fdl2.bin",
+        "path": "files/fdl/itel/w6004p_fdl2.bin",
+        "sha256": "9d920abdf1f4db520efd6937ca3538630c2b6c04c2a6b7fae3faeb29ac7568c5",
+        "size": 526592
+      }
+    },
+    {
+      "id": "itel_l6501",
+      "brand": "Itel",
+      "model": "Vision 1 Plus (L6501)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l6501_fdl1.bin",
+        "path": "files/fdl/itel/l6501_fdl1.bin",
+        "sha256": "2f566cf3895b585563de41747d706d4d20af606704969849c96aa8be09e5770f",
+        "size": 52032
+      },
+      "fdl2": {
+        "name": "l6501_fdl2.bin",
+        "path": "files/fdl/itel/l6501_fdl2.bin",
+        "sha256": "f93c22a9c19a3e56a66748044d344e29a9cccadb46c3d82ba6e1e792093e43c5",
+        "size": 585712
+      }
+    },
+    {
+      "id": "itel_l6502",
+      "brand": "Itel",
+      "model": "vision 1 Pro (L6502)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "a571l_fdl1.bin",
+        "path": "files/fdl/itel/a571l_fdl1.bin",
+        "sha256": "c23bdcf1b496f1ee8d3d988af7b7fee79be70ce0fa63d8c48235dd7100cf2d48",
+        "size": 37824
+      },
+      "fdl2": {
+        "name": "l6502_fdl2.bin",
+        "path": "files/fdl/itel/l6502_fdl2.bin",
+        "sha256": "43cd260bfe4e67a97b50957e587877c88ba5f8d454c5a76b424614a30ec19951",
+        "size": 668080
+      }
+    },
+    {
+      "id": "itel_l6503",
+      "brand": "Itel",
+      "model": "Vision 2 (L6503)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "l6503_fdl1.bin",
+        "path": "files/fdl/itel/l6503_fdl1.bin",
+        "sha256": "bbdbfdf55eda37640fbe6bd20c0f1f46c01021517a634e0681ccf599c29eca50",
+        "size": 53040
+      },
+      "fdl2": {
+        "name": "l6503_fdl2.bin",
+        "path": "files/fdl/itel/l6503_fdl2.bin",
+        "sha256": "6136b3cd2b51d76e23b067cfa5c42140c894fc2e436bd59169840b8473f96053",
+        "size": 672240
+      }
+    },
+    {
+      "id": "itel_p651l",
+      "brand": "Itel",
+      "model": "Vision 2s (P651L)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "w6004p_fdl1.bin",
+        "path": "files/fdl/itel/w6004p_fdl1.bin",
+        "sha256": "9f3fd18a4e58bbeed0ad510e6da5c07756a527e3552c10e9cb9bf4275a969971",
+        "size": 33360
+      },
+      "fdl2": {
+        "name": "w6004p_fdl2.bin",
+        "path": "files/fdl/itel/w6004p_fdl2.bin",
+        "sha256": "9d920abdf1f4db520efd6937ca3538630c2b6c04c2a6b7fae3faeb29ac7568c5",
+        "size": 526592
+      }
+    },
+    {
+      "id": "itel_p682lp",
+      "brand": "Itel",
+      "model": "Vision 3 Plus (P682LP)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "p682lp_fdl1.bin",
+        "path": "files/fdl/itel/p682lp_fdl1.bin",
+        "sha256": "16db6b11696c269a4caceb5af64ed603bacf8c995d83ede5becf993d9dbda42c",
+        "size": 59408
+      },
+      "fdl2": {
+        "name": "p682lp_fdl2.bin",
+        "path": "files/fdl/itel/p682lp_fdl2.bin",
+        "sha256": "5aa2324099b336cd56201fb45119826a0e3b070c8d7fb8a2b22662ca2ffefcb8",
+        "size": 914464
+      }
+    },
+    {
+      "id": "nokia_ta-1342",
+      "brand": "Nokia",
+      "model": "C10 (TA-1342)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9F000000",
+      "fdl1": {
+        "name": "ta-1342_fdl1.bin",
+        "path": "files/fdl/nokia/ta-1342_fdl1.bin",
+        "sha256": "91fdab29d3e59c0ff76672e11435a9252186fab3c449be8e60e240de06c999e0",
+        "size": 33744
+      },
+      "fdl2": {
+        "name": "ta-1342_fdl2.bin",
+        "path": "files/fdl/nokia/ta-1342_fdl2.bin",
+        "sha256": "6498154a497ac2f58a4c6dcc822a9791d88faa13fc22ab258565d12d0c9729ef",
+        "size": 784528
+      }
+    },
+    {
+      "id": "nokia_ta-1339_ta-1348_ta-1352_ta-1356",
+      "brand": "Nokia",
+      "model": "C20 (TA-1339 TA-1348 TA-1352 TA-1356)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50002E00",
+      "fdl2Addr": "0x9F000000",
+      "fdl1": {
+        "name": "ta-1339_ta-1348_ta-1352_ta-1356_fdl1.bin",
+        "path": "files/fdl/nokia/ta-1339_ta-1348_ta-1352_ta-1356_fdl1.bin",
+        "sha256": "5bba46c2d97b526478edf6e55f7124d0e12996deb8ce21b1176e048054614e5d",
+        "size": 52336
+      },
+      "fdl2": {
+        "name": "ta-1339_ta-1348_ta-1352_ta-1356_fdl2.bin",
+        "path": "files/fdl/nokia/ta-1339_ta-1348_ta-1352_ta-1356_fdl2.bin",
+        "sha256": "a7e63ef2ec0a923693acc6bbf2ed05cb2200823bb9f6d3de6c1d4d3433f4326f",
+        "size": 796576
+      }
+    },
+    {
+      "id": "nokia_ta-1339",
+      "brand": "Nokia",
+      "model": "C90 (TA-1339)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x50003000",
+      "fdl2Addr": "0x9F000000",
+      "fdl1": {
+        "name": "unassigned_fdl1.bin",
+        "path": "files/fdl/nokia/unassigned_fdl1.bin",
+        "sha256": "aa63f4fe8d1308e6548ac7214c79f1da4701b760556122740e3e13f1d40380ff",
+        "size": 32784
+      },
+      "fdl2": {
+        "name": "unassigned_fdl2.bin",
+        "path": "files/fdl/nokia/unassigned_fdl2.bin",
+        "sha256": "0e89a7077485100adb53c5a1600129ebb1d4cc298cc5edc4352ad837f12c971a",
+        "size": 481296
+      }
+    },
+    {
+      "id": "nokia_unassigned",
+      "brand": "Nokia",
+      "model": "unassigned",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "unassigned_fdl1.bin",
+        "path": "files/fdl/nokia/unassigned_fdl1.bin",
+        "sha256": "aa63f4fe8d1308e6548ac7214c79f1da4701b760556122740e3e13f1d40380ff",
+        "size": 32784
+      },
+      "fdl2": {
+        "name": "unassigned_fdl2.bin",
+        "path": "files/fdl/nokia/unassigned_fdl2.bin",
+        "sha256": "0e89a7077485100adb53c5a1600129ebb1d4cc298cc5edc4352ad837f12c971a",
+        "size": 481296
+      }
+    },
+    {
+      "id": "oppo_rmx3501",
+      "brand": "Oppo",
+      "model": "Realme C31 RMX3501",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3501_fdl1.bin",
+        "path": "files/fdl/oppo/rmx3501_fdl1.bin",
+        "sha256": "f9b311c6fa8704357ef97a2ee9f596bd1bc47f749df2b2ac2a54e75519f70f13",
+        "size": 59824
+      },
+      "fdl2": {
+        "name": "rmx3501_fdl2.bin",
+        "path": "files/fdl/oppo/rmx3501_fdl2.bin",
+        "sha256": "37306a8209c51ffccd6649839d7b1383b486c16cfa9ad7ae13526bf7d4523731",
+        "size": 930464
+      }
+    },
+    {
+      "id": "oppo_rmx3516",
+      "brand": "Oppo",
+      "model": "Realme Narzo 50A Prime RMX3516",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3516_fdl1.bin",
+        "path": "files/fdl/oppo/rmx3516_fdl1.bin",
+        "sha256": "fcd1057d26fd54e09d5b27fe4df24b3f2fa8d0bc2eb145e346f97cf146fb23fb",
+        "size": 59824
+      },
+      "fdl2": {
+        "name": "rmx3516_fdl2.bin",
+        "path": "files/fdl/oppo/rmx3516_fdl2.bin",
+        "sha256": "ffcd6cd280ee9f91a60d42abdcdec58c95f77bbdee5ecb4bc16c8129a31edf85",
+        "size": 928928
+      }
+    },
+    {
+      "id": "oppo_rmx3235",
+      "brand": "Oppo",
+      "model": "Realme Narzo 50i Prime RMX3235 11-A48",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3235_fdl1.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl1.bin",
+        "sha256": "badd8986ad409886a4546d49f9d6fe89b654b30346e0127f5ad1ddb8cea59869",
+        "size": 59920
+      },
+      "fdl2": {
+        "name": "rmx3235_fdl2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl2.bin",
+        "sha256": "ae13fa406092017c8fb1e4a07ccc7a32d3e3321ac520eb790b4c861aea097db7",
+        "size": 935216
+      }
+    },
+    {
+      "id": "oppo_rmx3235_2",
+      "brand": "Oppo",
+      "model": "Realme Narzo 50i RMX3235",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3235_fdl1_2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl1_2.bin",
+        "sha256": "602e66502584435104d0532f383c75dfc444247677c4076d959985d85cf59a08",
+        "size": 51440
+      },
+      "fdl2": {
+        "name": "rmx3235_fdl2_2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl2_2.bin",
+        "sha256": "b2acd5523681df8d8e6cb386cd55637fd129a0b0e8f32c7f36b4d7a193a81981",
+        "size": 843568
+      }
+    },
+    {
+      "id": "realme_rmx3231",
+      "brand": "Realme",
+      "model": "C11 RMX3231",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3235_fdl1_2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl1_2.bin",
+        "sha256": "602e66502584435104d0532f383c75dfc444247677c4076d959985d85cf59a08",
+        "size": 51440
+      },
+      "fdl2": {
+        "name": "rmx3231_fdl2.bin",
+        "path": "files/fdl/realme/rmx3231_fdl2.bin",
+        "sha256": "2a1ecb19ad37907c0605dbc53de5ae18b13c83bd2d3c4331d0d25ee9445b91c6",
+        "size": 842208
+      }
+    },
+    {
+      "id": "realme_rmx3261",
+      "brand": "Realme",
+      "model": "C21Y RMX3261",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3261_fdl1.bin",
+        "path": "files/fdl/realme/rmx3261_fdl1.bin",
+        "sha256": "a579f48f349e91117a87a379986e5958d82937100b80cc0a59a0bf8750809ee3",
+        "size": 59248
+      },
+      "fdl2": {
+        "name": "rmx3261_fdl2.bin",
+        "path": "files/fdl/realme/rmx3261_fdl2.bin",
+        "sha256": "7641228c3f6754ce7cff4fd331421691ab64dda877f5855f85fe9aa598e71cf8",
+        "size": 888240
+      }
+    },
+    {
+      "id": "realme_rmx3263",
+      "brand": "Realme",
+      "model": "C21Y RMX3263",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3263_fdl1.bin",
+        "path": "files/fdl/realme/rmx3263_fdl1.bin",
+        "sha256": "3971adca17323401d78b01ca6fd2d3258f1814ecb70c439ad5d6e20a46378106",
+        "size": 59248
+      },
+      "fdl2": {
+        "name": "rmx3263_fdl2.bin",
+        "path": "files/fdl/realme/rmx3263_fdl2.bin",
+        "sha256": "00952d274166a0d3cd332a578f37405ebf7cd0bd88fc08236aad3614e98e7d6f",
+        "size": 886960
+      }
+    },
+    {
+      "id": "realme_rmx3269",
+      "brand": "Realme",
+      "model": "C25Y RMX3269 11-A23",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3269_fdl1.bin",
+        "path": "files/fdl/realme/rmx3269_fdl1.bin",
+        "sha256": "df4a97f9f22563194fa7c1a4e9eb9cafbc2f98488826d8394fdeab38f8ac00aa",
+        "size": 59024
+      },
+      "fdl2": {
+        "name": "rmx3269_fdl2.bin",
+        "path": "files/fdl/realme/rmx3269_fdl2.bin",
+        "sha256": "a1a584b4c2b637a7f25d1f948960669bd8501363317d2b89e096ae27391017f1",
+        "size": 874976
+      }
+    },
+    {
+      "id": "realme_rmx3269_2",
+      "brand": "Realme",
+      "model": "C25Y RMX3269 11-A33",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005500",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3269_fdl1_2.bin",
+        "path": "files/fdl/realme/rmx3269_fdl1_2.bin",
+        "sha256": "d6c0d45b99545b1330c93732df13b468e35c552a3f4c97585dfbf219617168ae",
+        "size": 59024
+      },
+      "fdl2": {
+        "name": "rmx3269_fdl2_2.bin",
+        "path": "files/fdl/realme/rmx3269_fdl2_2.bin",
+        "sha256": "824f1c5729a58d371a04e995637d9f3bcc5be858d24c990945d6a3ede0fc54b8",
+        "size": 879200
+      }
+    },
+    {
+      "id": "realme_rmx3581",
+      "brand": "Realme",
+      "model": "C30 RMX3581 11-A41",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3581_fdl1.bin",
+        "path": "files/fdl/realme/rmx3581_fdl1.bin",
+        "sha256": "caf99c05418e8da9ed2fcf61bfc7ff6f7ec0bb41f2ff6081e273965e28a33a01",
+        "size": 59936
+      },
+      "fdl2": {
+        "name": "rmx3581_fdl2.bin",
+        "path": "files/fdl/realme/rmx3581_fdl2.bin",
+        "sha256": "095e8ad94c093877103e6075164eb6ba9dfa0d9fc974edce75f78710a3e8b118",
+        "size": 946240
+      }
+    },
+    {
+      "id": "realme_rmx3581_2",
+      "brand": "Realme",
+      "model": "C30 RMX3581 11-A49",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3581_fdl1_2.bin",
+        "path": "files/fdl/realme/rmx3581_fdl1_2.bin",
+        "sha256": "b0bf4d9e8ffe1d5b72d0ec71cef9fdb867b6ac0d62df74cc3a502af25656c475",
+        "size": 59936
+      },
+      "fdl2": {
+        "name": "rmx3581_fdl2_2.bin",
+        "path": "files/fdl/realme/rmx3581_fdl2_2.bin",
+        "sha256": "f97999fa6ff8c93ad0ce7ac119a38a7e6b14300136ee70b5af1610f2acef3d83",
+        "size": 947488
+      }
+    },
+    {
+      "id": "realme_rmx3690",
+      "brand": "Realme",
+      "model": "C30s RMX3690 12-A24",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3690_fdl1.bin",
+        "path": "files/fdl/realme/rmx3690_fdl1.bin",
+        "sha256": "55fc28b6ec315bcbe8881ffb20fceecf0c41b36f2087407f4cd10362e6bf1484",
+        "size": 51904
+      },
+      "fdl2": {
+        "name": "rmx3690_fdl2.bin",
+        "path": "files/fdl/realme/rmx3690_fdl2.bin",
+        "sha256": "84ebe8459e4dcd9c91390f18996c09cc0bfe7b23fd27077b2879209f6cc25f15",
+        "size": 913744
+      }
+    },
+    {
+      "id": "realme_rmx3501",
+      "brand": "Realme",
+      "model": "C31 RMX3501",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3501_fdl1.bin",
+        "path": "files/fdl/oppo/rmx3501_fdl1.bin",
+        "sha256": "f9b311c6fa8704357ef97a2ee9f596bd1bc47f749df2b2ac2a54e75519f70f13",
+        "size": 59824
+      },
+      "fdl2": {
+        "name": "rmx3501_fdl2.bin",
+        "path": "files/fdl/oppo/rmx3501_fdl2.bin",
+        "sha256": "37306a8209c51ffccd6649839d7b1383b486c16cfa9ad7ae13526bf7d4523731",
+        "size": 930464
+      }
+    },
+    {
+      "id": "realme_rmx3624",
+      "brand": "Realme",
+      "model": "C33 RMX3624",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3624_fdl1.bin",
+        "path": "files/fdl/realme/rmx3624_fdl1.bin",
+        "sha256": "bfe9cf8ca4f6156f3df94f3ea48bf77e056c8822158ee0d305a2e06e536ac46e",
+        "size": 59968
+      },
+      "fdl2": {
+        "name": "rmx3624_fdl2.bin",
+        "path": "files/fdl/realme/rmx3624_fdl2.bin",
+        "sha256": "832c410adc57d645ce0227b23a61d0b02b14cf8feb7da3c8e051da0d5b934f1d",
+        "size": 952864
+      }
+    },
+    {
+      "id": "realme_rmx3511",
+      "brand": "Realme",
+      "model": "C35 RMX3511",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3511_fdl1.bin",
+        "path": "files/fdl/realme/rmx3511_fdl1.bin",
+        "sha256": "361c50639c173a8b5b910c07b6436e655f70e5b74db9f17fa3791ddad63a627e",
+        "size": 59824
+      },
+      "fdl2": {
+        "name": "rmx3511_fdl2.bin",
+        "path": "files/fdl/realme/rmx3511_fdl2.bin",
+        "sha256": "265f1b9b1b4cb6ebc60e8c54cd26ab119973b4e05ae14640d857a9028c08fec1",
+        "size": 938544
+      }
+    },
+    {
+      "id": "realme_c35_rmx3511pu",
+      "brand": "Realme",
+      "model": "C35 RMX3511PU",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "c35_rmx3511pu_fdl1.bin",
+        "path": "files/fdl/realme/c35_rmx3511pu_fdl1.bin",
+        "sha256": "ae89911fb663785997bf640ad7f71f266497f97412f729eae98a0efbfc6b1601",
+        "size": 59712
+      },
+      "fdl2": {
+        "name": "c35_rmx3511pu_fdl2.bin",
+        "path": "files/fdl/realme/c35_rmx3511pu_fdl2.bin",
+        "sha256": "5eae229ca34953c0b46d9c75517893e0e7ede463894549adcfe64b12728c81d1",
+        "size": 924416
+      }
+    },
+    {
+      "id": "realme_rmx3760",
+      "brand": "Realme",
+      "model": "C53 RMX3760",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3760_fdl1.bin",
+        "path": "files/fdl/realme/rmx3760_fdl1.bin",
+        "sha256": "27e50d6934a0c7c9e0cffc21aec654fdee90caa21a100d22dca5434f44475209",
+        "size": 59504
+      },
+      "fdl2": {
+        "name": "rmx3760_fdl2.bin",
+        "path": "files/fdl/realme/rmx3760_fdl2.bin",
+        "sha256": "f35875976f468281a6bc42762eb5c232c644dd44efda61765030be15c6fee661",
+        "size": 1610016
+      }
+    },
+    {
+      "id": "realme_rmx3516",
+      "brand": "Realme",
+      "model": "Narzo 50A Prime RMX3516",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3516_fdl1.bin",
+        "path": "files/fdl/oppo/rmx3516_fdl1.bin",
+        "sha256": "fcd1057d26fd54e09d5b27fe4df24b3f2fa8d0bc2eb145e346f97cf146fb23fb",
+        "size": 59824
+      },
+      "fdl2": {
+        "name": "rmx3516_fdl2.bin",
+        "path": "files/fdl/oppo/rmx3516_fdl2.bin",
+        "sha256": "ffcd6cd280ee9f91a60d42abdcdec58c95f77bbdee5ecb4bc16c8129a31edf85",
+        "size": 928928
+      }
+    },
+    {
+      "id": "realme_rmx3235",
+      "brand": "Realme",
+      "model": "Narzo 50i Prime RMX3235 11-A48",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3235_fdl1.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl1.bin",
+        "sha256": "badd8986ad409886a4546d49f9d6fe89b654b30346e0127f5ad1ddb8cea59869",
+        "size": 59920
+      },
+      "fdl2": {
+        "name": "rmx3235_fdl2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl2.bin",
+        "sha256": "ae13fa406092017c8fb1e4a07ccc7a32d3e3321ac520eb790b4c861aea097db7",
+        "size": 935216
+      }
+    },
+    {
+      "id": "realme_rmx3235_2",
+      "brand": "Realme",
+      "model": "Narzo 50i RMX3235",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "rmx3235_fdl1_2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl1_2.bin",
+        "sha256": "602e66502584435104d0532f383c75dfc444247677c4076d959985d85cf59a08",
+        "size": 51440
+      },
+      "fdl2": {
+        "name": "rmx3235_fdl2_2.bin",
+        "path": "files/fdl/oppo/rmx3235_fdl2_2.bin",
+        "sha256": "b2acd5523681df8d8e6cb386cd55637fd129a0b0e8f32c7f36b4d7a193a81981",
+        "size": 843568
+      }
+    },
+    {
+      "id": "samsung_sm-a035f",
+      "brand": "Samsung",
+      "model": "Galaxy A03 Core U2 (SM-A035F)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sm-a035f_fdl1.bin",
+        "path": "files/fdl/samsung/sm-a035f_fdl1.bin",
+        "sha256": "0f25021d8bc25211dd3439c82946059850dbe5b43766cbbce19d0daea28f651e",
+        "size": 51952
+      },
+      "fdl2": {
+        "name": "sm-a035f_fdl2.bin",
+        "path": "files/fdl/samsung/sm-a035f_fdl2.bin",
+        "sha256": "97ae72c24c688fb228ca95c3d83f9e25bed7718fe16621bff3f16e0f02d1b7fc",
+        "size": 1455264
+      }
+    },
+    {
+      "id": "samsung_sm-a035f_2",
+      "brand": "Samsung",
+      "model": "Galaxy A03 U2 (SM-A035F)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sm-a035f_fdl1_2.bin",
+        "path": "files/fdl/samsung/sm-a035f_fdl1_2.bin",
+        "sha256": "0c17b6d72983a313fee334faba87be5d3c34f227787f35c8c0aec40da4e0f684",
+        "size": 59344
+      },
+      "fdl2": {
+        "name": "sm-a035f_fdl2_2.bin",
+        "path": "files/fdl/samsung/sm-a035f_fdl2_2.bin",
+        "sha256": "4347a0021037fc3d78ada13594bf0ab50001c0815eb189753f150b659c4db367",
+        "size": 2015952
+      }
+    },
+    {
+      "id": "tecno_bc2c",
+      "brand": "Tecno",
+      "model": "Pop 4 (BC2c)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "bc2c_fdl1.bin",
+        "path": "files/fdl/tecno/bc2c_fdl1.bin",
+        "sha256": "039840d02bb00c31bcc4fb61564b8d41686882a62cfdd170b84f8319d632aa55",
+        "size": 34116
+      },
+      "fdl2": {
+        "name": "bc2c_fdl2.bin",
+        "path": "files/fdl/tecno/bc2c_fdl2.bin",
+        "sha256": "1350ff50a62c452964b569de00e90644e89977255a4c5f15458aa25e1af00251",
+        "size": 624004
+      }
+    },
+    {
+      "id": "tecno_bd2",
+      "brand": "Tecno",
+      "model": "Pop 5 (BD2)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "bd2_fdl1.bin",
+        "path": "files/fdl/tecno/bd2_fdl1.bin",
+        "sha256": "66ff2d9dcb3bb11391de0c07b1e6b3d343f5f3120d2a76729bda262fa91fc6d9",
+        "size": 34020
+      },
+      "fdl2": {
+        "name": "bd2_fdl2.bin",
+        "path": "files/fdl/tecno/bd2_fdl2.bin",
+        "sha256": "30096625f90b5e45046f29f49f7bf568b4255993d7adfff946756a350e015772",
+        "size": 765796
+      }
+    },
+    {
+      "id": "tecno_bd2p",
+      "brand": "Tecno",
+      "model": "Pop 5 (BD2p)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "bd2p_fdl1.bin",
+        "path": "files/fdl/tecno/bd2p_fdl1.bin",
+        "sha256": "b3591839151e14a33635c721aa3675aa20d1824a4d83e489eec036eddac1e6db",
+        "size": 33924
+      },
+      "fdl2": {
+        "name": "bd2p_fdl2.bin",
+        "path": "files/fdl/tecno/bd2p_fdl2.bin",
+        "sha256": "420dec84b92694a7ef941ed58ff2dda779f26c64831b9e45910e32b766022261",
+        "size": 769284
+      }
+    },
+    {
+      "id": "tecno_bd1",
+      "brand": "Tecno",
+      "model": "Pop 5 Go (BD1)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "bd2_fdl1.bin",
+        "path": "files/fdl/tecno/bd2_fdl1.bin",
+        "sha256": "66ff2d9dcb3bb11391de0c07b1e6b3d343f5f3120d2a76729bda262fa91fc6d9",
+        "size": 34020
+      },
+      "fdl2": {
+        "name": "bd2_fdl2.bin",
+        "path": "files/fdl/tecno/bd2_fdl2.bin",
+        "sha256": "30096625f90b5e45046f29f49f7bf568b4255993d7adfff946756a350e015772",
+        "size": 765796
+      }
+    },
+    {
+      "id": "tecno_bd4",
+      "brand": "Tecno",
+      "model": "Pop 5 Lte (BD4)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "bd4_fdl1.bin",
+        "path": "files/fdl/tecno/bd4_fdl1.bin",
+        "sha256": "8c7c073ac53dfcbeb2f5702582593ebe0e5c1ec98181fce424db13f44dd9ef91",
+        "size": 51892
+      },
+      "fdl2": {
+        "name": "bd4_fdl2.bin",
+        "path": "files/fdl/tecno/bd4_fdl2.bin",
+        "sha256": "2a44cac239d25ba0de72de775610dda5f5821b5c7ec13d2255079fe6710c17da",
+        "size": 870196
+      }
+    },
+    {
+      "id": "tecno_pr651",
+      "brand": "Tecno",
+      "model": "Spark 7 (PR651)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "pr651_fdl1.bin",
+        "path": "files/fdl/tecno/pr651_fdl1.bin",
+        "sha256": "d0c15942a2897bb52efb86c0f61e1f5ef3eaf441f447345c0f046c55b04ff420",
+        "size": 52292
+      },
+      "fdl2": {
+        "name": "pr651_fdl2.bin",
+        "path": "files/fdl/tecno/pr651_fdl2.bin",
+        "sha256": "6b37d99ef09384c5e0a62f554c52dfaeb2a077eab6f6f2eeba0ec1883e766375",
+        "size": 807636
+      }
+    },
+    {
+      "id": "tecno_pr651e",
+      "brand": "Tecno",
+      "model": "Spark 7 (PR651E)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "pr651_fdl1.bin",
+        "path": "files/fdl/tecno/pr651_fdl1.bin",
+        "sha256": "d0c15942a2897bb52efb86c0f61e1f5ef3eaf441f447345c0f046c55b04ff420",
+        "size": 52292
+      },
+      "fdl2": {
+        "name": "pr651e_fdl2.bin",
+        "path": "files/fdl/tecno/pr651e_fdl2.bin",
+        "sha256": "4b1aac576a5563d9741cf4072b21de480cb199296fb267583e5522edc92bb4bc",
+        "size": 807652
+      }
+    },
+    {
+      "id": "tecno_pr651h",
+      "brand": "Tecno",
+      "model": "Spark 7 (PR651h)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "pr651h_fdl1.bin",
+        "path": "files/fdl/tecno/pr651h_fdl1.bin",
+        "sha256": "03dec8f57a46faa42e7b01fac2ff44cc9ae950d34a0209c1095f3e935cf7e073",
+        "size": 51716
+      },
+      "fdl2": {
+        "name": "pr651h_fdl2.bin",
+        "path": "files/fdl/tecno/pr651h_fdl2.bin",
+        "sha256": "a28adfd9bbe596eb525e92cc1c2474b41564f6a51a7bc27a5e74742162e5d3e2",
+        "size": 784612
+      }
+    },
+    {
+      "id": "tecno_kg5k",
+      "brand": "Tecno",
+      "model": "Spark 8C (KG5k)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "kg5k_fdl1.bin",
+        "path": "files/fdl/tecno/kg5k_fdl1.bin",
+        "sha256": "3a1f2d05634ee2d97daa1a83c29dd47e6e1fcf3e152529399ff500ea0d491974",
+        "size": 59736
+      },
+      "fdl2": {
+        "name": "kg5k_fdl2.bin",
+        "path": "files/fdl/tecno/kg5k_fdl2.bin",
+        "sha256": "93038f8fa45e9922739ebf91623366f4e654eb7fe1c1d850da7235530231c4ba",
+        "size": 945944
+      }
+    },
+    {
+      "id": "tecno_le6h",
+      "brand": "Tecno",
+      "model": "Tenco Pova Neo (LE6h)",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "unassigned_fdl1.bin",
+        "path": "files/fdl/tecno/unassigned_fdl1.bin",
+        "sha256": "50ac09332180b6e199e12a15024343685e1b5da99e3c3cf06cf7b90cd00f0976",
+        "size": 59736
+      },
+      "fdl2": {
+        "name": "unassigned_fdl2.bin",
+        "path": "files/fdl/tecno/unassigned_fdl2.bin",
+        "sha256": "121cca968c3f3f7106f1e8cab157779a7df687e620a2d610a1a210a2cad430eb",
+        "size": 943656
+      }
+    },
+    {
+      "id": "tecno_unassigned",
+      "brand": "Tecno",
+      "model": "unassigned",
+      "platform": "Unisoc / SPD",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "unassigned_fdl1.bin",
+        "path": "files/fdl/tecno/unassigned_fdl1.bin",
+        "sha256": "50ac09332180b6e199e12a15024343685e1b5da99e3c3cf06cf7b90cd00f0976",
+        "size": 59736
+      },
+      "fdl2": {
+        "name": "unassigned_fdl2.bin",
+        "path": "files/fdl/tecno/unassigned_fdl2.bin",
+        "sha256": "121cca968c3f3f7106f1e8cab157779a7df687e620a2d610a1a210a2cad430eb",
+        "size": 943656
+      }
+    },
+    {
+      "id": "unisoc_generic_fdl_candidate_0_fdl",
+      "brand": "Unisoc Generic",
+      "model": "fdl_candidate_0 (fdl)",
+      "platform": "fdl_candidate_0",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "fdl_candidate_0_fdl_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/fdl_candidate_0_fdl_fdl1.bin",
+        "sha256": "1077ec92116eafcb097aedadcb2a94d07b04eb8133b05131bc8d7fc237f815c9",
+        "size": 262272
+      },
+      "fdl2": null
+    },
+    {
+      "id": "unisoc_generic_fdl_candidate_1_fdl",
+      "brand": "Unisoc Generic",
+      "model": "fdl_candidate_1 (fdl)",
+      "platform": "fdl_candidate_1",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "fdl_candidate_1_fdl_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/fdl_candidate_1_fdl_fdl1.bin",
+        "sha256": "300b5413ba9b718b554807e3896ebc33b83c93891226c3555e0637d9e4811270",
+        "size": 262272
+      },
+      "fdl2": null
+    },
+    {
+      "id": "unisoc_generic_fdl_candidate_2_fdl",
+      "brand": "Unisoc Generic",
+      "model": "fdl_candidate_2 (fdl)",
+      "platform": "fdl_candidate_2",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": null,
+      "fdl2": {
+        "name": "fdl_candidate_2_fdl_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/fdl_candidate_2_fdl_fdl2.bin",
+        "sha256": "82fd6e4a821e32426ca94ccd66bd4726006efcce52de2e20d144b12aa0963d9b",
+        "size": 262272
+      }
+    },
+    {
+      "id": "unisoc_generic_fdl_candidate_3_fdl",
+      "brand": "Unisoc Generic",
+      "model": "fdl_candidate_3 (fdl)",
+      "platform": "fdl_candidate_3",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": null,
+      "fdl2": {
+        "name": "fdl_candidate_3_fdl_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/fdl_candidate_3_fdl_fdl2.bin",
+        "sha256": "3e6e24e1d73d7c521330db28ab490e9844fdd409d78690c6efba1b883c6a8be4",
+        "size": 262272
+      }
+    },
+    {
+      "id": "unisoc_generic_fdl_candidate_4_fdl",
+      "brand": "Unisoc Generic",
+      "model": "fdl_candidate_4 (fdl)",
+      "platform": "fdl_candidate_4",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": null,
+      "fdl2": {
+        "name": "fdl_candidate_4_fdl_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/fdl_candidate_4_fdl_fdl2.bin",
+        "sha256": "58179b3b0e97162265f7e2569272fe0044a9196bc506d8610ebcc11a39e92f22",
+        "size": 262272
+      }
+    },
+    {
+      "id": "unisoc_generic_sc7731e_loader",
+      "brand": "Unisoc Generic",
+      "model": "SC7731E (loader)",
+      "platform": "SC7731E",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc7731e_loader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc7731e_loader_fdl1.bin",
+        "sha256": "e874b1603e1d2427ed1b4bc5eb482a0f33f4a5223ca8149382b439dfc90ee6e6",
+        "size": 16698
+      },
+      "fdl2": {
+        "name": "sc7731e_loader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc7731e_loader_fdl2.bin",
+        "sha256": "82b8ac11dd19e8cbbfa832e142f4b0d1f4aefb90ddceccc9717274c3eb742054",
+        "size": 752080
+      }
+    },
+    {
+      "id": "unisoc_generic_sc7731e_preloader",
+      "brand": "Unisoc Generic",
+      "model": "SC7731E (preloader)",
+      "platform": "SC7731E",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc7731e_preloader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc7731e_preloader_fdl1.bin",
+        "sha256": "8819d9c6bbc866de9ef1bb228413749d163648917d868611009c654f92d078dc",
+        "size": 864
+      },
+      "fdl2": {
+        "name": "sc7731e_preloader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc7731e_preloader_fdl2.bin",
+        "sha256": "94f58ce50a09522100f86ec9f967cf75d729bba87b8acde925075cfedcc9f66a",
+        "size": 34146
+      }
+    },
+    {
+      "id": "unisoc_generic_sc9832e_loader",
+      "brand": "Unisoc Generic",
+      "model": "SC9832E (loader)",
+      "platform": "SC9832E",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc9832e_loader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc9832e_loader_fdl1.bin",
+        "sha256": "c0082dbb5582768b8d5e1a98922a708bf33411d912fb128914d29c69e7b23e64",
+        "size": 15531
+      },
+      "fdl2": {
+        "name": "sc9832e_loader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc9832e_loader_fdl2.bin",
+        "sha256": "0eb2667b76eaf1438302ca9e16aa5e33bba9e789d975b369ceea6ad990e9e173",
+        "size": 611776
+      }
+    },
+    {
+      "id": "unisoc_generic_sc9832e_preloader",
+      "brand": "Unisoc Generic",
+      "model": "SC9832E (preloader)",
+      "platform": "SC9832E",
+      "fdl1Addr": "0x00005000",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc9832e_preloader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc9832e_preloader_fdl1.bin",
+        "sha256": "68dab60a4c651bb47b96bc5339737a04103afb495636ea30dd2f896b2251ae31",
+        "size": 896
+      },
+      "fdl2": {
+        "name": "sc9832e_preloader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc9832e_preloader_fdl2.bin",
+        "sha256": "b1d0479f94375bf54a07a1c341dd415b865dc4d722c34aea929010baac9a5ade",
+        "size": 37536
+      }
+    },
+    {
+      "id": "unisoc_generic_sc9863a_loader",
+      "brand": "Unisoc Generic",
+      "model": "SC9863A (loader)",
+      "platform": "SC9863A",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc9863a_loader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a_loader_fdl1.bin",
+        "sha256": "4ae1d8db6538469887abbb1cc7703e477196df671fd5553f41dd7dd9fdd0256e",
+        "size": 131706
+      },
+      "fdl2": {
+        "name": "sc9863a_loader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a_loader_fdl2.bin",
+        "sha256": "8d2a22ddd564794474925fc3d1245d3eac6eaa7c75a0c1e2bbed5e7f4a037f3f",
+        "size": 841232
+      }
+    },
+    {
+      "id": "unisoc_generic_sc9863a_preloader",
+      "brand": "Unisoc Generic",
+      "model": "SC9863A (preloader)",
+      "platform": "SC9863A",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc9863a_preloader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a_preloader_fdl1.bin",
+        "sha256": "10cc821bd40347b5b03747fac5e8804b765fa25d55be6bb305b1b60135185630",
+        "size": 896
+      },
+      "fdl2": {
+        "name": "sc9863a_preloader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a_preloader_fdl2.bin",
+        "sha256": "6a70cd5ad16009aa818c89115284dca39b83972a656f02eff0f51914d212048d",
+        "size": 53085
+      }
+    },
+    {
+      "id": "unisoc_generic_sc9863a64_loader",
+      "brand": "Unisoc Generic",
+      "model": "SC9863A64 (loader)",
+      "platform": "SC9863A64",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc9863a64_loader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a64_loader_fdl1.bin",
+        "sha256": "2d7c3ec22f65d917254222c211b79d257992932cfc5e38f7f1e31ab533091b93",
+        "size": 16064
+      },
+      "fdl2": {
+        "name": "sc9863a64_loader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a64_loader_fdl2.bin",
+        "sha256": "3a5e84a9cb12af1369f08e6f3651c6f07a1bd077e4353ddd5648838c286a44fa",
+        "size": 832368
+      }
+    },
+    {
+      "id": "unisoc_generic_sc9863a64_preloader",
+      "brand": "Unisoc Generic",
+      "model": "SC9863A64 (preloader)",
+      "platform": "SC9863A64",
+      "fdl1Addr": "0x65000800",
+      "fdl2Addr": "0x9EFFFE00",
+      "fdl1": {
+        "name": "sc9863a_preloader_fdl1.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a_preloader_fdl1.bin",
+        "sha256": "10cc821bd40347b5b03747fac5e8804b765fa25d55be6bb305b1b60135185630",
+        "size": 896
+      },
+      "fdl2": {
+        "name": "sc9863a64_preloader_fdl2.bin",
+        "path": "files/fdl/unisoc_generic/sc9863a64_preloader_fdl2.bin",
+        "sha256": "c28ee51f90304221e8772ca4d6a865945c4cb2f8fadd66f4416a4b150652b46c",
+        "size": 51466
+      }
+    }
+  ]
+}
