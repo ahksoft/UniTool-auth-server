@@ -1,0 +1,1602 @@
+{
+  "format": 1,
+  "generated": "2026-11-26T12:54:45",
+  "repo": "https://raw.githubusercontent.com/ahksoft/UniTool-auth-server/testpoints",
+  "stats": {
+    "brands": 5,
+    "images": 198
+  },
+  "brands": [
+    "Oppo",
+    "Other",
+    "Samsung",
+    "Vivo",
+    "Xiaomi"
+  ],
+  "items": [
+    {
+      "id": "oppo_oppo_a11k_vbatt_bat_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A11K VBATT & BAT ID TRACKING",
+      "path": "files/oppo/OPPO_A11K_VBATT_BAT_ID_TRACKING.jpg",
+      "sha256": "adffd4d4c62823f1f88352c766359ea575789252306811c3135d7a126120372e",
+      "size": 232892
+    },
+    {
+      "id": "oppo_oppo_a12_vbat_vsys_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A12 VBAT & VSYS TRACKING",
+      "path": "files/oppo/OPPO_A12_VBAT_VSYS_TRACKING.jpg",
+      "sha256": "3a7a8aeb9036d3e00c270cbfc0dbf82a489e441a76c65618f28fd1a591b87ef0",
+      "size": 232708
+    },
+    {
+      "id": "oppo_oppo_a15_vbat_aux-bat_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A15 VBAT & AUX-BAT ID TRACKING",
+      "path": "files/oppo/OPPO_A15_VBAT_AUX-BAT_ID_TRACKING.jpg",
+      "sha256": "7f1127f245555f53911f5427de6b818fc25992f89168dc822f530c49014aba8c",
+      "size": 244363
+    },
+    {
+      "id": "oppo_oppo_a15s_vbat_aux-bat_id_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A15S VBAT & AUX-BAT ID TRACKING copy",
+      "path": "files/oppo/OPPO_A15S_VBAT_AUX-BAT_ID_TRACKING_copy.jpg",
+      "sha256": "da9b66ba863f0956f3d624de517e98b72ab351a4d523ca26edbc7708005a748a",
+      "size": 236828
+    },
+    {
+      "id": "oppo_oppo_a16_vbat_aux-bat_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A16 VBAT & AUX-BAT ID TRACKING",
+      "path": "files/oppo/OPPO_A16_VBAT_AUX-BAT_ID_TRACKING.jpg",
+      "sha256": "833c95e96b79c7b1d1e47b54efb7facfaba0c7f7d49197ec5fd669242649f56c",
+      "size": 229083
+    },
+    {
+      "id": "oppo_oppo_a16e_vbat_bat_on_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A16E VBAT & BAT ON TRACKING copy",
+      "path": "files/oppo/OPPO_A16E_VBAT_BAT_ON_TRACKING_copy.jpg",
+      "sha256": "e4d19236b7009c0ff67da594f3f486f93dfaec00ffae675fb66d14b797e2c32d",
+      "size": 249798
+    },
+    {
+      "id": "oppo_oppo_a16k_vbat_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A16K VBAT & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A16K_VBAT_BAT_ON_TRACKING.jpg",
+      "sha256": "7fa4f07b3087555d5a1a970b998636e8c3bb0fadffce905efffbc64a37909ca4",
+      "size": 245882
+    },
+    {
+      "id": "oppo_oppo_a16s_vbat_aux-bat_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A16S VBAT & AUX-BAT ID TRACKING",
+      "path": "files/oppo/OPPO_A16S_VBAT_AUX-BAT_ID_TRACKING.jpg",
+      "sha256": "5243ffd8551848919710eb4c4d525f312fd830816480023626db63b313a1eb1d",
+      "size": 229480
+    },
+    {
+      "id": "oppo_oppo_a17_vbat_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A17 VBAT & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A17_VBAT_BAT_ON_TRACKING.jpg",
+      "sha256": "a0592dd1462cd7c3e3fc6e1e95f9e892520f869cbebaf39cf2776f2e920d0636",
+      "size": 232514
+    },
+    {
+      "id": "oppo_oppo_a17k_vbat_vbus_usb_in_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A17K VBAT & VBUS USB IN TRACKING",
+      "path": "files/oppo/OPPO_A17K_VBAT_VBUS_USB_IN_TRACKING.jpg",
+      "sha256": "8d8a6abd6ab2d315ca26d518a6b8a1f015da6c2c0c16f06be558142275d58904",
+      "size": 230625
+    },
+    {
+      "id": "oppo_oppo_a18_cph2591_vbat_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A18 CPH2591 VBAT & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A18_CPH2591_VBAT_BAT_ON_TRACKING.jpg",
+      "sha256": "ce55b222ab16d6c8fab8fef56529f62eac901279f5a2fc118723f5bb864aaaed",
+      "size": 245811
+    },
+    {
+      "id": "oppo_oppo_a18_vbat_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A18 VBAT & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A18_VBAT_BAT_ON_TRACKING.jpg",
+      "sha256": "f480e2641e078e32931fc971343b519d1b0dfd060869a6e1a447d8f7f990a2c1",
+      "size": 207939
+    },
+    {
+      "id": "oppo_oppo_a1k_vbat_vsys_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A1K VBAT & VSYS TRACKING",
+      "path": "files/oppo/OPPO_A1K_VBAT_VSYS_TRACKING.jpg",
+      "sha256": "7318fa6d59017cbb97797009223d2536dcde83a814c39531589f2b2833833936",
+      "size": 240172
+    },
+    {
+      "id": "oppo_oppo_a3_pro_vbat_bat_id_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A3 PRO VBAT BAT ID TRACKING copy",
+      "path": "files/oppo/OPPO_A3_PRO_VBAT_BAT_ID_TRACKING_copy.jpg",
+      "sha256": "5a9054645e1a04cbfcdbb7edbb1ad92f8d79ae68ef5c4111bfe4f9af666cba6e",
+      "size": 220799
+    },
+    {
+      "id": "oppo_oppo_a31_vbat_aux_in2_batid_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A31 VBAT & AUX IN2 BATID TRACKING",
+      "path": "files/oppo/OPPO_A31_VBAT_AUX_IN2_BATID_TRACKING.jpg",
+      "sha256": "39caf460289d471d14b2d095990c797d64a84bf037175a84a86efcc1f079bbd9",
+      "size": 204402
+    },
+    {
+      "id": "oppo_oppo_a32_usb_vbus_batt_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A32 USB VBUS & BATT ID TRACKING",
+      "path": "files/oppo/OPPO_A32_USB_VBUS_BATT_ID_TRACKING.jpg",
+      "sha256": "9d34e93c858f15ce2cec690053358c3d1d0e9f2ea7398ccf65f85117c3b8889f",
+      "size": 204318
+    },
+    {
+      "id": "oppo_oppo_a33_2020_vbat_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A33 2020 VBAT & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A33_2020_VBAT_BAT_ON_TRACKING.jpg",
+      "sha256": "0e7c2a98d4b4bfd45729e8a58d3b9458fcaf8285ea25bc68b5144cecd3b0d752",
+      "size": 207221
+    },
+    {
+      "id": "oppo_oppo_a35_vbat_aux_in3_batid_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A35 VBAT & AUX IN3 BATID TRACKING copy",
+      "path": "files/oppo/OPPO_A35_VBAT_AUX_IN3_BATID_TRACKING_copy.jpg",
+      "sha256": "dce00887a694867147fb5b4d50c0d23cc449d70b54dde6bb7fa348db7ff58af6",
+      "size": 233634
+    },
+    {
+      "id": "oppo_oppo_a37_mediatek_vbato_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A37 MEDIATEK VBATO & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A37_MEDIATEK_VBATO_BAT_ON_TRACKING.jpg",
+      "sha256": "3e4eaebc43b92e2e0bfd2c76d0be0ece84a9bbde3c75d36c5692c0ffe3974b85",
+      "size": 219393
+    },
+    {
+      "id": "oppo_oppo_a38_vbat_baton_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A38 VBAT & BATON TRACKING copy",
+      "path": "files/oppo/OPPO_A38_VBAT_BATON_TRACKING_copy.jpg",
+      "sha256": "ede6ea36dc977cdb7477e77987dac1ccf49b69aeac784fb087c59852dfb53cb0",
+      "size": 204074
+    },
+    {
+      "id": "oppo_oppo_a3x_4g_vbat_bat_therm_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A3X 4G VBAT & BAT THERM TRACKING",
+      "path": "files/oppo/OPPO_A3X_4G_VBAT_BAT_THERM_TRACKING.jpg",
+      "sha256": "a44194b184fbaa8d528db8201c653c12d07f00eb11a5291a3d9582cea0ecd5c5",
+      "size": 208490
+    },
+    {
+      "id": "oppo_oppo_a52_vbat_bat_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A52 VBAT & BAT ID TRACKING",
+      "path": "files/oppo/OPPO_A52_VBAT_BAT_ID_TRACKING.jpg",
+      "sha256": "28912daeaf2340596fee2fc86e9904bd04395f2520b919e61d0eb8f735508a10",
+      "size": 197605
+    },
+    {
+      "id": "oppo_oppo_a53_vbat_batt_id_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A53 VBAT & BATT ID TRACKING",
+      "path": "files/oppo/OPPO_A53_VBAT_BATT_ID_TRACKING.jpg",
+      "sha256": "b67fe3ac7932e8498cb113834f544befd3165640ee34e48be770d7c44b5a7102",
+      "size": 196808
+    },
+    {
+      "id": "oppo_oppo_a53s_5g_vbato_usb_vchr_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A53S 5G VBATO & USB VCHR TRACKING",
+      "path": "files/oppo/OPPO_A53S_5G_VBATO_USB_VCHR_TRACKING.jpg",
+      "sha256": "e3b4c1d3e073ba66df3c4d63db95a3e54f00b60a6d794c2e40372e950e2bf641",
+      "size": 291672
+    },
+    {
+      "id": "oppo_oppo_a54_5g_vbato_vph_pwr_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A54 5G VBATO & VPH PWR TRACKING",
+      "path": "files/oppo/OPPO_A54_5G_VBATO_VPH_PWR_TRACKING.jpg",
+      "sha256": "3d7468f59dbff844b52d62145e50fa706395db1934c9a86543e2dd6d5359802d",
+      "size": 216511
+    },
+    {
+      "id": "oppo_oppo_a54_vbat_vph-pwr_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A54 VBAT & VPH-PWR TRACKING",
+      "path": "files/oppo/OPPO_A54_VBAT_VPH-PWR_TRACKING.jpg",
+      "sha256": "9fde4354fdc382faf2f7bfcea10b03f8677d1ada37ba0fb11bf5743bce20b947",
+      "size": 214770
+    },
+    {
+      "id": "oppo_oppo_a54s_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A54S USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A54S_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "5ebc20da5c937a218ea3772474787cdd8cf8cb8d0789b800f57bfbc30d8d113e",
+      "size": 226306
+    },
+    {
+      "id": "oppo_oppo_a55_5g_vbat_usb_chsrger_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A55 5G VBAT & USB CHSRGER TRACKING copy",
+      "path": "files/oppo/OPPO_A55_5G_VBAT_USB_CHSRGER_TRACKING_copy.jpg",
+      "sha256": "976f83f2b70f5a0b63f1af9d7740885e00c4df686bc64c9cdb3f94881f4a2673",
+      "size": 251410
+    },
+    {
+      "id": "oppo_oppo_a55_vbus_vph_pwr_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A55 VBUS & VPH PWR TRACKING",
+      "path": "files/oppo/OPPO_A55_VBUS_VPH_PWR_TRACKING.jpg",
+      "sha256": "b180980147ede0f983d760630a527b6f38268d9e9730b08377e74df52e592746",
+      "size": 203846
+    },
+    {
+      "id": "oppo_oppo_a55s_vbat_usb_vchr_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A55S VBAT & USB VCHR TRACKING",
+      "path": "files/oppo/OPPO_A55S_VBAT_USB_VCHR_TRACKING.jpg",
+      "sha256": "5496d2460b48b64552d18c7a6cc5a8934b3f4bce65d2ccbf20561af8040c499e",
+      "size": 200662
+    },
+    {
+      "id": "oppo_oppo_a56_5g_vbus_in_vph_pwr_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A56 5G VBUS IN & VPH PWR TRACKING",
+      "path": "files/oppo/OPPO_A56_5G_VBUS_IN_VPH_PWR_TRACKING.jpg",
+      "sha256": "67079df29c775962e8236f109aa978c794c28e71ad7aee3821084408b67aaab6",
+      "size": 229606
+    },
+    {
+      "id": "oppo_oppo_a57_4g_2022_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A57 4G 2022 USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A57_4G_2022_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "e17c29fcba467f708f7e1eccf78d22e6d2c0c1a9908986fbaf3f9caff72adb7f",
+      "size": 177481
+    },
+    {
+      "id": "oppo_oppo_a57_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A57 USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A57_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "1517e4b802de757411b35b3757fb02422a2bcfb70423853a632453348dece469",
+      "size": 198193
+    },
+    {
+      "id": "oppo_oppo_a58_vbus_vbat_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A58 VBUS & VBAT TRACKING",
+      "path": "files/oppo/OPPO_A58_VBUS_VBAT_TRACKING.jpg",
+      "sha256": "5184de258dcc306831339ff3f7804669bf25f22da5c3f496cd329c769f86a562",
+      "size": 177805
+    },
+    {
+      "id": "oppo_oppo_a5s_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A5S USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A5S_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "c4358e76ae246d855cb848b203e9800d4b09aecf4b1a21021d8ee2c0cd19e086",
+      "size": 182882
+    },
+    {
+      "id": "oppo_oppo_a6o_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A6O USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A6O_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "474adaf2f50e6553719cbf35a3796d2e69883190751c15742b5cf181f5643573",
+      "size": 198390
+    },
+    {
+      "id": "oppo_oppo_a7_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A7 USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A7_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "ef75faed3c763778108dcbb8366ba5507f0d8af66d0e037947252da29db4d946",
+      "size": 187880
+    },
+    {
+      "id": "oppo_oppo_a72_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A72 USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A72_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "7922db12db857614aa20b83fbf7a63a1f418191262cc613bf2d0b0c0557eeec2",
+      "size": 196523
+    },
+    {
+      "id": "oppo_oppo_a73_usb_charger_data_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A73 USB CHARGER & DATA TRACKING copy",
+      "path": "files/oppo/OPPO_A73_USB_CHARGER_DATA_TRACKING_copy.jpg",
+      "sha256": "00bc3381dbe0edba9bb4a59c558ac17a078f059d7bae993e87c23b02d458e15f",
+      "size": 209875
+    },
+    {
+      "id": "oppo_oppo_a74_5g_usb_charger_data_tracking_copy_",
+      "brand": "Oppo",
+      "title": "OPPO A74 5G USB CHARGER & DATA TRACKING copy copy",
+      "path": "files/oppo/OPPO_A74_5G_USB_CHARGER_DATA_TRACKING_copy_copy.jpg",
+      "sha256": "0d590fc4ef133022beb3521cb3a8dfcad70e025bc5db681a5e03d527257709b3",
+      "size": 204009
+    },
+    {
+      "id": "oppo_oppo_a74_usb_charger_data_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A74 USB CHARGER & DATA TRACKING copy",
+      "path": "files/oppo/OPPO_A74_USB_CHARGER_DATA_TRACKING_copy.jpg",
+      "sha256": "bff4d19328fca3bbc681fcf08ad890f10a1115971d205b70f0444c363bf0757d",
+      "size": 196535
+    },
+    {
+      "id": "oppo_oppo_a76_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A76 USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A76_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "170c2e064a2dc0c316a1d812cc58ebabb12aaf57659964ab5af6908b7ec1d451",
+      "size": 187820
+    },
+    {
+      "id": "oppo_oppo_a77_4g_usb_charger_data_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A77 4G USB CHARGER & DATA TRACKING",
+      "path": "files/oppo/OPPO_A77_4G_USB_CHARGER_DATA_TRACKING.jpg",
+      "sha256": "132e4a8ced01f1100a56a28f7416822ce5895aa8db79c050b98d09164d869766",
+      "size": 187650
+    },
+    {
+      "id": "oppo_oppo_a77_4g_usb_charger_data_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A77 4G USB CHARGER & DATA TRACKING copy",
+      "path": "files/oppo/OPPO_A77_4G_USB_CHARGER_DATA_TRACKING_copy.jpg",
+      "sha256": "22fe7909e8ec7f4b3f4ced88a05e5be5a1f3f24379c6fcf91f10c185556e2f0c",
+      "size": 187970
+    },
+    {
+      "id": "oppo_oppo_a77s_usb_charger_data_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A77S USB CHARGER & DATA TRACKING copy",
+      "path": "files/oppo/OPPO_A77S_USB_CHARGER_DATA_TRACKING_copy.jpg",
+      "sha256": "739acfdc546d46f7105dcc0dc997e7486f8817fad804233f2f456f0b3a2ee275",
+      "size": 199079
+    },
+    {
+      "id": "oppo_oppo_a78_4g_vbat_vbus_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A78 4G VBAT & VBUS TRACKING",
+      "path": "files/oppo/OPPO_A78_4G_VBAT_VBUS_TRACKING.jpg",
+      "sha256": "057668f5b24891964ef8f2ccb9dd698c03c505d4ce9bf9261da188984ed1dec5",
+      "size": 185534
+    },
+    {
+      "id": "oppo_oppo_a79_vbus_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A79 VBUS & BAT ON TRACKING",
+      "path": "files/oppo/OPPO_A79_VBUS_BAT_ON_TRACKING.jpg",
+      "sha256": "0e980887203124af031c2b7396ba0ef53049b22db8fe617fe50bc411f65bd6c3",
+      "size": 183696
+    },
+    {
+      "id": "oppo_oppo_a8_vbus_usb_in_vbat_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A8 VBUS USB IN & VBAT TRACKING copy",
+      "path": "files/oppo/OPPO_A8_VBUS_USB_IN_VBAT_TRACKING_copy.jpg",
+      "sha256": "394935bf54f56c95e671b0a93758631911e411043e5db2a0168df49fad872b60",
+      "size": 196624
+    },
+    {
+      "id": "oppo_oppo_a80_vbat_vph_pwr_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A80 VBAT & VPH PWR TRACKING copy",
+      "path": "files/oppo/OPPO_A80_VBAT_VPH_PWR_TRACKING_copy.jpg",
+      "sha256": "244764adc12c377ea3a3323d88f3ddd6c7518f5812cd2057f11364202da64a16",
+      "size": 199465
+    },
+    {
+      "id": "oppo_oppo_a9_2020_vbus_in_bat_id_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A9 2020 VBUS IN & BAT ID TRACKING copy",
+      "path": "files/oppo/OPPO_A9_2020_VBUS_IN_BAT_ID_TRACKING_copy.jpg",
+      "sha256": "cdd9f23f2c03c3ba61ee292f11b1444515a6f136882de353bf3fb411a0b554be",
+      "size": 192935
+    },
+    {
+      "id": "oppo_oppo_a91_vbat_vbat_con_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A91 VBAT & VBAT CON TRACKING copy",
+      "path": "files/oppo/OPPO_A91_VBAT_VBAT_CON_TRACKING_copy.jpg",
+      "sha256": "17111a4068c8096d0af7a3a6f697aebb415bb944b91004067ea3f24614c27ad3",
+      "size": 209212
+    },
+    {
+      "id": "oppo_oppo_a92_vbus_in_bat_therm_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A92 VBUS IN & BAT THERM TRACKING copy",
+      "path": "files/oppo/OPPO_A92_VBUS_IN_BAT_THERM_TRACKING_copy.jpg",
+      "sha256": "b1d7aebcd7e1e3e0182e30a816f6e23e67ac854ee6a9c6a514cdcf52abb02c0c",
+      "size": 193192
+    },
+    {
+      "id": "oppo_oppo_a93_vbat_vbus_in_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A93 VBAT & VBUS IN TRACKING copy",
+      "path": "files/oppo/OPPO_A93_VBAT_VBUS_IN_TRACKING_copy.jpg",
+      "sha256": "d4c8167944ddc57d8dc5d454296e75cd4174d7111c38537923e3ff50f66f9696",
+      "size": 200532
+    },
+    {
+      "id": "oppo_oppo_a94_5g_vbat_usb_vchg_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A94 5G VBAT & USB VCHG TRACKING copy",
+      "path": "files/oppo/OPPO_A94_5G_VBAT_USB_VCHG_TRACKING_copy.jpg",
+      "sha256": "7229a88c06ad3e2e2e425d475cc80fac5f82228914d4687c60568c04eaa2ea85",
+      "size": 213947
+    },
+    {
+      "id": "oppo_oppo_a94_vbus_in_bat_id_tracking_copy",
+      "brand": "Oppo",
+      "title": "OPPO A94 VBUS IN & BAT ID TRACKING copy",
+      "path": "files/oppo/OPPO_A94_VBUS_IN_BAT_ID_TRACKING_copy.jpg",
+      "sha256": "05bb049432a659c3f23090fb39135ed19979d44b75b8a5963d080f4c445dd858",
+      "size": 220655
+    },
+    {
+      "id": "oppo_oppo_a95_vbus_usb_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A95 VBUS USB & VBUS IN TRACKING",
+      "path": "files/oppo/OPPO_A95_VBUS_USB_VBUS_IN_TRACKING.jpg",
+      "sha256": "ddab65a9ecb34bd27f8ab56c76db6cc9dd043ea4f2ddcb0b6b745d8a833cbc11",
+      "size": 242204
+    },
+    {
+      "id": "oppo_oppo_a96_vbus_usb_dp_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A96 VBUS & USB DP TRACKING",
+      "path": "files/oppo/OPPO_A96_VBUS_USB_DP_TRACKING.jpg",
+      "sha256": "ddd48887e0ecc9f178eee38d159362b68a6b253853d97de7c83dcad3296d8a87",
+      "size": 213559
+    },
+    {
+      "id": "oppo_oppo_a98_vbat_vbus_usb_con_tracking",
+      "brand": "Oppo",
+      "title": "OPPO A98 VBAT & VBUS USB CON TRACKING",
+      "path": "files/oppo/OPPO_A98_VBAT_VBUS_USB_CON_TRACKING.jpg",
+      "sha256": "edcf90fbc0af46f6bbe28f165fb12126299adf026b44cd986880e21b39541766",
+      "size": 250236
+    },
+    {
+      "id": "oppo_samsung_a01-a015_vbat_vdd_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A01-A015 VBAT&VDD VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A01-A015_VBAT_VDD_VBUS_TRACKING.png",
+      "sha256": "5b2bc48bb74784877cb0e9bfd2f637d6e8c37ab04f2cd412180f54b1222d4705",
+      "size": 553477
+    },
+    {
+      "id": "oppo_samsung_a02-a022_vbus_ovp_vbat_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A02-A022 VBUS OVP&VBAT TRACKING",
+      "path": "files/oppo/SAMSUNG_A02-A022_VBUS_OVP_VBAT_TRACKING.png",
+      "sha256": "3c48200ed1a2770abbc8a3084270c329a006125b66f55128f55a5283d00f8ec6",
+      "size": 478212
+    },
+    {
+      "id": "oppo_samsung_a02s-a025",
+      "brand": "Oppo",
+      "title": "SAMSUNG A02S-A025",
+      "path": "files/oppo/SAMSUNG_A02S-A025.png",
+      "sha256": "fa6353058ca2c5f494bed04fbe0ce029f649133eb9ded15d7fb7e91aeac430e5",
+      "size": 500735
+    },
+    {
+      "id": "oppo_samsung_a03_core-sma032_vbat_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A03 CORE-SMA032 VBAT&VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A03_CORE-SMA032_VBAT_VBUS_TRACKING.png",
+      "sha256": "0f19afdf8d39676ee398fd01ac5524188dae8eff0cca914fe29689665a9ecf97",
+      "size": 410303
+    },
+    {
+      "id": "oppo_samsung_a03-sma035_vbus_in_vbat_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A03-SMA035 VBUS IN&VBAT TRACKING",
+      "path": "files/oppo/SAMSUNG_A03-SMA035_VBUS_IN_VBAT_TRACKING.png",
+      "sha256": "7ded1477576f566647e83aa84e7b9da455c1e22905b3aa8367b04a9a2df77e5d",
+      "size": 609200
+    },
+    {
+      "id": "oppo_samsung_a03s-sm_a037",
+      "brand": "Oppo",
+      "title": "SAMSUNG A03S-SM A037",
+      "path": "files/oppo/SAMSUNG_A03S-SM_A037.png",
+      "sha256": "304f52f0f7c487c7d1f722874f04a19f127cf3570d9afd206d1df1963e480424",
+      "size": 465150
+    },
+    {
+      "id": "oppo_samsung_a04-sm_a045",
+      "brand": "Oppo",
+      "title": "SAMSUNG A04-SM A045",
+      "path": "files/oppo/SAMSUNG_A04-SM_A045.png",
+      "sha256": "59ed47e2ce8fee4c5598ee3c0314d2268c231106a24634ac9cb1607b64a9c25f",
+      "size": 508733
+    },
+    {
+      "id": "oppo_samsung_a04e-sm_a042_vbat_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A04E-SM A042 VBAT&VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A04E-SM_A042_VBAT_VBUS_IN_TRACKING.png",
+      "sha256": "c5d4017f99935dace337a18bc91b4af8b5ee3168c903dd3be29a5c6b1a366297",
+      "size": 543532
+    },
+    {
+      "id": "oppo_samsung_a04s-a047_vbat_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A04S-A047 VBAT&VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A04S-A047_VBAT_VBUS_TRACKING.png",
+      "sha256": "a9d65768e37251111c3fcd6539cf7499eb5c557ceb56968813e33365bcdefdee",
+      "size": 528370
+    },
+    {
+      "id": "oppo_samsung_a05-sm_a055",
+      "brand": "Oppo",
+      "title": "SAMSUNG A05-SM A055",
+      "path": "files/oppo/SAMSUNG_A05-SM_A055.png",
+      "sha256": "2e1334129d9ce2eab4d2c1a459e049facb29599b305fa1a423c3f1aa008cd1cc",
+      "size": 428459
+    },
+    {
+      "id": "oppo_samsung_a05s-sm_a057",
+      "brand": "Oppo",
+      "title": "SAMSUNG A05S-SM A057",
+      "path": "files/oppo/SAMSUNG_A05S-SM_A057.png",
+      "sha256": "b18271c2d5a51ecf4300ba7d79357ab1cf7350c4892817907fd3e73fd5380f3b",
+      "size": 595524
+    },
+    {
+      "id": "oppo_samsung_a06-sm_a065_vbat_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A06-SM A065 VBAT & VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A06-SM_A065_VBAT_VBUS_TRACKING.png",
+      "sha256": "d4c60594a27a4bcd88ade8f74dabd0342bccbce357e655ca4a607c2d462cbfdf",
+      "size": 375498
+    },
+    {
+      "id": "oppo_samsung_a10-sm_a105_vbus_ovp_vbus_con_track",
+      "brand": "Oppo",
+      "title": "SAMSUNG A10-SM A105 VBUS OVP & VBUS CON TRACKING",
+      "path": "files/oppo/SAMSUNG_A10-SM_A105_VBUS_OVP_VBUS_CON_TRACKING.png",
+      "sha256": "ef17c6deb718b4d31242b1515b74db89688614fe83750e57fc2e3256378326d1",
+      "size": 299052
+    },
+    {
+      "id": "oppo_samsung_a10e-sm_a102_vbat_vbus_tracking_cop",
+      "brand": "Oppo",
+      "title": "SAMSUNG A10E-SM A102 VBAT & VBUS TRACKING copy",
+      "path": "files/oppo/SAMSUNG_A10E-SM_A102_VBAT_VBUS_TRACKING_copy.png",
+      "sha256": "ba06923a3f031188efaa394cd4e9a6c1ecc00d05849a714fc055ac8f3861db76",
+      "size": 719123
+    },
+    {
+      "id": "oppo_samsung_a10s-a107_vbat_vbat_id_trackin",
+      "brand": "Oppo",
+      "title": "SAMSUNG A10S-A107 VBAT & VBAT ID TRACKIN",
+      "path": "files/oppo/SAMSUNG_A10S-A107_VBAT_VBAT_ID_TRACKIN.png",
+      "sha256": "070308e5888fe903a9a8b21c758532a3cd2021be2d99c9aaa39fa2de7eb10c46",
+      "size": 455082
+    },
+    {
+      "id": "oppo_samsung_a11-sm_a115",
+      "brand": "Oppo",
+      "title": "SAMSUNG A11-SM A115",
+      "path": "files/oppo/SAMSUNG_A11-SM_A115.png",
+      "sha256": "95850b482800e75a611a4cef2e078b00523607fea562ae3d8e149b4b2b1584b4",
+      "size": 498363
+    },
+    {
+      "id": "oppo_samsung_a12-sm_a125_vbus_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A12-SM A125 VBUS & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A12-SM_A125_VBUS_VBUS_IN_TRACKING.png",
+      "sha256": "3270e3eab294aafab42c484e1b524fb4f751e9348e8ea5931a13b28888092c76",
+      "size": 599589
+    },
+    {
+      "id": "oppo_samsung_a12-sm_a127_bat_id_baton_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A12-SM A127 BAT ID & BATON TRACKING",
+      "path": "files/oppo/SAMSUNG_A12-SM_A127_BAT_ID_BATON_TRACKING.png",
+      "sha256": "d7b50babc895b35a3920ddb025a220fe23408faeed241632a6c0102b66538b2a",
+      "size": 562027
+    },
+    {
+      "id": "oppo_samsung_a13-sm_a135_vbus_vbat_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A13-SM A135 VBUS & VBAT TRACKING",
+      "path": "files/oppo/SAMSUNG_A13-SM_A135_VBUS_VBAT_TRACKING.png",
+      "sha256": "9733e109e940ac3b22537c6facef7bdba8cb91953e7e30a8a0a0406c9128c07f",
+      "size": 516333
+    },
+    {
+      "id": "oppo_samsung_a14_5g-sm_a146",
+      "brand": "Oppo",
+      "title": "SAMSUNG A14 5G-SM A146",
+      "path": "files/oppo/SAMSUNG_A14_5G-SM_A146.png",
+      "sha256": "15ddd5df6d20839b160dabca4ec66bbdf75e4a51cf5dcc7fb6bcaf88864fb96e",
+      "size": 557557
+    },
+    {
+      "id": "oppo_samsung_a14_a146_5g_vcarger_vbat_id_trackin",
+      "brand": "Oppo",
+      "title": "SAMSUNG A14 A146 5G VCARGER & VBAT ID TRACKING",
+      "path": "files/oppo/SAMSUNG_A14_A146_5G_VCARGER_VBAT_ID_TRACKING.png",
+      "sha256": "61bd47b8d9b4326f8f75181414c6a15469ce8748bb0778e24ce691bf0d374f57",
+      "size": 789983
+    },
+    {
+      "id": "oppo_samsung_a14-sm_a145_vbattery_con_vbus_ovp_t",
+      "brand": "Oppo",
+      "title": "SAMSUNG A14-SM A145 VBATTERY CON & VBUS OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A14-SM_A145_VBATTERY_CON_VBUS_OVP_TRACKING.png",
+      "sha256": "ed5b95a319525ca7bba498fc92bdda6a2eddd6412625a61cb72617c9732c4445",
+      "size": 517108
+    },
+    {
+      "id": "oppo_samsung_a14-sm_a146b_vbattery_sr_vbus_ovp_t",
+      "brand": "Oppo",
+      "title": "SAMSUNG A14-SM A146B VBATTERY SR & VBUS OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A14-SM_A146B_VBATTERY_SR_VBUS_OVP_TRACKING.png",
+      "sha256": "acc03a6dd24935889586dd80003671dca5764065d78bd13d17de0615ffae16e5",
+      "size": 517842
+    },
+    {
+      "id": "oppo_samsung_a15_5g-sm-a156e_vbattery-sr_trackin",
+      "brand": "Oppo",
+      "title": "SAMSUNG A15 5G-SM-A156E VBATTERY-SR TRACKING",
+      "path": "files/oppo/SAMSUNG_A15_5G-SM-A156E_VBATTERY-SR_TRACKING.png",
+      "sha256": "977041477868fa7111d981190854a532aba568202bfb442f371e05f4af649366",
+      "size": 556920
+    },
+    {
+      "id": "oppo_samsung_a15-sm-a155_vbattery-sr_vbus_ovp_tr",
+      "brand": "Oppo",
+      "title": "SAMSUNG A15-SM-A155 VBATTERY-SR & VBUS OVP TRACKING copy",
+      "path": "files/oppo/SAMSUNG_A15-SM-A155_VBATTERY-SR_VBUS_OVP_TRACKING_copy.png",
+      "sha256": "c37eafac2145c3c5d68ff50e9234f9c1f6eda91135ba29b98eb69732b0a02cbb",
+      "size": 546507
+    },
+    {
+      "id": "oppo_samsung_a20-sm-a205_vbus_5v_vbattery_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A20-SM-A205 VBUS 5V & VBATTERY TRACKING",
+      "path": "files/oppo/SAMSUNG_A20-SM-A205_VBUS_5V_VBATTERY_TRACKING.png",
+      "sha256": "68d22b673f95d68c190d7bcf69187a5a82a05da6bb6724e3d6108810fb102921",
+      "size": 646743
+    },
+    {
+      "id": "oppo_samsung_a20e-sm-a202_vbattery_vbus_5v_track",
+      "brand": "Oppo",
+      "title": "SAMSUNG A20E-SM-A202 VBATTERY & VBUS 5V TRACKING",
+      "path": "files/oppo/SAMSUNG_A20E-SM-A202_VBATTERY_VBUS_5V_TRACKING.png",
+      "sha256": "dc52c3350a58781666c96e2ad9391842539635d928d5de268e3622fd2894b9f4",
+      "size": 698289
+    },
+    {
+      "id": "oppo_samsung_a20s-sm_a207",
+      "brand": "Oppo",
+      "title": "SAMSUNG A20S-SM A207",
+      "path": "files/oppo/SAMSUNG_A20S-SM_A207.png",
+      "sha256": "6d58305686501175bad56145544def8a2fe06cda8064205946ca3f1be8f8fa2c",
+      "size": 549839
+    },
+    {
+      "id": "oppo_samsung_a21s-sm-a217_vbat_lcd_blaclight_tra",
+      "brand": "Oppo",
+      "title": "SAMSUNG A21S-SM-A217 VBAT & LCD BLACLIGHT TRACKING",
+      "path": "files/oppo/SAMSUNG_A21S-SM-A217_VBAT_LCD_BLACLIGHT_TRACKING.png",
+      "sha256": "2d551eb3f6cf062b277075f52d0c75d19b8fb7e2ac84324326d8a1f1e3ae3c67",
+      "size": 552197
+    },
+    {
+      "id": "oppo_samsung_a22-sm-a226_vbat_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A22-SM-A226 VBAT & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A22-SM-A226_VBAT_VBUS_IN_TRACKING.png",
+      "sha256": "516fc5ea404297012a2b34d972ddc870a78df30c5f6768adc42576ff7138ea9b",
+      "size": 518336
+    },
+    {
+      "id": "oppo_samsung_a23-sm-a235_vbat_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A23-SM-A235 VBAT & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A23-SM-A235_VBAT_VBUS_IN_TRACKING.png",
+      "sha256": "efc4230f2cd48abd6f832c956b59938408d4948a21ad4c97db970dbd6c00035b",
+      "size": 544350
+    },
+    {
+      "id": "oppo_samsung_a23-sm-a236_vbattery_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A23-SM-A236 VBATTERY & VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A23-SM-A236_VBATTERY_VBUS_TRACKING.png",
+      "sha256": "21a69755a3396fa42a56d48292be174366a223e13d4d9d5ba332757843da88b1",
+      "size": 594209
+    },
+    {
+      "id": "oppo_samsung_a24-sm-a245_vbattery_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A24-SM-A245 VBATTERY & VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A24-SM-A245_VBATTERY_VBUS_TRACKING.png",
+      "sha256": "c05cf7279e12b976f52c92d3e0ada06bdbfbc2c312058cc879927088e79436b2",
+      "size": 544717
+    },
+    {
+      "id": "oppo_samsung_a25-sm-a26",
+      "brand": "Oppo",
+      "title": "SAMSUNG A25-SM-A26",
+      "path": "files/oppo/SAMSUNG_A25-SM-A26.png",
+      "sha256": "aba4ef696b5f1b561c19ccc4ac0b9e2fccc03c5e4c7518c1071b90db6a4ab912",
+      "size": 558126
+    },
+    {
+      "id": "oppo_samsung_a30-sm-a305_vbus_vbus_5v_ovp_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A30-SM-A305 VBUS & VBUS 5V OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A30-SM-A305_VBUS_VBUS_5V_OVP_TRACKING.png",
+      "sha256": "d64d71c6590066bd4b38ff6f362ef6c62e9a7c1acb25c66b8b9818cf8294a2a6",
+      "size": 592593
+    },
+    {
+      "id": "oppo_samsung_a30s-sm-a307_vbattery_vbus_5v_track",
+      "brand": "Oppo",
+      "title": "SAMSUNG A30S-SM-A307 VBATTERY & VBUS 5V TRACKING",
+      "path": "files/oppo/SAMSUNG_A30S-SM-A307_VBATTERY_VBUS_5V_TRACKING.png",
+      "sha256": "ceb4fd9db690767b9088d55da7636ac7e797ec4a5ab121da7e1fbecb8893c6c3",
+      "size": 473662
+    },
+    {
+      "id": "oppo_samsung_a31-sm-a315_usb_chg_data_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A31-SM-A315 USB CHG & DATA TRACKING",
+      "path": "files/oppo/SAMSUNG_A31-SM-A315_USB_CHG_DATA_TRACKING.png",
+      "sha256": "196317651f5ae8e4eb2fecc45dd89fa5b18a27315543d9c8bc64a4708e166418",
+      "size": 415777
+    },
+    {
+      "id": "oppo_samsung_a32_lte-sm-e325_vbus_vbus_in_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A32 LTE-SM-E325 VBUS & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A32_LTE-SM-E325_VBUS_VBUS_IN_TRACKING.png",
+      "sha256": "d9e4dd2307de310587c9827035967cb4f1373d44057ad11e0ac1c6f30d4b2791",
+      "size": 448023
+    },
+    {
+      "id": "oppo_samsung_a32-sm-a325_vbus_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A32-SM-A325 VBUS & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A32-SM-A325_VBUS_VBUS_IN_TRACKING.png",
+      "sha256": "ec08f60b8f4438ecd617b59fc25fae1ff696ae75aca1d39e5c975e89cc291de5",
+      "size": 559330
+    },
+    {
+      "id": "oppo_samsung_a32-sm-a325_vbus_vbus_in_tracking_c",
+      "brand": "Oppo",
+      "title": "SAMSUNG A32-SM-A325 VBUS & VBUS IN TRACKING copy",
+      "path": "files/oppo/SAMSUNG_A32-SM-A325_VBUS_VBUS_IN_TRACKING_copy.png",
+      "sha256": "2f8e3d26950de9ed3dc5feea7be2333f9b2965cc033658969d6b697232e3a068",
+      "size": 566114
+    },
+    {
+      "id": "oppo_samsung_a32-sm-a326_vchg_5v_vchg_in_trackin",
+      "brand": "Oppo",
+      "title": "SAMSUNG A32-SM-A326 VCHG 5V & VCHG IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A32-SM-A326_VCHG_5V_VCHG_IN_TRACKING.png",
+      "sha256": "baa5a4ab9d7680f7e9ee284137e18b4aa01f6073674ba934018932d5862df5da",
+      "size": 484290
+    },
+    {
+      "id": "oppo_samsung_a33_5g-sm-a336_vbat_vbus_if_trackin",
+      "brand": "Oppo",
+      "title": "SAMSUNG A33 5G-SM-A336 VBAT & VBUS IF TRACKING",
+      "path": "files/oppo/SAMSUNG_A33_5G-SM-A336_VBAT_VBUS_IF_TRACKING.png",
+      "sha256": "7592bbf93bccb730746b6c0cb28f22a148d584cb8d79a45f99c3547b97b42715",
+      "size": 327808
+    },
+    {
+      "id": "oppo_samsung_a34-sm-a346_vbatter-sr_vbus_trackin",
+      "brand": "Oppo",
+      "title": "SAMSUNG A34-SM-A346 VBATTER-SR & VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A34-SM-A346_VBATTER-SR_VBUS_TRACKING.png",
+      "sha256": "53b6a1f03b3d03248c761b5d17e8ceb15488747221dd5b54deda4d796c3585b1",
+      "size": 637077
+    },
+    {
+      "id": "oppo_samsung_a35_5g-sm-a356b_vbus_ovp_vbattery_t",
+      "brand": "Oppo",
+      "title": "SAMSUNG A35 5G-SM-A356B VBUS OVP & VBATTERY TRACKING",
+      "path": "files/oppo/SAMSUNG_A35_5G-SM-A356B_VBUS_OVP_VBATTERY_TRACKING.png",
+      "sha256": "8f1abaeca9174f1c3567e93190f97f3ab494669866f4a792b75e06d5f9e59203",
+      "size": 569928
+    },
+    {
+      "id": "oppo_samsung_a40-sm-a405_vbattery_vbus_ovp_track",
+      "brand": "Oppo",
+      "title": "SAMSUNG A40-SM-A405 VBATTERY & VBUS OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A40-SM-A405_VBATTERY_VBUS_OVP_TRACKING.png",
+      "sha256": "2b75d231bf551937bc84bf63642d07389fd286def73798dae0c056978f1cdc44",
+      "size": 399666
+    },
+    {
+      "id": "oppo_samsung_a40s-sm-a3050_vbus_5v_vbattery_trac",
+      "brand": "Oppo",
+      "title": "SAMSUNG A40S-SM-A3050 VBUS 5V & VBATTERY TRACKING",
+      "path": "files/oppo/SAMSUNG_A40S-SM-A3050_VBUS_5V_VBATTERY_TRACKING.png",
+      "sha256": "de3b2f513c34c169d3200db23584a1fbbbeaa5a9cb8889078e28ea30864a7d62",
+      "size": 511524
+    },
+    {
+      "id": "oppo_samsung_a40s-sma-3050_vbus_5v_vbattery_trac",
+      "brand": "Oppo",
+      "title": "SAMSUNG A40S-SMA-3050 VBUS 5V & VBATTERY TRACKING",
+      "path": "files/oppo/SAMSUNG_A40S-SMA-3050_VBUS_5V_VBATTERY_TRACKING.png",
+      "sha256": "25b290177080e851edafcee1bb3dc015f8ff74f6ee5b3d4bc26adb396093f179",
+      "size": 511991
+    },
+    {
+      "id": "oppo_samsung_a41-sm-a415_vbata_vbus_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A41-SM-A415 VBATA & VBUS TRACKING",
+      "path": "files/oppo/SAMSUNG_A41-SM-A415_VBATA_VBUS_TRACKING.png",
+      "sha256": "29e7b4cded240a0270a5412e297b73cb36bf737e5924460773053d7d4d6b753f",
+      "size": 428806
+    },
+    {
+      "id": "oppo_samsung_a42_5g-sm-a426_vbus_vbus_ovp_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A42 5G-SM-A426 VBUS & VBUS OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A42_5G-SM-A426_VBUS_VBUS_OVP_TRACKING.png",
+      "sha256": "624ae826b2bac2037f730c8b1c54e102985dbfe39623cb21f2a6b22c1700034d",
+      "size": 648125
+    },
+    {
+      "id": "oppo_samsung_a50-sm-a505_vbus_5v_vbus_0vp_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A50-SM-A505 VBUS 5V & VBUS 0VP TRACKING",
+      "path": "files/oppo/SAMSUNG_A50-SM-A505_VBUS_5V_VBUS_0VP_TRACKING.png",
+      "sha256": "4709570a0fa0ee922a945a8331d518a9b472a8940fc3cc50b37335a40f9b6c59",
+      "size": 514451
+    },
+    {
+      "id": "oppo_samsung_a50s-sm-a507_vbattery_vbus_5v_ovp_t",
+      "brand": "Oppo",
+      "title": "SAMSUNG A50S-SM-A507 VBATTERY & VBUS 5V OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A50S-SM-A507_VBATTERY_VBUS_5V_OVP_TRACKING.png",
+      "sha256": "177676d8afc8424d16941de65206566d978c07751932b6b41660e3d972ff291e",
+      "size": 559425
+    },
+    {
+      "id": "oppo_samsung_a51-sm-a515_vbattery_vbus_if_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A51-SM-A515 VBATTERY & VBUS IF TRACKING",
+      "path": "files/oppo/SAMSUNG_A51-SM-A515_VBATTERY_VBUS_IF_TRACKING.png",
+      "sha256": "bd7d67cd015854af92491da78630ada24e9087ae87292453d79d257b264a88fd",
+      "size": 471300
+    },
+    {
+      "id": "oppo_samsung_a51-sm-a515_vbus_in_5v_vbat_sys_tra",
+      "brand": "Oppo",
+      "title": "SAMSUNG A51-SM-A515 VBUS IN 5V & VBAT SYS TRACKING",
+      "path": "files/oppo/SAMSUNG_A51-SM-A515_VBUS_IN_5V_VBAT_SYS_TRACKING.png",
+      "sha256": "aee806b0b9815f480e621c7d680dc8a1f508c6382d4eb0af778ecfafde27036e",
+      "size": 655085
+    },
+    {
+      "id": "oppo_samsung_a52_5g-sm-a526_vbus_usb_vbus_in_tra",
+      "brand": "Oppo",
+      "title": "SAMSUNG A52 5G-SM-A526 VBUS USB & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A52_5G-SM-A526_VBUS_USB_VBUS_IN_TRACKING.png",
+      "sha256": "010901ad8d6d09066e03e000ffce72c6aa08b93bab6455f157130c27dc76cc28",
+      "size": 573102
+    },
+    {
+      "id": "oppo_samsung_a52-sm-a525_vbat_vbus_in_ovp_tracki",
+      "brand": "Oppo",
+      "title": "SAMSUNG A52-SM-A525 VBAT & VBUS IN OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A52-SM-A525_VBAT_VBUS_IN_OVP_TRACKING.png",
+      "sha256": "deb8b9ee9adeac548cf3868dfc6923060a851ca372aee0885b030ff39c778860",
+      "size": 508222
+    },
+    {
+      "id": "oppo_samsung_a52s-sm-a528_vbat_vph_pwr_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A52S-SM-A528 VBAT & VPH PWR TRACKING",
+      "path": "files/oppo/SAMSUNG_A52S-SM-A528_VBAT_VPH_PWR_TRACKING.png",
+      "sha256": "b3e4c68bcb71990ee8ce269e8105cd4ae9ddbf0ec5d63ec28f5ec9be73ba5648",
+      "size": 433599
+    },
+    {
+      "id": "oppo_samsung_a52sm-a525_vbus_vbus_in_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A52SM-A525 VBUS & VBUS IN TRACKING",
+      "path": "files/oppo/SAMSUNG_A52SM-A525_VBUS_VBUS_IN_TRACKING.png",
+      "sha256": "4e95284dd235c4a65a16cdf603225453627902d882831fceadcc6b1774a45f9b",
+      "size": 411260
+    },
+    {
+      "id": "oppo_samsung_a52ssm-a528_vbats_bat_on_tracking",
+      "brand": "Oppo",
+      "title": "SAMSUNG A52SSM-A528 VBATS & BAT ON TRACKING",
+      "path": "files/oppo/SAMSUNG_A52SSM-A528_VBATS_BAT_ON_TRACKING.jpg",
+      "sha256": "2fe5b1d9f7620ccb70485d4b34351b5cf0f7a6c143e2355d8e083a4d94b7d18c",
+      "size": 227797
+    },
+    {
+      "id": "oppo_samsung_a53_5gsm-a536_vbus_ovp_vbattery_tra",
+      "brand": "Oppo",
+      "title": "SAMSUNG A53 5GSM-A536 VBUS OVP & VBATTERY TRACKING",
+      "path": "files/oppo/SAMSUNG_A53_5GSM-A536_VBUS_OVP_VBATTERY_TRACKING.png",
+      "sha256": "b094396676e0b4ce1dd004d915e6273e95d13ecc15ef3a0ede39a15015e86724",
+      "size": 231151
+    },
+    {
+      "id": "oppo_samsung_a54sm-a546_vbattery_sr_vbus_ovp_tra",
+      "brand": "Oppo",
+      "title": "SAMSUNG A54SM-A546 VBATTERY SR & VBUS OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A54SM-A546_VBATTERY_SR_VBUS_OVP_TRACKING.jpg",
+      "sha256": "4a52e6f1e55b9d60b906ca87fc0ca444fefeb3f88249be4564fc0378001033ad",
+      "size": 262586
+    },
+    {
+      "id": "oppo_samsung_a55sm-a556_vbattery_sr_vbus_ovp_tra",
+      "brand": "Oppo",
+      "title": "SAMSUNG A55SM-A556 VBATTERY SR & VBUS OVP TRACKING",
+      "path": "files/oppo/SAMSUNG_A55SM-A556_VBATTERY_SR_VBUS_OVP_TRACKING.jpg",
+      "sha256": "7c86f68ad138d67a5711630bf725261eb7bf25335bf6505aaf7955a628b87942",
+      "size": 263543
+    },
+    {
+      "id": "other_armani",
+      "brand": "Other",
+      "title": "armani",
+      "path": "files/other/armani.jpg",
+      "sha256": "64880706682a1ffc6f5560826fee3517d512ed31647c791a47f6aa3ab85ee291",
+      "size": 165770
+    },
+    {
+      "id": "other_cancro",
+      "brand": "Other",
+      "title": "cancro",
+      "path": "files/other/cancro.jpg",
+      "sha256": "221dc83262f4545369f7866afa6981dd8c377322c20218753ef209448eee166a",
+      "size": 77998
+    },
+    {
+      "id": "other_capricorn",
+      "brand": "Other",
+      "title": "capricorn",
+      "path": "files/other/capricorn.jpg",
+      "sha256": "c3fe0dd5f7107bd4a09db5b8a5a4871751ef5f9210ba949fcacc28457a57c429",
+      "size": 74087
+    },
+    {
+      "id": "other_chiron",
+      "brand": "Other",
+      "title": "chiron",
+      "path": "files/other/chiron.jpg",
+      "sha256": "1b28ff2e5ee0fde3d1be6271c8df1c1ba27b889d6df6a9bee23abaa2daf38cb9",
+      "size": 145524
+    },
+    {
+      "id": "other_dior",
+      "brand": "Other",
+      "title": "dior",
+      "path": "files/other/dior.jpg",
+      "sha256": "957872a9bc9eb742637cb13d5490bee1843c93ef0c6f8856cef3f751e8faec0b",
+      "size": 85334
+    },
+    {
+      "id": "other_dipper",
+      "brand": "Other",
+      "title": "dipper",
+      "path": "files/other/dipper.jpg",
+      "sha256": "4a3866ef58d83a5a68bab0df5524ce88ec8f9ee49aba9a98eda4049203c6e75b",
+      "size": 159149
+    },
+    {
+      "id": "other_ferrari",
+      "brand": "Other",
+      "title": "ferrari",
+      "path": "files/other/ferrari.jpg",
+      "sha256": "8c2abcea00e1d4ae0054b1b40fdf71acf9689f09369b075e4b185cf62a1b4d8e",
+      "size": 261381
+    },
+    {
+      "id": "other_gemini",
+      "brand": "Other",
+      "title": "gemini",
+      "path": "files/other/gemini.jpg",
+      "sha256": "2501726dd9556c3377d3b008dfb48a6e1a31d29ae00ec97de0a844a313852c81",
+      "size": 158254
+    },
+    {
+      "id": "other_helium",
+      "brand": "Other",
+      "title": "helium",
+      "path": "files/other/helium.jpg",
+      "sha256": "ec144fa5c9ded56ab996daf160f4368a3eccc369e2f7c9bae8d7895eba8e45bb",
+      "size": 117972
+    },
+    {
+      "id": "other_hermes",
+      "brand": "Other",
+      "title": "hermes",
+      "path": "files/other/hermes.png",
+      "sha256": "f078e311339461d92a4dc13e3a255ffc774f92f55e4481ce6ac15bc428976ee4",
+      "size": 49969
+    },
+    {
+      "id": "other_hydrogen",
+      "brand": "Other",
+      "title": "hydrogen",
+      "path": "files/other/hydrogen.jpg",
+      "sha256": "91818c455d4c80325c10d0a565c84b90fcc3f7b91c30abe85006ffb4c97fdcdd",
+      "size": 169766
+    },
+    {
+      "id": "other_jason",
+      "brand": "Other",
+      "title": "jason",
+      "path": "files/other/jason.jpg",
+      "sha256": "a5896366cf66446d22123dc3ace1d5f5a7ae18b29e6b235826c2331de4f16629",
+      "size": 135149
+    },
+    {
+      "id": "other_kate",
+      "brand": "Other",
+      "title": "kate",
+      "path": "files/other/kate.jpg",
+      "sha256": "eb87c0154ddbf8e2bdbf96a051da77b9a37b612119d01bd44fb854b202a275e5",
+      "size": 51698
+    },
+    {
+      "id": "other_kenzo",
+      "brand": "Other",
+      "title": "kenzo",
+      "path": "files/other/kenzo.jpg",
+      "sha256": "df03dd127a46e97bd06ea694dfb9479a871c923b335333b2db45e08e0cc78ccf",
+      "size": 73185
+    },
+    {
+      "id": "other_leo",
+      "brand": "Other",
+      "title": "leo",
+      "path": "files/other/leo.jpg",
+      "sha256": "cd80ee7575b08ba6c4984a3593dab80a136d119589aaf58d2b7877b366e69ff3",
+      "size": 38993
+    },
+    {
+      "id": "other_libra",
+      "brand": "Other",
+      "title": "libra",
+      "path": "files/other/libra.jpg",
+      "sha256": "847e3d981923f0e6197f8f223db955f711ae040549447a387a4d62ea00a4ca1d",
+      "size": 116977
+    },
+    {
+      "id": "other_lithium",
+      "brand": "Other",
+      "title": "lithium",
+      "path": "files/other/lithium.jpg",
+      "sha256": "c172abab6f09bb115530a45e9096166bc5f8784a35995a745f8ea04b3e08b503",
+      "size": 138090
+    },
+    {
+      "id": "other_markw",
+      "brand": "Other",
+      "title": "markw",
+      "path": "files/other/markw.jpg",
+      "sha256": "b832e52e7d655b620a4265a920bc95aa0eb3d7164144ac270ebaef131fb495bb",
+      "size": 135730
+    },
+    {
+      "id": "other_natrium",
+      "brand": "Other",
+      "title": "natrium",
+      "path": "files/other/natrium.jpg",
+      "sha256": "7f92e6e8a6ab7129c547d612ba2d2503b52c75599135ba538cf3974147958985",
+      "size": 75513
+    },
+    {
+      "id": "other_oxygen",
+      "brand": "Other",
+      "title": "oxygen",
+      "path": "files/other/oxygen.jpg",
+      "sha256": "401f3ee862360f3b46a300da401cec8ad75b060db408450ebbcf202a78faa794",
+      "size": 148043
+    },
+    {
+      "id": "other_prada",
+      "brand": "Other",
+      "title": "prada",
+      "path": "files/other/prada.jpg",
+      "sha256": "3ad4eac5aa215b64c3a903c34bbbbefda7e6a2bbd0aaf50079c756f8f532bbe5",
+      "size": 92205
+    },
+    {
+      "id": "other_scorpio",
+      "brand": "Other",
+      "title": "scorpio",
+      "path": "files/other/scorpio.jpg",
+      "sha256": "6eab95ba1dd2db478dc1eb0e4a5f1c67fc127103a6dec1b2b74db810061890a6",
+      "size": 106084
+    },
+    {
+      "id": "other_sirius",
+      "brand": "Other",
+      "title": "sirius",
+      "path": "files/other/sirius.jpg",
+      "sha256": "beb2aabec03ec425fae279b75fda9d014338a8041d0a40824ecfa8ba27d23574",
+      "size": 132968
+    },
+    {
+      "id": "other_taurus",
+      "brand": "Other",
+      "title": "taurus",
+      "path": "files/other/taurus.jpg",
+      "sha256": "dd7490790e3ebf8b239840a875f9ea49f7a6b671267f6723f7a96faf053e7317",
+      "size": 201302
+    },
+    {
+      "id": "other_tissot_tiffany",
+      "brand": "Other",
+      "title": "tissot,tiffany",
+      "path": "files/other/tissot_tiffany.jpg",
+      "sha256": "40029a6ee45b2c3efe2ac1c97ab7965e6b86c5467a578131ac75ef3dd1501f7c",
+      "size": 135215
+    },
+    {
+      "id": "other_virgo",
+      "brand": "Other",
+      "title": "virgo",
+      "path": "files/other/virgo.jpg",
+      "sha256": "a9719f8ad3fe7c3a2f154b80daf0069344d82518d0106927e7cb0ffe548a147c",
+      "size": 67211
+    },
+    {
+      "id": "other_wayne",
+      "brand": "Other",
+      "title": "wayne",
+      "path": "files/other/wayne.jpg",
+      "sha256": "fd9a0c66e03af14d9462addeb525d0c1424f042b6e4ebd8b0d3c1550a28482c4",
+      "size": 141068
+    },
+    {
+      "id": "samsung_samsung_m01-sm-m015_vbat_vdd_vbus_tracki",
+      "brand": "Samsung",
+      "title": "SAMSUNG M01-SM-M015 VBAT & VDD VBUS TRACKING",
+      "path": "files/samsung/SAMSUNG_M01-SM-M015_VBAT_VDD_VBUS_TRACKING.jpg",
+      "sha256": "ad124d85552a798730ffb6633e2d020ec3835493528242337979c9d098edafab",
+      "size": 216925
+    },
+    {
+      "id": "samsung_samsung_m02-sm-m022_vbat_bat_id_tracking",
+      "brand": "Samsung",
+      "title": "SAMSUNG M02-SM-M022 VBAT & BAT ID TRACKING",
+      "path": "files/samsung/SAMSUNG_M02-SM-M022_VBAT_BAT_ID_TRACKING.jpg",
+      "sha256": "c919bea6328cf93299e27ca796b5c7f467c38f2e3262becfa3678e6cb33ba119",
+      "size": 220865
+    },
+    {
+      "id": "samsung_samsung_m10_sm-m105_vbattery_vbus_5v_tra",
+      "brand": "Samsung",
+      "title": "SAMSUNG M10 SM-M105 VBATTERY & VBUS 5V TRACKING",
+      "path": "files/samsung/SAMSUNG_M10_SM-M105_VBATTERY_VBUS_5V_TRACKING.jpg",
+      "sha256": "9ad7a6194a91e4d0993392ac3acc578df11bdb93a0c9b8076d7fc90a88c02ae3",
+      "size": 183493
+    },
+    {
+      "id": "samsung_samsung_m10_sm105_vbus_ovp_tracking",
+      "brand": "Samsung",
+      "title": "SAMSUNG M10 SM105 VBUS OVP TRACKING",
+      "path": "files/samsung/SAMSUNG_M10_SM105_VBUS_OVP_TRACKING.png",
+      "sha256": "c3a309ea596da95666356ff0eecb8ac49224c499cc01f8272bfda0bca8539c1c",
+      "size": 212517
+    },
+    {
+      "id": "samsung_samsung_m11-sm-m115_vbat_bat_id_tracking",
+      "brand": "Samsung",
+      "title": "SAMSUNG M11-SM-M115 VBAT & BAT ID TRACKING",
+      "path": "files/samsung/SAMSUNG_M11-SM-M115_VBAT_BAT_ID_TRACKING.png",
+      "sha256": "dd372340b6157b596745bd2f94d7a8e307fca27a02224a8b9f0cf7f938217d47",
+      "size": 472456
+    },
+    {
+      "id": "samsung_samsung_m12-sm-m125_vbat_vbus_in_trackin",
+      "brand": "Samsung",
+      "title": "SAMSUNG M12-SM-M125 VBAT & VBUS IN TRACKING",
+      "path": "files/samsung/SAMSUNG_M12-SM-M125_VBAT_VBUS_IN_TRACKING.jpg",
+      "sha256": "50e51efc593a41bd3507e7d93d3564a5d291db8f5842bcf08edef3bb49e67f0f",
+      "size": 237998
+    },
+    {
+      "id": "samsung_samsung_m13-sm-m135_vbattery_con_bat_id_",
+      "brand": "Samsung",
+      "title": "SAMSUNG M13-SM-M135 VBATTERY CON & BAT ID TRACKING",
+      "path": "files/samsung/SAMSUNG_M13-SM-M135_VBATTERY_CON_BAT_ID_TRACKING.jpg",
+      "sha256": "0d3683cf3242557b54a1f30f0055adcf980bd8589123068bf6c9345d79c600a3",
+      "size": 249954
+    },
+    {
+      "id": "samsung_samsung_m14_sm146_vbattery_sr_tracking",
+      "brand": "Samsung",
+      "title": "SAMSUNG M14 SM146 VBATTERY SR TRACKING",
+      "path": "files/samsung/SAMSUNG_M14_SM146_VBATTERY_SR_TRACKING.png",
+      "sha256": "0bd3bda654392b7fef0ece0ce0af6effb94604ba7499afb44b4312be74c09f30",
+      "size": 632308
+    },
+    {
+      "id": "samsung_samsung_m14-sm-m146_vbattery_vph_pwr_tra",
+      "brand": "Samsung",
+      "title": "SAMSUNG M14-SM-M146 VBATTERY & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M14-SM-M146_VBATTERY_VPH_PWR_TRACKING.jpg",
+      "sha256": "37afc811f68a72414305fbaafbf7b1c9792273af7f03d1d1d6c7aa6268ae4d95",
+      "size": 228976
+    },
+    {
+      "id": "samsung_samsung_m20_sm205_vbattery_tracking",
+      "brand": "Samsung",
+      "title": "SAMSUNG M20 SM205 VBATTERY TRACKING",
+      "path": "files/samsung/SAMSUNG_M20_SM205_VBATTERY_TRACKING.png",
+      "sha256": "0cdb25aca5b2fc5f2f93461655096a161fb83697750a3a991084e11e5f42aaa7",
+      "size": 205405
+    },
+    {
+      "id": "samsung_samsung_m20sm-m205_vbattery_vbat_3.7v_tr",
+      "brand": "Samsung",
+      "title": "SAMSUNG M20SM-M205 VBATTERY & VBAT 3.7V TRACKING",
+      "path": "files/samsung/SAMSUNG_M20SM-M205_VBATTERY_VBAT_3.7V_TRACKING.png",
+      "sha256": "4860852130578bcb35573e9902b710c1bea7bb621caf7ac5f336f686d89bc43d",
+      "size": 309104
+    },
+    {
+      "id": "samsung_samsung_m21-sm-m215_vbattery_vbat_sys_tr",
+      "brand": "Samsung",
+      "title": "SAMSUNG M21-SM-M215 VBATTERY & VBAT SYS TRACKING",
+      "path": "files/samsung/SAMSUNG_M21-SM-M215_VBATTERY_VBAT_SYS_TRACKING.jpg",
+      "sha256": "996743fdec8b82127754b338b84fa3a2456f5792cdbafd8b06fa43fc7b0a08c1",
+      "size": 254240
+    },
+    {
+      "id": "samsung_samsung_m21-sm-m215f_vbattery_vph_pwr_tr",
+      "brand": "Samsung",
+      "title": "SAMSUNG M21-SM-M215F VBATTERY & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M21-SM-M215F_VBATTERY_VPH_PWR_TRACKING.jpg",
+      "sha256": "9382bb23a65f56d0030d4d8fcb1b14a9519eeafa768a07fba8620693165f6fed",
+      "size": 230242
+    },
+    {
+      "id": "samsung_samsung_m22_sm-m225_vbat_vph_pwr_trackin",
+      "brand": "Samsung",
+      "title": "SAMSUNG M22 SM-M225 VBAT & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M22_SM-M225_VBAT_VPH_PWR_TRACKING.jpg",
+      "sha256": "5c1f512be4c6cdf35676f0e76a5614f8df323c2bb0a822d68f5bc0d8b8d8e4b1",
+      "size": 8096734
+    },
+    {
+      "id": "samsung_samsung_m23-sm-236_vbattery_bat_id_track",
+      "brand": "Samsung",
+      "title": "SAMSUNG M23-SM-236 VBATTERY & BAT ID TRACKING",
+      "path": "files/samsung/SAMSUNG_M23-SM-236_VBATTERY_BAT_ID_TRACKING.jpg",
+      "sha256": "08df0ce2771b6bbb3d5c8fe0e4e15d8be6a75ffee238fe5cb8318559f1f58710",
+      "size": 250896
+    },
+    {
+      "id": "samsung_samsung_m30-sm-m305_vbattery_vph_pwr_tra",
+      "brand": "Samsung",
+      "title": "SAMSUNG M30-SM-M305 VBATTERY & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M30-SM-M305_VBATTERY_VPH_PWR_TRACKING.jpg",
+      "sha256": "786fd12635f860b8751925c679c2dd2bc4fcd4f24da6d68204ab0ed0e0bdc1c9",
+      "size": 228435
+    },
+    {
+      "id": "samsung_samsung_m30s-sm-m307_vbattery_bat-thm_tr",
+      "brand": "Samsung",
+      "title": "SAMSUNG M30S-SM-M307 VBATTERY & BAT-THM TRACKING",
+      "path": "files/samsung/SAMSUNG_M30S-SM-M307_VBATTERY_BAT-THM_TRACKING.jpg",
+      "sha256": "5ec09f501779bd02c3c80c9966924c5d9b0d56b62993e6bcd48f0d2ca8328408",
+      "size": 234212
+    },
+    {
+      "id": "samsung_samsung_m31-sm-315_vbattery_vbus_if_5v_t",
+      "brand": "Samsung",
+      "title": "SAMSUNG M31-SM-315 VBATTERY & VBUS IF 5V TRACKING",
+      "path": "files/samsung/SAMSUNG_M31-SM-315_VBATTERY_VBUS_IF_5V_TRACKING.jpg",
+      "sha256": "ea65aa0f5328498f0662989fd707f2c65bc169b8c8c2850c47d187f7cedd80fe",
+      "size": 267415
+    },
+    {
+      "id": "samsung_samsung_m31s-sm-m317_vbus_vbus_ovp_track",
+      "brand": "Samsung",
+      "title": "SAMSUNG M31S-SM-M317 VBUS & VBUS OVP TRACKING",
+      "path": "files/samsung/SAMSUNG_M31S-SM-M317_VBUS_VBUS_OVP_TRACKING.jpg",
+      "sha256": "edad840afe321cce4e7696bb27fe977eb3217337f5c3065dd3265d15417413ca",
+      "size": 271898
+    },
+    {
+      "id": "samsung_samsung_m32-sm-m325_vbat_vph_pwr_trackin",
+      "brand": "Samsung",
+      "title": "SAMSUNG M32-SM-M325 VBAT & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M32-SM-M325_VBAT_VPH_PWR_TRACKING.jpg",
+      "sha256": "e19c506ecdc6d2046696f2133d75ca436be1f88fab18a4a26e4bddfe2ab0f355",
+      "size": 212853
+    },
+    {
+      "id": "samsung_samsung_m33-sm-m336_vbatter_bat_id_track",
+      "brand": "Samsung",
+      "title": "SAMSUNG M33-SM-M336 VBATTER & BAT ID TRACKING",
+      "path": "files/samsung/SAMSUNG_M33-SM-M336_VBATTER_BAT_ID_TRACKING.jpg",
+      "sha256": "5cbbbec10e891b2bc8e6b4ff923ebcf7acc90402c50c6465332d76b105e00af5",
+      "size": 266776
+    },
+    {
+      "id": "samsung_samsung_m34_5g-sm-m346_vbat_con_vph_pwr_",
+      "brand": "Samsung",
+      "title": "SAMSUNG M34 5G-SM-M346 VBAT CON & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M34_5G-SM-M346_VBAT_CON_VPH_PWR_TRACKING.jpg",
+      "sha256": "13367bfca653a190478c728acbbcdca0ba7a154689972d904017363b73d44934",
+      "size": 274447
+    },
+    {
+      "id": "samsung_samsung_m51-sm-m515_vbat_vph_pwr_trackin",
+      "brand": "Samsung",
+      "title": "SAMSUNG M51-SM-M515 VBAT & VPH PWR TRACKING",
+      "path": "files/samsung/SAMSUNG_M51-SM-M515_VBAT_VPH_PWR_TRACKING.jpg",
+      "sha256": "c02d1145ac62d478960ba1ea536b993754b63fae60d6de108b91076c87ae4e55",
+      "size": 273681
+    },
+    {
+      "id": "samsung_samsung_m52_5g-_sm-m526_vbattery_sr_bat_",
+      "brand": "Samsung",
+      "title": "SAMSUNG M52 5G- SM-M526 VBATTERY SR & BAT ID1 TRACKING",
+      "path": "files/samsung/SAMSUNG_M52_5G-_SM-M526_VBATTERY_SR_BAT_ID1_TRACKING.jpg",
+      "sha256": "6a266b54572adc355cb1347e3cae8fc8a9193ac345bc3bc152237f6ccd783db0",
+      "size": 213103
+    },
+    {
+      "id": "samsung_samsung_m54-sm-546b_vbattery_vbus_ovp_tr",
+      "brand": "Samsung",
+      "title": "SAMSUNG M54-SM-546B VBATTERY & VBUS OVP TRACKING copy",
+      "path": "files/samsung/SAMSUNG_M54-SM-546B_VBATTERY_VBUS_OVP_TRACKING_copy.jpg",
+      "sha256": "7a709a6af135b3af8d35fae3f3c17baba29fe7287936c96c27ca978d0cb0dea5",
+      "size": 248041
+    },
+    {
+      "id": "samsung_sanmsung_m12-sm-127_vbattery_sr_vbus_in_",
+      "brand": "Samsung",
+      "title": "SANMSUNG M12-SM-127 VBATTERY SR & VBUS IN TRACKING",
+      "path": "files/samsung/SANMSUNG_M12-SM-127_VBATTERY_SR_VBUS_IN_TRACKING.jpg",
+      "sha256": "a36aa0558cad23f0f7d28d1cce1c2fe1e5c74e7f7503e6a7102c7429d78e2dcf",
+      "size": 279852
+    },
+    {
+      "id": "samsung_sanmsung_m12-sm-127_vbattery_sr_vbus_in_",
+      "brand": "Samsung",
+      "title": "SANMSUNG M12-SM-127 VBATTERY SR & VBUS IN TRACKING copy",
+      "path": "files/samsung/SANMSUNG_M12-SM-127_VBATTERY_SR_VBUS_IN_TRACKING_copy.jpg",
+      "sha256": "c080cbaa8e28860a2def2f08f821cde7949bdc5468233443b8cb6ddebbec3afe",
+      "size": 186722
+    },
+    {
+      "id": "vivo_vivo_y100_wifi",
+      "brand": "Vivo",
+      "title": "VIVO Y100 WIFI",
+      "path": "files/vivo/VIVO_Y100_WIFI.png",
+      "sha256": "eab52313b22ae08c8d82dae45b16718d3eac7eb8124945f017c1606d8f57f26c",
+      "size": 787121
+    },
+    {
+      "id": "vivo_vivo_y27_vbus_vbat",
+      "brand": "Vivo",
+      "title": "VIVO Y27 VBUS & VBAT",
+      "path": "files/vivo/VIVO_Y27_VBUS_VBAT.png",
+      "sha256": "ed771ca46cec26a3ac9d72f309889e104fecb602efd562ca8fa491dcdc5980c8",
+      "size": 712057
+    },
+    {
+      "id": "vivo_vivo_y28_vbus_in_bat_id_tracking",
+      "brand": "Vivo",
+      "title": "VIVO Y28 VBUS IN&BAT ID TRACKING",
+      "path": "files/vivo/VIVO_Y28_VBUS_IN_BAT_ID_TRACKING.png",
+      "sha256": "6366c8fd68da384012f876a327c4a1c4d67caf3ff99227fc5374d4a4be6f2aa6",
+      "size": 466017
+    },
+    {
+      "id": "vivo_vivo_y30_pd1987_vbat_bat_id_tracking",
+      "brand": "Vivo",
+      "title": "VIVO Y30 PD1987 VBAT&BAT ID TRACKING",
+      "path": "files/vivo/VIVO_Y30_PD1987_VBAT_BAT_ID_TRACKING.png",
+      "sha256": "a8629132f01d0ba066e49194419bd364bf8c93a283f57216343b9ca0393d540f",
+      "size": 618423
+    },
+    {
+      "id": "vivo_vivo_y50_pd1965_vbat_bat_therm_tracking",
+      "brand": "Vivo",
+      "title": "VIVO Y50 PD1965 VBAT&BAT THERM TRACKING",
+      "path": "files/vivo/VIVO_Y50_PD1965_VBAT_BAT_THERM_TRACKING.png",
+      "sha256": "ec49ecbd78e69cf5085658f8f255ddb341c0c4fe415df13b4023dfb5143bf52a",
+      "size": 484600
+    },
+    {
+      "id": "vivo_vivo_y55_pd1613_vbat_usb_charger_tracking",
+      "brand": "Vivo",
+      "title": "VIVO Y55 PD1613 VBAT&USB CHARGER TRACKING",
+      "path": "files/vivo/VIVO_Y55_PD1613_VBAT_USB_CHARGER_TRACKING.png",
+      "sha256": "d864116f717a3744a019ff649ea099e20e6b9f64f834880b77f91d01c431985e",
+      "size": 568486
+    },
+    {
+      "id": "vivo_vivo_y91_pd1818_vbat_vph_pwr_tracking",
+      "brand": "Vivo",
+      "title": "VIVO Y91 PD1818 VBAT&VPH PWR TRACKING",
+      "path": "files/vivo/VIVO_Y91_PD1818_VBAT_VPH_PWR_TRACKING.png",
+      "sha256": "a6f6a18babc33ee728406a1db067ee0040fdcf4ca9b7a2360d435a817b13cb25",
+      "size": 711754
+    },
+    {
+      "id": "vivo_vivo_y93_pd1818g_vbus_usb_in_bat_id_trackin",
+      "brand": "Vivo",
+      "title": "VIVO Y93 PD1818G VBUS USB IN&BAT ID TRACKING",
+      "path": "files/vivo/VIVO_Y93_PD1818G_VBUS_USB_IN_BAT_ID_TRACKING.png",
+      "sha256": "4b83e60e946934df1f381076aea81257a9c34ac4129ccc49053e2f58a5b3c27a",
+      "size": 508557
+    },
+    {
+      "id": "vivo_vovo_y100_lcd_blacklight_tracking",
+      "brand": "Vivo",
+      "title": "VOVO Y100 LCD BLACKLIGHT TRACKING",
+      "path": "files/vivo/VOVO_Y100_LCD_BLACKLIGHT_TRACKING.png",
+      "sha256": "a5ed28e56ec7491f16f64cdc789616d7145e49869b434f8c851adf2bbdebc99d",
+      "size": 224939
+    },
+    {
+      "id": "xiaomi_mi4",
+      "brand": "Xiaomi",
+      "title": "Mi4",
+      "path": "files/xiaomi/Mi4.jpg",
+      "sha256": "7e7c753ed7a67afc0a8ddc3fc330b8522bdd0fedeb06975753cf2f65bf5b3891",
+      "size": 97413
+    },
+    {
+      "id": "xiaomi_xiaomi_mi_6_sagit",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Mi 6 sagit",
+      "path": "files/xiaomi/Xiaomi_Mi_6_sagit.jpg",
+      "sha256": "239f38667ac60e1f9ebdded7d81aeb88f1c6cfa9bbdae92ab0ebf28c46f7214f",
+      "size": 128120
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_2",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 2",
+      "path": "files/xiaomi/Xiaomi_Redmi_2.jpg",
+      "sha256": "6c7034e9c609014ea706c9c964299845ed227913d44cecb65cd8307f66ede8cd",
+      "size": 123189
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_3_ido",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 3 ido",
+      "path": "files/xiaomi/Xiaomi_Redmi_3_ido.jpg",
+      "sha256": "7b0b0c9b716504076d457ea8449bab1eb40011cf3fb69665a3c079d80e91d05f",
+      "size": 148560
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_3s_land",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 3S land",
+      "path": "files/xiaomi/Xiaomi_Redmi_3S_land.jpg",
+      "sha256": "6e4c6be254294af8596792d68e577f17a87b072dcbd6b5210d80b1c5cfaacc99",
+      "size": 110041
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_4a_rolex",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 4A rolex",
+      "path": "files/xiaomi/Xiaomi_Redmi_4A_rolex.jpg",
+      "sha256": "64adc3798bd1c3cdd61204cc47ed8bf305b8f25ef3cbcdc93f0b8d04a94e2110",
+      "size": 142265
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_4x_santoni",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 4X santoni",
+      "path": "files/xiaomi/Xiaomi_Redmi_4X_santoni.jpg",
+      "sha256": "c1c767d4991245b6659dd70f9d03c6c8db8a592bbb2844937b1cde4dbf202731",
+      "size": 167223
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_5_plus_vince",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 5 Plus vince",
+      "path": "files/xiaomi/Xiaomi_Redmi_5_Plus_vince.jpg",
+      "sha256": "fd41542693911963684826f271824015e949647f2f425d1ce475d1a08b9f9398",
+      "size": 142284
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_5_rosy",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 5 rosy",
+      "path": "files/xiaomi/Xiaomi_Redmi_5_rosy.jpg",
+      "sha256": "aa09c6876a3d3c0c7014e3f45c6b07accc8e81f52ffe7d388e826b7f689bf835",
+      "size": 171730
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_5a_riva",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 5A riva",
+      "path": "files/xiaomi/Xiaomi_Redmi_5A_riva.jpg",
+      "sha256": "f9d2b6dd5ed99bf416c48109e4e9c995094ca747050d0ab024acf55b32bd5049",
+      "size": 149298
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_6_pro",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi 6 Pro",
+      "path": "files/xiaomi/Xiaomi_Redmi_6_Pro.png",
+      "sha256": "023a3b9493bef919171330c9599028645daa59dbae78f9a785250dff153ce5fd",
+      "size": 736195
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_note_10_mojito",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi Note 10 Mojito",
+      "path": "files/xiaomi/Xiaomi_Redmi_Note_10_Mojito.png",
+      "sha256": "95d70f942636106fec85df00516ce409162e36d5d6a1c87712e7e969967e8f72",
+      "size": 709564
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_note_4_mido",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi Note 4 mido",
+      "path": "files/xiaomi/Xiaomi_Redmi_Note_4_mido.jpg",
+      "sha256": "a5c6b069558d464033de5df186fabb395c19944e0b8f5754a045a76c8c48c2c1",
+      "size": 148008
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_note_5_pro_whyred",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi Note 5 Pro whyred",
+      "path": "files/xiaomi/Xiaomi_Redmi_Note_5_Pro_whyred.jpg",
+      "sha256": "c71318d52db7e7cd492f227eecc8aee2d4bdec141defea9176ea81e7aa1d36d7",
+      "size": 156581
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_note_5a",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi Note 5A",
+      "path": "files/xiaomi/Xiaomi_Redmi_Note_5A.jpg",
+      "sha256": "6b68e734e26ae21a999ce46018f72e12e525dd3aa69090ae1e5341fa5b34bf18",
+      "size": 137687
+    },
+    {
+      "id": "xiaomi_xiaomi_redmi_s2",
+      "brand": "Xiaomi",
+      "title": "Xiaomi Redmi S2",
+      "path": "files/xiaomi/Xiaomi_Redmi_S2.png",
+      "sha256": "8b0a037c24be4e0f5b0d96dad9a376bfce98526cbc841cf464c8736c3037400f",
+      "size": 277825
+    }
+  ]
+}
