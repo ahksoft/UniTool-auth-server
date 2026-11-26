@@ -2,13 +2,13 @@ name: Merge meta
 
 on:
   push:
-    branches: [main]
+    branches: [mtk]
     paths:
       - "meta/**/*.meta.yml"
       - ".github/scripts/merge_meta.py"
       - ".github/workflows/merge-meta.yml"
   pull_request:
-    branches: [main]
+    branches: [mtk]
     paths:
       - "meta/**/*.meta.yml"
       - ".github/scripts/merge_meta.py"
@@ -41,7 +41,7 @@ jobs:
           path: meta.json
 
       - name: Commit updated meta.json
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'push' && github.ref == 'refs/heads/mtk'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
